@@ -1,0 +1,234 @@
+Kinesis Telematics & Dashcam - Individual Trips - K HC 5474/Frie,,,,,,,
+,,,,,,,
+Date,Start Time,End Time,Start Location,End Location,Drive Time (h:m:),Stopped Time (h:m:),Distance Travelled (kilometres)
+,,,,,,,
+02-21-22,-,-,-,-,-,-,-
+,,,,,,,
+02-22-22,11:26,14:36,"Montanusstraße 4, 51065 Köln, Deutschland","Mathildenstraße 16, 51149 Köln, Deutschland",3:10,0:00,88.3
+,14:38,16:11,"Mathildenstraße 16, 51149 Köln, Deutschland","Robertstraße 5, 51105 Köln, Deutschland",1:32,0:01,40.6
+,16:17,16:28,"Robertstraße 5, 51105 Köln, Deutschland","Schuy, Poll-Vingster Str, 51105 Köln, Deutschland",0:10,0:06,3.3
+,16:52,17:02,"Schuy, Poll-Vingster Str, 51105 Köln, Deutschland","Claudiastraße 2, 51149 Köln, Deutschland",0:10,0:24,4.2
+,17:31,18:28,"Claudiastraße 2, 51149 Köln, Deutschland","Krankenhaus Porz am Rhein, Ensener Leinpfad, 51149 Köln, Deutschland",0:56,0:28,41.2
+,18:54,19:00,"Krankenhaus Porz am Rhein, Ensener Leinpfad, 51149 Köln, Deutschland","Urbacher Weg 14, 51149 Köln, Deutschland",0:06,0:26,0.9
+,19:00,19:28,"Urbacher Weg 14, 51149 Köln, Deutschland","Rather Str 2b, 51149 Köln, Deutschland",0:27,0:00,13.7
+,19:28,19:48,"Rather Str 2b, 51149 Köln, Deutschland","Montanusstraße 2, 51065 Köln, Deutschland",0:19,0:00,7.8
+,19:58,19:59,"Montanusstraße 4, 51065 Köln, Deutschland","Montanusstraße 4, 51065 Köln, Deutschland",0:01,0:10,0.0
+Daily Totals:,11:26,19:59,,,6:55,1:37,200.1
+,,,,,,,
+02-23-22,09:21,09:31,"Montanusstraße 4, 51065 Köln, Deutschland","Jet, Clevischer Ring 49, 51063 Köln, Deutschland",0:10,0:00,2.5
+,09:36,10:37,"Jet, Clevischer Ring 49, 51063 Köln, Deutschland","Claudiastraße 2, 51149 Köln, Deutschland",1:00,0:05,24.6
+,10:45,11:14,"Claudiastraße 2, 51149 Köln, Deutschland","Deutz-Kalker Str 1, 50679 Köln, Deutschland",0:28,0:08,9.7
+,11:15,11:18,"Arena Kiosk, Justinianstraße 2, 50679 Köln, Deutschland","Opladener Str, 50679 Köln, Deutschland",0:03,0:00,0.5
+,11:18,11:29,"Östliche Zubringerstraße, 50679 Köln, Deutschland","Buchforststraße 132, 51103 Köln, Deutschland",0:10,0:00,3.1
+,11:29,11:36,"Buchforststraße 132, 51103 Köln, Deutschland","Benjaminstraße 22, 50679 Köln, Deutschland",0:07,0:00,4.2
+,11:37,12:06,"Benjaminstraße 22, 50679 Köln, Deutschland","Kölner Str 251, 51149 Köln, Deutschland",0:28,0:00,13.4
+,12:32,13:03,"Kölner Str 251, 51149 Köln, Deutschland","Ring-Karree, Im Klapperhof, 50672 Köln, Deutschland",0:30,0:26,13.4
+,13:03,13:05,"Ring-Karree, Im Klapperhof, 50672 Köln, Deutschland","Kaiser-Wilhelm-Ring 25, 50672 Köln, Deutschland",0:02,0:00,0.4
+,13:05,13:46,"Regus Business Center - Kaiser-Wilhelm-Ring, Kaiser-Wilhelm-Ring 27-29, 50672 Köln, Deutschland","Kölner Str 248, 51149 Köln, Deutschland",0:41,0:00,20.1
+,13:47,13:48,"Kölner Str, 51149 Köln, Deutschland","Am Westhover Berg 41, 51149 Köln, Deutschland",0:01,0:00,0.3
+,13:59,14:00,"Am Westhover Berg 41, 51149 Köln, Deutschland","Stollwerckstraße 12-14, 51149 Köln, Deutschland",0:01,0:10,0.1
+,14:19,14:20,"Stollwerckstraße 12-14, 51149 Köln, Deutschland","ALDI Süd, Stollwerckstraße 6, 51149 Köln, Deutschland",0:01,0:18,0.0
+,14:39,14:56,"Stollwerckstraße 12-14, 51149 Köln, Deutschland","Brühler Str 291, 50968 Köln, Deutschland",0:17,0:19,9.7
+,14:56,15:01,"Brühler Str 289, 50968 Köln, Deutschland","Raderthaler Str 12, 50968 Köln, Deutschland",0:04,0:00,0.9
+,15:01,15:02,"Raderthaler Str 12, 50968 Köln, Deutschland","Raderthaler Str 12, 50968 Köln, Deutschland",0:01,0:00,0.0
+,15:03,15:05,"Raderthaler Str 12, 50968 Köln, Deutschland","Brühler Str, 50968 Köln, Deutschland",0:01,0:00,0.3
+,15:05,15:21,"Raderthalgürtel, 50968 Köln, Deutschland","LANXESS arena, Willy-Brandt-Pl, 50679 Köln, Deutschland",0:15,0:00,7.1
+,15:21,15:38,"LANXESS arena, Willy-Brandt-Pl, 50679 Köln, Deutschland","Frankfurter Str 540h, 51145 Köln, Deutschland",0:17,0:00,13.6
+,15:40,16:24,"Shell, Frankfurter Str, 51145 Köln, Deutschland","Kölner Str 251, 51149 Köln, Deutschland",0:44,0:01,24.2
+,16:44,19:12,"Kölner Str 251, 51149 Köln, Deutschland","Montanusstraße 41, 51065 Köln, Deutschland",2:28,0:19,81.5
+,19:12,19:13,"Montanusstraße 41, 51065 Köln, Deutschland","Montanusstraße 41, 51065 Köln, Deutschland",0:01,0:00,0.0
+Daily Totals:,9:21,19:13,,,8:00,1:52,229.6
+,,,,,,,
+02-24-22,09:22,11:39,"Montanusstraße 12, 51065 Köln, Deutschland","Severinstraße 52c, 50678 Köln, Deutschland",2:16,0:00,43.0
+,11:39,11:39,"Severinstraße 52c, 50678 Köln, Deutschland","Severinstraße 52c, 50678 Köln, Deutschland",0:00,0:00,0.0
+,11:39,11:51,"Severinstraße 52c, 50678 Köln, Deutschland","Konrad-Adenauer-Ufer, 50668 Köln, Deutschland",0:12,0:00,3.7
+,11:51,12:11,"Goldgasse, 50668 Köln, Deutschland","Weyerstraßerweg 113, 50969 Köln, Deutschland",0:19,0:00,7.3
+,12:11,12:15,"Weyerstraßerweg 113, 50969 Köln, Deutschland","Weißhausstraße 46, 50939 Köln, Deutschland",0:03,0:00,0.6
+,12:15,12:48,"Weißhausstraße 50, 50939 Köln, Deutschland","Bonnstraße 157, 50354 Hürth, Deutschland",0:32,0:00,14.9
+,12:48,12:52,"Bonnstraße 159, 50354 Hürth, Deutschland","Pastor-Krombach-Str 2, 50354 Hürth, Deutschland",0:04,0:00,2.2
+,12:53,13:39,"Eintrachtstraße 2, 50354 Hürth, Deutschland","Barbarossaplatz, Pfälzer Str, 50674 Köln, Deutschland",0:45,0:00,33.8
+,13:39,13:54,"Barbarossaplatz, 50674 Köln, Deutschland","Montanusstraße 9, 51065 Köln, Deutschland",0:15,0:00,7.8
+,14:34,14:44,"Rüdesheimer Str 41, 51065 Köln, Deutschland","Vischeringstraße 18, 51067 Köln, Deutschland",0:10,0:39,3.3
+,14:47,15:05,"Vischeringstraße 17, 51067 Köln, Deutschland","In der Auen 80, 51427 Refrath, Deutschland",0:18,0:02,11.8
+,15:14,15:37,"Immanuel-Kant-Str 1, 51427 Refrath, Deutschland","Tunisstraße, 50667 Köln, Deutschland",0:23,0:08,15.2
+,15:37,15:42,"Tunisstraße, 50667 Köln, Deutschland","Rothgerberbach 4, 50676 Köln, Deutschland",0:05,0:00,1.6
+,15:42,15:43,"Rothgerberbach 6, 50676 Köln, Deutschland","Rothgerberbach 6, 50676 Köln, Deutschland",0:01,0:00,0.0
+,15:44,15:47,"Rothgerberbach 6, 50676 Köln, Deutschland","Am Weidenbach 22, 50676 Köln, Deutschland",0:03,0:00,0.4
+,15:49,15:50,"Pantaleonswall 23, 50676 Köln, Deutschland","Salierring 20-24, 50677 Köln, Deutschland",0:01,0:01,0.1
+,15:50,16:09,"Am Duffesbach, 50677 Köln, Deutschland","Eifelwall 56, 50674 Köln, Deutschland",0:18,0:00,5.1
+,16:10,16:15,"Eifelwall 56, 50674 Köln, Deutschland","Universität zu Köln, Rurstraße, 50937 Köln, Deutschland",0:04,0:00,1.4
+,16:22,18:13,"Universität zu Köln, Rurstraße, 50937 Köln, Deutschland","Jet, Clevischer Ring 49, 51063 Köln, Deutschland",1:51,0:06,23.5
+,18:16,21:09,"Clevischer Ring 49, 51063 Köln, Deutschland","Erkermühle, Rather Mauspfad, 51109 Köln, Deutschland",2:52,0:02,72.4
+,21:09,00:45,"Erker Mühle, Rather Mauspfad, Köln, Deutschland","Auf dem Paulsacker, 50829 Köln, Deutschland",3:35,0:00,112.9
+Daily Totals:,9:22,0:45,,,14:16,1:06,360.9
+,,,,,,,
+02-25-22,00:45,04:32,"Auf dem Paulsacker, 50829 Köln, Deutschland","Aral, Mülheimer Zubringer 140, 51063 Köln, Deutschland",3:47,0:00,132.5
+,04:33,07:17,"Aral, Mülheimer Zubringer 140, 51063 Köln, Deutschland","Montanusstraße 7, 51065 Köln, Deutschland",2:43,0:01,133.5
+,09:38,10:26,"Montanusstraße 7, 51065 Köln, Deutschland","Ökomarkt Köln, Rudolfplatz, 50674 Köln, Deutschland",0:48,2:20,25.5
+,10:26,10:41,"Ökomarkt Köln, Rudolfplatz, 50674 Köln, Deutschland","Venloer Str 155, 50823 Köln, Deutschland",0:15,0:00,5.0
+,10:41,10:45,"Venloer Str, 50823 Köln, Deutschland","Venloer Str 25, 50672 Köln, Deutschland",0:03,0:00,0.7
+,10:45,10:47,"Venloer Str 23, 50672 Köln, Deutschland","Friesenplatz, Hohenzollernring, 50672 Köln, Deutschland",0:01,0:00,0.3
+,10:47,10:52,"Beauty am Ring, Friesenplatz, 50672 Köln, Deutschland","Cäcilienstraße, 50676 Köln, Deutschland",0:04,0:00,1.6
+,10:52,10:58,"Cäcilienstraße, 50676 Köln, Deutschland","Aral, Siegburger Str 116a, 50679 Köln, Deutschland",0:06,0:00,3.0
+,11:04,11:19,"Aral, Siegburger Str 116a, 50679 Köln, Deutschland","Erlanger Str 22, 51103 Köln, Deutschland",0:14,0:05,5.5
+,11:19,13:13,"Erlanger Str 1, 51103 Köln, Deutschland","wash'n'drive, Raststätte Ohligser Heide West, 42697 Solingen, Deutschland",1:53,0:00,118.8
+,13:15,14:25,"wash'n'drive, Raststätte Ohligser Heide West, 42697 Solingen, Deutschland","Am Springborn 7, 51063 Köln, Deutschland",1:09,0:02,44.5
+,14:25,14:44,"Am Springborn 7, 51063 Köln, Deutschland","Auf dem Brand 4, 50667 Köln, Deutschland",0:18,0:00,11.8
+,14:44,14:54,"Auf dem Brand 4, 50667 Köln, Deutschland","Hansaring, 50670 Köln, Deutschland",0:09,0:00,2.1
+,14:54,16:03,"Am Kümpchenshof, 50670 Köln, Deutschland","Montanusstraße 9, 51065 Köln, Deutschland",1:09,0:00,24.9
+,16:36,16:52,"Montanusstraße 9, 51065 Köln, Deutschland","Cäcilienstraße, 50667 Köln, Deutschland",0:15,0:33,5.9
+,16:52,18:01,"Cäcilienstraße, 50667 Köln, Deutschland","Clevischer Ring 51, 51063 Köln, Deutschland",1:08,0:00,28.4
+,18:07,21:46,"Clevischer Ring 51, 51063 Köln, Deutschland","Aachener Str 116, 50674 Köln, Deutschland",3:39,0:05,90.7
+,21:47,22:31,"Aachener Str 116, 50674 Köln, Deutschland","Total, Holzmarkt 49, 50676 Köln, Deutschland",0:44,0:00,24.7
+,22:54,23:58,"Kleine Witschgasse, 50676 Köln, Deutschland","Josef-Boschbach-Weg, 51107 Köln, Deutschland",1:03,0:23,29.5
+,23:59,02:19,"Josef-Boschbach-Weg, 51107 Köln, Deutschland","Taepperweg 6, 50769 Köln, Deutschland",2:19,0:00,64.5
+Daily Totals:,0:45,2:19,,,21:57,3:36,753.2
+,,,,,,,
+02-26-22,02:19,05:35,"Taepperweg, 50769 Köln, Deutschland","Düsseldorfer Str 76, 51063 Köln, Deutschland",3:15,0:00,126.5
+,05:36,05:37,"Düsseldorfer Str 86a, 51063 Köln, Deutschland","Düsseldorfer Str 86a, 51063 Köln, Deutschland",0:01,0:00,0.0
+,14:14,14:25,"Düsseldorfer Str 86, 51063 Köln, Deutschland","Clevischer Ring 49, 51063 Köln, Deutschland",0:10,8:37,2.5
+,14:27,14:39,"Clevischer Ring 51, 51063 Köln, Deutschland","Opladener Str, 50679 Köln, Deutschland",0:11,0:02,5.0
+,14:39,14:42,"Opladener Str, 50679 Köln, Deutschland","Mindener Str, 50679 Köln, Deutschland",0:02,0:00,0.6
+,14:43,14:48,"Mindener Str, 50679 Köln, Deutschland","Neumarktgalerie, Neumarkt 2-4, 50667 Köln, Deutschland",0:04,0:00,2.1
+,14:48,15:02,"Neumarktgalerie, Neumarkt 2-4, 50667 Köln, Deutschland","Stolberger Str 84, 50933 Köln, Deutschland",0:14,0:00,4.4
+,15:03,15:17,"Stolberger Str 84, 50933 Köln, Deutschland","Jean-Claude-Letist-Pl, 50674 Köln, Deutschland",0:13,0:01,3.2
+,15:18,15:20,"Lindenstraße 48, 50674 Köln, Deutschland","Lindenstraße 58, 50674 Köln, Deutschland",0:01,0:01,0.0
+,15:20,15:28,"Lindenstraße 62, 50674 Köln, Deutschland","Heumarkt, 50667 Köln, Deutschland",0:07,0:00,2.5
+,15:29,15:35,"Heumarkt, 50667 Köln, Deutschland","Kleine Witschgasse, 50676 Köln, Deutschland",0:05,0:01,1.2
+,15:35,15:42,"Kleine Witschgasse, 50676 Köln, Deutschland","Filzengraben, 50676 Köln, Deutschland",0:06,0:00,2.0
+,15:42,15:44,"Filzengraben 2b, 50676 Köln, Deutschland","Heumarkt, 50667 Köln, Deutschland",0:01,0:00,0.2
+,15:44,15:47,"Heumarkt, 50667 Köln, Deutschland","Auenweg, 50679 Köln, Deutschland",0:03,0:00,1.2
+,15:47,17:02,"Auenweg, 50679 Köln, Deutschland","Pellenzstraße 8, 50823 Köln, Deutschland",1:14,0:00,79.7
+,17:55,21:46,"Pellenzstraße 13, 50823 Köln, Deutschland","PSA 1717, Breslauer Pl, 50668 Köln, Deutschland",3:50,0:52,84.9
+,22:02,01:24,"Coeur Cologne, Breslauer Pl, 50668 Köln, Deutschland","Pferdestatue, Industriestraße, 50996 Köln, Deutschland",3:21,0:16,142.5
+Daily Totals:,2:19,1:24,,,13:07,9:57,458.3
+,,,,,,,
+02-27-22,01:24,05:48,"Pferdestatue, Industriestraße, 50996 Köln, Deutschland","Rüdesheimer Str 41, 51065 Köln, Deutschland",4:24,0:00,131.2
+,05:50,05:51,"Montanusstraße 9, 51065 Köln, Deutschland","Montanusstraße 9, 51065 Köln, Deutschland",0:01,0:01,0.0
+,05:55,08:33,"Montanusstraße 9, 51065 Köln, Deutschland","Venloer Str 155, 50823 Köln, Deutschland",2:38,0:03,115.1
+,08:33,09:23,"Innere Kanalstraße, 50672 Köln, Deutschland","Eck-Apotheke, Frankfurter Str, 51065 Köln, Deutschland",0:50,0:00,26.7
+,09:24,09:28,"Eck-Apotheke, Frankfurter Str, 51065 Köln, Deutschland","Rüdesheimer Str 31, 51065 Köln, Deutschland",0:03,0:00,0.8
+,15:58,16:10,"Rüdesheimer Str 39, 51065 Köln, Deutschland","Düsseldorfer Str 76, 51063 Köln, Deutschland",0:11,6:30,2.4
+,18:26,18:27,"Düsseldorfer Str 84a, 51063 Köln, Deutschland","Düsseldorfer Str 84a, 51063 Köln, Deutschland",0:01,2:16,0.0
+,18:27,18:35,"Düsseldorfer Str 84a, 51063 Köln, Deutschland","Clevischer Ring 49, 51063 Köln, Deutschland",0:07,0:00,2.1
+,18:39,18:56,"Clevischer Ring 49, 51063 Köln, Deutschland","Aral, Riehler Str 12-14, 50668 Köln, Deutschland",0:17,0:03,5.8
+,18:57,18:59,"Aral, Riehler Str 12-14, 50668 Köln, Deutschland","Aral, Riehler Str 12-14, 50668 Köln, Deutschland",0:01,0:00,0.0
+,19:04,19:07,"Aral, Riehler Str 12-14, 50668 Köln, Deutschland","Aral, Riehler Str 12-14, 50668 Köln, Deutschland",0:03,0:05,0.1
+,19:20,20:50,"Aral, Riehler Str 12-14, 50668 Köln, Deutschland","Nußbaumerstraße 17a, 50823 Köln, Deutschland",1:30,0:13,40.4
+,20:51,23:52,"Nußbaumerstraße 17a, 50823 Köln, Deutschland","Haubrich-Forum, Josef-Haubrich-Hof, 50676 Köln, Deutschland",3:00,0:00,105.0
+,23:59,01:15,"Fleischmengergasse 51, 50676 Köln, Deutschland","Düsseldorfer Str 45, 51063 Köln, Deutschland",1:16,0:07,25.5
+Daily Totals:,1:24,1:15,,,14:28,9:22,455.0
+,,,,,,,
+02-28-22,01:15,01:16,"Düsseldorfer Str 45, 51063 Köln, Deutschland","Düsseldorfer Str 45, 51063 Köln, Deutschland",0:01,0:00,0.0
+,01:45,06:25,"Düsseldorfer Str 72, 51063 Köln, Deutschland","Düsseldorfer Str 72, 51063 Köln, Deutschland",4:40,0:28,233.2
+,06:26,06:27,"Düsseldorfer Str 72, 51063 Köln, Deutschland","Düsseldorfer Str 72, 51063 Köln, Deutschland",0:01,0:01,0.0
+Daily Totals:,1:15,6:27,,,4:42,0:29,233.2
+,,,,,,,
+03-01-22,12:15,12:39,"Düsseldorfer Str 72, 51063 Köln, Deutschland","Funk-Electronic Piciorgros, Claudiastraße 5, 51149 Köln, Deutschland",0:24,0:00,15.9
+,12:46,12:47,"Funk-Electronic Piciorgros, Claudiastraße 5, 51149 Köln, Deutschland","Funk-Electronic Piciorgros, Claudiastraße 5, 51149 Köln, Deutschland",0:01,0:06,0.0
+,12:50,12:51,"Funk-Electronic Piciorgros, Claudiastraße 5, 51149 Köln, Deutschland","Funk-Electronic Piciorgros, Claudiastraße 5, 51149 Köln, Deutschland",0:01,0:03,0.0
+,12:54,12:55,"Funk-Electronic Piciorgros, Claudiastraße 5, 51149 Köln, Deutschland","Funk-Electronic Piciorgros, Claudiastraße 5, 51149 Köln, Deutschland",0:01,0:02,0.0
+,12:55,13:00,"Funk-Electronic Piciorgros, Claudiastraße 5, 51149 Köln, Deutschland","Kölner Str 251, 51149 Köln, Deutschland",0:04,0:00,0.6
+,13:05,13:06,"Kölner Str 251, 51149 Köln, Deutschland","Kölner Str 251, 51149 Köln, Deutschland",0:01,0:04,0.0
+,13:07,13:08,"Kölner Str 251, 51149 Köln, Deutschland","Kölner Str 251, 51149 Köln, Deutschland",0:01,0:00,0.0
+,13:15,13:16,"Kölner Str 251, 51149 Köln, Deutschland","Kölner Str 251, 51149 Köln, Deutschland",0:01,0:07,0.0
+,13:23,13:25,"Kölner Str 251, 51149 Köln, Deutschland","Kölner Str 251, 51149 Köln, Deutschland",0:02,0:06,0.0
+,13:25,13:26,"Kölner Str 251, 51149 Köln, Deutschland","Kölner Str 251, 51149 Köln, Deutschland",0:01,0:00,0.0
+,13:52,14:00,"Kölner Str 251, 51149 Köln, Deutschland","Kölner Str 259, 51149 Köln, Deutschland",0:07,0:25,0.3
+,14:00,14:01,"Kölner Str 259, 51149 Köln, Deutschland","Kölner Str 259, 51149 Köln, Deutschland",0:01,0:00,0.0
+,14:13,14:14,"Kölner Str 259, 51149 Köln, Deutschland","Kölner Str 259, 51149 Köln, Deutschland",0:01,0:11,0.0
+,14:47,15:11,"Kölner Str 259, 51149 Köln, Deutschland","Düsseldorfer Str 84a, 51063 Köln, Deutschland",0:23,0:33,10.4
+,19:32,20:47,"Düsseldorfer Str 86, 51063 Köln, Deutschland","Düsseldorfer Str 491, 51061 Köln, Deutschland",1:14,4:21,41.4
+,20:49,23:55,"Düsseldorfer Str 491, 51061 Köln, Deutschland","Von-Lohe-Str 5, 51063 Köln, Deutschland",3:06,0:01,70.4
+Daily Totals:,12:15,23:55,,,5:33,6:06,139.0
+,,,,,,,
+03-02-22,00:00,00:01,"Von-Lohe-Str 5, 51063 Köln, Deutschland","Von-Lohe-Str 5, 51063 Köln, Deutschland",0:01,0:00,0.0
+,09:41,09:42,"Von-Lohe-Str 5, 51063 Köln, Deutschland","Von-Lohe-Str 5, 51063 Köln, Deutschland",0:01,9:39,0.0
+,09:43,10:05,"Von-Lohe-Str 6, 51063 Köln, Deutschland","Claudiastraße 3b, 51149 Köln, Deutschland",0:22,0:00,11.5
+,10:44,10:45,"Claudiastraße 3b, 51149 Köln, Deutschland","Claudiastraße 3b, 51149 Köln, Deutschland",0:01,0:38,0.0
+,11:09,11:11,"Claudiastraße 3b, 51149 Köln, Deutschland","Claudiastraße 3b, 51149 Köln, Deutschland",0:01,0:24,0.0
+,11:21,11:24,"Claudiastraße 3b, 51149 Köln, Deutschland","Claudiastraße 9, 51149 Köln, Deutschland",0:03,0:09,0.3
+,11:56,12:08,"Claudiastraße 9, 51149 Köln, Deutschland","Funk-Electronic Piciorgros, Claudiastraße 5, 51149 Köln, Deutschland",0:11,0:31,0.4
+,15:34,15:36,"Funk-Electronic Piciorgros, Claudiastraße 5, 51149 Köln, Deutschland","Funk-Electronic Piciorgros, Claudiastraße 5, 51149 Köln, Deutschland",0:02,3:26,0.0
+,15:43,15:53,"Claudiastraße 3b, 51149 Köln, Deutschland","Ostheimer Str 212, 51107 Köln, Deutschland",0:09,0:06,5.1
+,15:53,15:58,"Ostheimer Str 212, 51107 Köln, Deutschland","Pauline-Christmann-Str 3a, 51107 Köln, Deutschland",0:05,0:00,1.5
+,16:00,16:01,"Pauline-Christmann-Str 3a, 51107 Köln, Deutschland","Pauline-Christmann-Str 3a, 51107 Köln, Deutschland",0:01,0:01,0.0
+,16:02,16:05,"Pauline-Christmann-Str 3a, 51107 Köln, Deutschland","Jet, Pauline-Christmann-Str 1, 51107 Köln, Deutschland",0:02,0:01,0.0
+,16:06,16:16,"Jet, Pauline-Christmann-Str 1, 51107 Köln, Deutschland","Pauline-Christmann-Str 3a, 51107 Köln, Deutschland",0:09,0:01,0.3
+,16:16,16:18,"Pauline-Christmann-Str 3a, 51107 Köln, Deutschland","Jet, Pauline-Christmann-Str 1, 51107 Köln, Deutschland",0:01,0:00,0.1
+,16:18,16:19,"Jet, Pauline-Christmann-Str 1, 51107 Köln, Deutschland","Jet, Pauline-Christmann-Str 1, 51107 Köln, Deutschland",0:01,0:00,0.0
+,16:22,16:30,"Pauline-Christmann-Str, 51107 Köln, Deutschland","Gernsheimer Str 15, 51107 Köln, Deutschland",0:08,0:02,2.2
+,19:04,20:02,"Gernsheimer Str 15, 51107 Köln, Deutschland","Lidl, Düsseldorfer Str 177, 51063 Köln, Deutschland",0:57,2:33,22.8
+,20:13,21:22,"Lidl, Düsseldorfer Str 177, 51063 Köln, Deutschland","Am Alten Ufer, 50667 Köln, Deutschland",1:09,0:10,35.7
+,21:27,23:15,"Am Alten Ufer, 50667 Köln, Deutschland","Aral, Frankfurter Str 198, 51065 Köln, Deutschland",1:48,0:04,70.2
+,23:15,23:16,"Aral, Frankfurter Str 198, 51065 Köln, Deutschland","Aral, Frankfurter Str 198, 51065 Köln, Deutschland",0:01,0:00,0.0
+,23:17,23:44,"Aral, Frankfurter Str 198, 51065 Köln, Deutschland","Gernsheimer Str, 51107 Köln, Deutschland",0:27,0:00,19.7
+Daily Totals:,0:00,23:44,,,5:48,17:56,170.0
+,,,,,,,
+03-03-22,00:03,00:05,"Gernsheimer Str, 51107 Köln, Deutschland","Gernsheimer Str 13, 51107 Köln, Deutschland",0:02,0:00,0.2
+,00:18,00:40,"Gernsheimer Str 13, 51107 Köln, Deutschland","Severinsbrücke, Siegburger Str, 50679 Köln, Deutschland",0:22,0:12,12.9
+,00:44,01:30,"Severinsbrücke, Siegburger Str, 50679 Köln, Deutschland","Kostgasse, 50667 Köln, Deutschland",0:46,0:03,22.9
+,01:35,02:29,"Kostgasse, 50667 Köln, Deutschland","Gernsheimer Str 13, 51107 Köln, Deutschland",0:53,0:04,24.9
+,13:41,13:47,"Gernsheimer Str 13, 51107 Köln, Deutschland","Frankfurter Str 664, 51107 Köln, Deutschland",0:05,11:11,0.2
+,13:47,13:52,"Frankfurter Str 664, 51107 Köln, Deutschland","Porzer Ringstraße, 51149 Köln, Deutschland",0:04,0:00,3.1
+,13:53,13:56,"EStW-A Gremberg Gnf, Porzer Ringstraße, 51149 Köln, Deutschland","Porzer Ringstraße, 51149 Köln, Deutschland",0:03,0:00,1.0
+,13:56,14:00,"Porzer Ringstraße, 51149 Köln, Deutschland","Funk-Electronic Piciorgros, Claudiastraße 5, 51149 Köln, Deutschland",0:03,0:00,1.3
+,14:10,14:34,"Funk-Electronic Piciorgros, Claudiastraße 5, 51149 Köln, Deutschland","Am Coloneum 2a, 50829 Köln, Deutschland",0:23,0:10,26.3
+,15:38,15:48,"Von-Hünefeld-Str 98, 50829 Köln, Deutschland","Eliasgasse 15, 50739 Köln, Deutschland",0:09,1:04,3.0
+,16:20,16:29,"Eliasgasse 15, 50739 Köln, Deutschland","Merianstraße, 50765 Köln, Deutschland",0:08,0:32,3.3
+,16:29,16:33,"Fühlinger Weg 13, 50765 Köln, Deutschland","Damiansweg 9d, 50765 Köln, Deutschland",0:04,0:00,0.6
+Daily Totals:,0:03,16:33,,,3:08,13:21,99.8
+,,,,,,,
+03-04-22,07:51,08:25,"Damiansweg 9b, 50765 Köln, Deutschland","Funk-Electronic Piciorgros, Claudiastraße 5, 51149 Köln, Deutschland",0:33,0:00,30.2
+,08:25,08:26,"Funk-Electronic Piciorgros, Claudiastraße 5, 51149 Köln, Deutschland","Funk-Electronic Piciorgros, Claudiastraße 5, 51149 Köln, Deutschland",0:01,0:00,0.0
+,11:16,11:18,"Funk-Electronic Piciorgros, Claudiastraße 5, 51149 Köln, Deutschland","Claudiastraße 3b, 51149 Köln, Deutschland",0:01,2:50,0.1
+Daily Totals:,7:51,11:18,,,0:36,2:50,30.2
+,,,,,,,
+03-05-22,-,-,-,-,-,-,-
+,,,,,,,
+03-06-22,-,-,-,-,-,-,-
+,,,,,,,
+03-07-22,11:30,11:32,"Claudiastraße 3b, 51149 Köln, Deutschland","Claudiastraße 3b, 51149 Köln, Deutschland",0:01,0:00,0.0
+Daily Totals:,11:30,11:32,,,0:01,0:00,0.0
+,,,,,,,
+03-08-22,-,-,-,-,-,-,-
+,,,,,,,
+03-09-22,-,-,-,-,-,-,-
+,,,,,,,
+03-10-22,13:54,13:56,"Claudiastraße 3b, 51149 Köln, Deutschland","Funk-Electronic Piciorgros, Claudiastraße 5, 51149 Köln, Deutschland",0:01,0:00,0.0
+,14:11,14:46,"Claudiastraße 3b, 51149 Köln, Deutschland","Burscheider Bad, Im Hagen, 51399 Burscheid, Deutschland",0:35,0:15,33.7
+,18:27,18:31,"Burscheider Bad, Im Hagen, 51399 Burscheid, Deutschland","Hauptstraße 128, 51399 Burscheid, Deutschland",0:04,3:40,0.9
+,19:02,19:03,"Hauptstraße 128, 51399 Burscheid, Deutschland","Hauptstraße 128, 51399 Burscheid, Deutschland",0:01,0:30,0.0
+,19:12,19:44,"Hauptstraße 128, 51399 Burscheid, Deutschland","Damiansweg 9e, 50765 Köln, Deutschland",0:31,0:09,26.4
+Daily Totals:,13:54,19:44,,,1:13,4:35,61.0
+,,,,,,,
+03-11-22,07:49,08:18,"Damiansweg 9c, 50765 Köln, Deutschland","Aral, Kölner Str 255, 51149 Köln, Deutschland",0:29,0:00,29.6
+,08:19,08:24,"Aral, Kölner Str 255, 51149 Köln, Deutschland","Funk-Electronic Piciorgros, Claudiastraße 5, 51149 Köln, Deutschland",0:05,0:00,0.5
+Daily Totals:,7:49,8:24,,,0:34,0:00,30.1
+,,,,,,,
+03-12-22,-,-,-,-,-,-,-
+,,,,,,,
+03-13-22,-,-,-,-,-,-,-
+,,,,,,,
+03-14-22,13:42,13:44,"Funk-Electronic Piciorgros, Claudiastraße 5, 51149 Köln, Deutschland","Funk-Electronic Piciorgros, Claudiastraße 5, 51149 Köln, Deutschland",0:01,0:00,0.0
+Daily Totals:,13:42,13:44,,,0:01,0:00,0.0
+,,,,,,,
+03-15-22,-,-,-,-,-,-,-
+,,,,,,,
+03-16-22,-,-,-,-,-,-,-
+,,,,,,,
+03-17-22,-,-,-,-,-,-,-
+,,,,,,,
+03-18-22,-,-,-,-,-,-,-
+,,,,,,,
+03-19-22,-,-,-,-,-,-,-
+,,,,,,,
+03-20-22,-,-,-,-,-,-,-
+,,,,,,,
+03-21-22,-,-,-,-,-,-,-
+,,,,,,,
+03-22-22,-,-,-,-,-,-,-
+,,,,,,,
+03-23-22,-,-,-,-,-,-,-
+,,,,,,,
+Totals:,,,,,100:24,72:53,3220.6

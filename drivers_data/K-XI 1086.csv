@@ -1,0 +1,315 @@
+Kinesis Telematics & Dashcam - Individual Trips - K-XI 1086/Bilal Hassan,,,,,,,
+,,,,,,,
+Date,Start Time,End Time,Start Location,End Location,Drive Time (h:m:),Stopped Time (h:m:),Distance Travelled (kilometres)
+,,,,,,,
+02-21-22,07:50,08:18,"Bezirkssportanlage Waldbeerenberg, Europaallee, 40789 Monheim am Rhein, Deutschland","Bonhoefferstraße 13, 40789 Monheim am Rhein, Deutschland",0:28,0:00,8.8
+,19:47,20:19,"Bonhoefferstraße 13, 40789 Monheim am Rhein, Deutschland","Gustav-Heinemann-Str 38, 51377 Leverkusen, Deutschland",0:31,11:29,20.7
+,20:22,21:30,"Gustav-Heinemann-Str 38, 51377 Leverkusen, Deutschland","Star, Siegburger Str 406, 51105 Köln, Deutschland",1:07,0:03,41.2
+,21:32,03:50,"Star, Siegburger Str 406, 51105 Köln, Deutschland","Bonhoefferstraße 13, 40789 Monheim am Rhein, Deutschland",6:17,0:02,194.1
+Daily Totals:,7:50,3:50,,,8:23,11:36,264.8
+,,,,,,,
+02-22-22,07:55,08:27,"Bonhoefferstraße 13, 40789 Monheim am Rhein, Deutschland","Bonhoefferstraße 13, 40789 Monheim am Rhein, Deutschland",0:32,0:00,12.1
+,09:02,09:29,"Bonhoefferstraße 13, 40789 Monheim am Rhein, Deutschland","Bonhoefferstraße 9, 40789 Monheim am Rhein, Deutschland",0:26,0:35,13.4
+,13:21,13:39,"Bonhoefferstraße 13, 40789 Monheim am Rhein, Deutschland","Bonhoefferstraße 11, 40789 Monheim am Rhein, Deutschland",0:18,3:51,10.1
+,14:31,15:28,"Bonhoefferstraße 11, 40789 Monheim am Rhein, Deutschland","Lungengasse 35, 50676 Köln, Deutschland",0:57,0:51,35.4
+,18:26,04:21,"Kulturquartier, Josef-Haubrich-Hof, 50676 Köln, Deutschland","Bonhoefferstraße 11, 40789 Monheim am Rhein, Deutschland",9:55,2:58,402.3
+Daily Totals:,7:55,4:21,,,12:09,8:16,473.3
+,,,,,,,
+02-23-22,07:53,08:11,"Bonhoefferstraße 13, 40789 Monheim am Rhein, Deutschland","Bonhoefferstraße 13, 40789 Monheim am Rhein, Deutschland",0:18,0:00,8.9
+,09:04,09:29,"Bonhoefferstraße 13, 40789 Monheim am Rhein, Deutschland","Bonhoefferstraße 13, 40789 Monheim am Rhein, Deutschland",0:25,0:52,13.7
+,13:27,13:46,"Bonhoefferstraße 13, 40789 Monheim am Rhein, Deutschland","Bonhoefferstraße 13, 40789 Monheim am Rhein, Deutschland",0:18,3:57,9.9
+,17:34,17:36,"Bonhoefferstraße 13, 40789 Monheim am Rhein, Deutschland","Bonhoefferstraße 7, 40789 Monheim am Rhein, Deutschland",0:01,3:48,0.2
+,17:40,18:05,"Bonhoefferstraße 7, 40789 Monheim am Rhein, Deutschland","Jet, Amsterdamer Str 236, 50735 Köln, Deutschland",0:24,0:04,22.9
+,18:08,03:56,"Jet, Amsterdamer Str 236, 50735 Köln, Deutschland","Bonhoefferstraße 11, 40789 Monheim am Rhein, Deutschland",9:48,0:03,319.3
+Daily Totals:,7:53,3:56,,,11:16,8:46,374.9
+,,,,,,,
+02-24-22,09:01,09:31,"Bonhoefferstraße 13, 40789 Monheim am Rhein, Deutschland","Shell Station Frank Ertinghausen GmbH, Heinrich-Hertz-Str 2, 40789 Monheim am Rhein, Deutschland",0:30,0:00,11.1
+,09:56,13:56,"Shell Station Frank Ertinghausen GmbH, Heinrich-Hertz-Str 2, 40789 Monheim am Rhein, Deutschland","Maarweg 255, 50825 Köln, Deutschland",3:59,0:25,122.5
+,14:36,15:28,"Maarweg 263, 50825 Köln, Deutschland","Lungengasse 46, 50676 Köln, Deutschland",0:51,0:40,7.0
+,16:37,18:14,"Marsilstein 7, 50676 Köln, Deutschland","Star, Bechener Str 12, 51515 Kürten, Deutschland",1:37,1:09,42.7
+,18:20,04:38,"Star, Bechener Str 12, 51515 Kürten, Deutschland","Ektra, Niederkasseler Str 8, 51147 Köln, Deutschland",10:18,0:05,352.5
+Daily Totals:,9:01,4:38,,,17:17,2:20,535.9
+,,,,,,,
+02-25-22,04:43,06:50,"Ektra, Niederkasseler Str 8, 51147 Köln, Deutschland","Großrotter Weg 1a, 50997 Köln, Deutschland",2:07,0:00,83.6
+,06:53,11:02,"Großrotter Weg 1, 50997 Köln, Deutschland","Corona-Testzentrum (für Rückreisende), Breslauer Pl/Hbf, 50668 Köln, Deutschland",4:08,0:03,163.4
+,11:05,11:49,"Hauptbahnhof, Kostgasse, 50667 Köln, Deutschland","Lidl, Am Wald 21, 40789 Monheim am Rhein, Deutschland",0:43,0:03,41.2
+,12:02,12:13,"Am Wald 14, 40789 Monheim am Rhein, Deutschland","Bonhoefferstraße 11, 40789 Monheim am Rhein, Deutschland",0:10,0:13,5.0
+,16:13,16:15,"Bonhoefferstraße 13, 40789 Monheim am Rhein, Deutschland","Bonhoefferstraße 7, 40789 Monheim am Rhein, Deutschland",0:01,4:00,0.2
+,16:18,19:26,"Carlo-Mierendorff-Str 3, 40789 Monheim am Rhein, Deutschland","Jet, Widdersdorfer Str 165, 50825 Köln, Deutschland",3:08,0:03,88.4
+,19:26,19:27,"Widdersdorfer Str 163, 50825 Köln, Deutschland","Oskar-Jäger-Str 149, 50825 Köln, Deutschland",0:00,0:00,0.0
+,19:30,19:31,"Netto, Weinsbergstraße, 50825 Köln, Deutschland","Netto, Weinsbergstraße, 50825 Köln, Deutschland",0:01,0:03,0.1
+,19:40,21:19,"Netto, Weinsbergstraße, 50825 Köln, Deutschland","Höhenberger Ring, 51103 Köln, Deutschland",1:39,0:08,37.2
+,21:20,04:25,"Höhenberger Ring, 51103 Köln, Deutschland","Bonhoefferstraße 11, 40789 Monheim am Rhein, Deutschland",7:04,0:00,281.2
+Daily Totals:,4:43,4:25,,,19:05,4:36,700.2
+,,,,,,,
+02-26-22,10:59,12:06,"Bonhoefferstraße 3c, 40789 Monheim am Rhein, Deutschland","ALDI Süd, Hardt 5, 40764 Langenfeld (Rheinland), Deutschland",1:06,0:00,38.7
+,12:12,16:52,"ALDI Süd, Hardt 5, 40764 Langenfeld (Rheinland), Deutschland","Friedhofskapelle, Keutenstraße, 50354 Hürth, Deutschland",4:39,0:06,170.5
+,16:56,17:12,"Keutenstraße 43, 50354 Hürth, Deutschland","Bonner Str 407, 50968 Köln, Deutschland",0:16,0:04,10.5
+,17:15,19:41,"Bonner Str 407, 50968 Köln, Deutschland","Star, Siegburger Str 406, 51105 Köln, Deutschland",2:25,0:03,66.6
+,19:45,19:48,"Star, Siegburger Str 406, 51105 Köln, Deutschland","Wochenmarkt Poll, Siegburger Str, 51105 Köln, Deutschland",0:03,0:04,0.3
+,19:57,05:56,"Wochenmarkt Poll, Siegburger Str, 51105 Köln, Deutschland","Bonhoefferstraße 11, 40789 Monheim am Rhein, Deutschland",9:58,0:09,331.6
+Daily Totals:,10:59,5:56,,,18:29,0:27,618.3
+,,,,,,,
+02-27-22,13:51,13:58,"Bonhoefferstraße 7, 40789 Monheim am Rhein, Deutschland","Berghausener Str, 40789 Monheim am Rhein, Deutschland",0:06,0:00,2.0
+,14:08,16:15,"Shell Station, Heinrich-Hertz-Str 2, 40789 Monheim am Rhein, Deutschland","Corona-Testzentrum (für Rückreisende), Breslauer Pl/Hbf, 50668 Köln, Deutschland",2:07,0:09,99.8
+,16:34,18:22,"Corona-Testzentrum (für Rückreisende), Breslauer Pl/Hbf, 50668 Köln, Deutschland","Poller Kirchweg, 50679 Köln, Deutschland",1:47,0:18,34.4
+,18:35,19:09,"Poller Kirchweg, 50679 Köln, Deutschland","Breslauer Str 2b, 50858 Köln, Deutschland",0:33,0:13,15.0
+,19:09,19:30,"Breslauer Str 2b, 50858 Köln, Deutschland","Wolfsstraße 13, 50667 Köln, Deutschland",0:20,0:00,8.1
+,19:36,19:49,"Wolfsstraße 13, 50667 Köln, Deutschland","Alter Militärring 24, 50933 Köln, Deutschland",0:13,0:05,5.0
+,20:52,21:27,"Alter Militärring 22, 50933 Köln, Deutschland","Bonhoefferstraße 11, 40789 Monheim am Rhein, Deutschland",0:35,1:03,35.1
+Daily Totals:,13:51,21:27,,,5:44,1:51,199.3
+,,,,,,,
+02-28-22,12:14,12:49,"Bonhoefferstraße 3a, 40789 Monheim am Rhein, Deutschland","Funk-Electronic Piciorgros, Claudiastraße 5, 51149 Köln, Deutschland",0:34,0:00,36.9
+,13:08,13:25,"Funk-Electronic Piciorgros, Claudiastraße 5, 51149 Köln, Deutschland","Wikingerstraße 68, 51107 Köln, Deutschland",0:16,0:19,7.1
+,13:26,14:12,"Wikingerstraße 68, 51107 Köln, Deutschland","Halle 3, Barmer Str, 50679 Köln, Deutschland",0:46,0:01,17.0
+,14:14,17:12,"Messegelände Köln, Brügelmannstraße, 50679 Köln, Deutschland","COPT, Luxemburger Str 90, 50939 Köln, Deutschland",2:57,0:02,151.1
+,17:14,17:46,"COPT, Luxemburger Str 90, 50939 Köln, Deutschland","Jet, Rudolf-Diesel-Str 32-36, 51149 Köln, Deutschland",0:31,0:02,15.5
+,17:52,18:26,"Jet, Rudolf-Diesel-Str 32-36, 51149 Köln, Deutschland","ALDI Süd, Stollwerckstraße 6, 51149 Köln, Deutschland",0:33,0:06,11.8
+,18:36,18:41,"Am Westhover Berg 43, 51149 Köln, Deutschland","Funk-Electronic Piciorgros, Claudiastraße 5, 51149 Köln, Deutschland",0:04,0:10,0.4
+,19:05,22:46,"Funk-Electronic Piciorgros, Claudiastraße 5, 51149 Köln, Deutschland","Hahnenstraße 43, 50667 Köln, Deutschland",3:40,0:24,120.1
+,22:52,23:53,"Hahnenstraße 45, 50667 Köln, Deutschland","221102577198, Neumarkt, 50667 Köln, Deutschland",1:01,0:05,23.5
+,23:58,00:20,"221102577198, Neumarkt, 50667 Köln, Deutschland","Real, Gremberger Str 200, 51105 Köln, Deutschland",0:22,0:04,9.0
+Daily Totals:,12:14,0:20,,,10:48,1:17,392.3
+,,,,,,,
+03-01-22,00:20,00:57,"Real, Gremberger Str 200, 51105 Köln, Deutschland","Industriestraße 103, 51399 Burscheid, Deutschland",0:37,0:00,36.8
+,01:24,01:25,"Industriestraße 87, 51399 Burscheid, Deutschland","Industriestraße 77d, 51399 Burscheid, Deutschland",0:01,0:26,0.1
+,10:47,11:22,"Industriestraße 99, 51399 Burscheid, Deutschland","DHL Packstation, Am Westhover Berg, 51149 Köln, Deutschland",0:34,9:22,35.8
+,11:27,11:29,"ALDI Süd, Stollwerckstraße 6, 51149 Köln, Deutschland","Funk-Electronic Piciorgros, Claudiastraße 5, 51149 Köln, Deutschland",0:01,0:04,0.4
+,11:49,12:52,"Funk-Electronic Piciorgros, Claudiastraße 5, 51149 Köln, Deutschland","Gartenstraße 16, 51149 Köln, Deutschland",1:02,0:20,36.6
+,12:53,13:18,"Gartenstraße 19, 51149 Köln, Deutschland","Funk-Electronic Piciorgros, Claudiastraße 5, 51149 Köln, Deutschland",0:25,0:00,11.5
+,14:04,16:25,"Claudiastraße 3b, 51149 Köln, Deutschland","Vietorstraße 55, 51103 Köln, Deutschland",2:20,0:45,76.2
+,16:31,16:51,"Vietorstraße 55, 51103 Köln, Deutschland","Claudiastraße 3b, 51149 Köln, Deutschland",0:20,0:06,10.0
+,17:21,17:37,"Claudiastraße 3b, 51149 Köln, Deutschland","Kölner Str 251, 51149 Köln, Deutschland",0:15,0:30,4.8
+,17:55,17:57,"DHL Packstation, Kölner Str, 51149 Köln, Deutschland","Kölner Str 251, 51149 Köln, Deutschland",0:01,0:18,0.0
+,18:02,18:04,"Kölner Str 251, 51149 Köln, Deutschland","Kölner Str 259, 51149 Köln, Deutschland",0:01,0:05,0.1
+,18:06,18:36,"Kölner Str 259, 51149 Köln, Deutschland","Funk-Electronic Piciorgros, Claudiastraße 5, 51149 Köln, Deutschland",0:30,0:02,11.9
+,18:56,19:15,"Claudiastraße 3b, 51149 Köln, Deutschland","Kölner Str 259, 51149 Köln, Deutschland",0:18,0:19,14.8
+,20:03,20:25,"Kölner Str 259, 51149 Köln, Deutschland","Kölner Str 259, 51149 Köln, Deutschland",0:22,0:48,11.9
+,20:49,20:57,"Kölner Str 259, 51149 Köln, Deutschland","Elsterweg 2-4, 51149 Köln, Deutschland",0:07,0:24,2.1
+,21:00,21:02,"Elsterweg 2-4, 51149 Köln, Deutschland","KiGA St. Laurentius, Drosselstraße, 51149 Köln, Deutschland",0:01,0:02,0.3
+,21:03,21:06,"KiGA St. Laurentius, Drosselstraße, 51149 Köln, Deutschland","Kölner Str 259, 51149 Köln, Deutschland",0:03,0:00,0.8
+,21:12,23:26,"Aral, Kölner Str 255, 51149 Köln, Deutschland","An der Fuchskuhl 2, 51379 Leverkusen, Deutschland",2:13,0:06,70.7
+,23:32,23:46,"An der Fuchskuhl 2, 51379 Leverkusen, Deutschland","Industriestraße 97, 51399 Burscheid, Deutschland",0:14,0:05,8.4
+Daily Totals:,0:20,23:46,,,9:34,13:51,333.2
+,,,,,,,
+03-02-22,12:07,12:43,"Industriestraße 97, 51399 Burscheid, Deutschland","Funk-Electronic Piciorgros, Claudiastraße 5, 51149 Köln, Deutschland",0:35,0:00,35.8
+,12:48,13:08,"Funk-Electronic Piciorgros, Claudiastraße 5, 51149 Köln, Deutschland","Kleiner Griechenmarkt 43, 50676 Köln, Deutschland",0:20,0:05,8.3
+,13:26,13:48,"Kleiner Griechenmarkt 45, 50676 Köln, Deutschland","Dieselstraße 13, 50996 Köln, Deutschland",0:22,0:17,14.0
+,13:50,15:11,"Dieselstraße 12, 50996 Köln, Deutschland","Am Faulbach, 51063 Köln, Deutschland",1:21,0:01,33.1
+,15:17,16:35,"Am Faulbach, 51063 Köln, Deutschland","Am Westhover Berg 43, 51149 Köln, Deutschland",1:18,0:05,42.1
+,16:46,16:59,"ALDI Süd, Stollwerckstraße 6, 51149 Köln, Deutschland","Steinstraße, 51149 Köln, Deutschland",0:13,0:10,4.2
+,17:04,17:12,"Restaurant Hochkreuz, Frankfurter Str 725, 51149 Köln, Deutschland","Rather Str 1, 51149 Köln, Deutschland",0:08,0:04,3.0
+,17:36,17:49,"Rather Str 1, 51149 Köln, Deutschland","Hauptstraße 403, 51143 Köln, Deutschland",0:12,0:24,3.2
+,17:50,18:42,"Hauptstraße 401, 51143 Köln, Deutschland","Kölner Str 259, 51149 Köln, Deutschland",0:51,0:01,21.1
+,19:28,19:44,"Aral, Kölner Str 255, 51149 Köln, Deutschland","Kölner Str 259, 51149 Köln, Deutschland",0:16,0:46,7.8
+,20:07,20:55,"Aral, Kölner Str 255, 51149 Köln, Deutschland","Kölner Str 259, 51149 Köln, Deutschland",0:48,0:22,20.4
+,21:02,21:40,"Kölner Str 259, 51149 Köln, Deutschland","Burger King, Bergisch Gladbacher Str 417–419, 51067 Köln, Deutschland",0:38,0:07,15.1
+,21:44,22:35,"Burger King, Bergisch Gladbacher Str 417–419, 51067 Köln, Deutschland","Kölner Str 259, 51149 Köln, Deutschland",0:50,0:04,43.6
+,22:39,23:08,"Kölner Str 259, 51149 Köln, Deutschland","Kölner Str 259, 51149 Köln, Deutschland",0:28,0:04,13.1
+,23:23,01:49,"Kölner Str 259, 51149 Köln, Deutschland","Aral, Kölner Str 255, 51149 Köln, Deutschland",2:26,0:15,85.1
+Daily Totals:,12:07,1:49,,,10:51,2:50,349.9
+,,,,,,,
+03-03-22,01:53,02:43,"Aral, Kölner Str 255, 51149 Köln, Deutschland","Industriestraße 97, 51399 Burscheid, Deutschland",0:50,0:00,42.1
+,14:13,15:26,"Industriestraße 97, 51399 Burscheid, Deutschland","Funk-Electronic Piciorgros, Claudiastraße 5, 51149 Köln, Deutschland",1:12,11:29,47.1
+,16:10,19:06,"Funk-Electronic Piciorgros, Claudiastraße 5, 51149 Köln, Deutschland","Siegburger Str 366, 51105 Köln, Deutschland",2:55,0:44,63.1
+,19:09,19:17,"Siegburger Str 366, 51105 Köln, Deutschland","ALDI Süd, Stollwerckstraße 6, 51149 Köln, Deutschland",0:07,0:02,3.0
+,19:27,20:03,"ALDI Süd, Stollwerckstraße 6, 51149 Köln, Deutschland","Kölner Str 259, 51149 Köln, Deutschland",0:35,0:09,11.6
+,20:32,21:37,"Kölner Str 259, 51149 Köln, Deutschland","Kölner Str 259, 51149 Köln, Deutschland",1:04,0:29,64.5
+,21:43,23:35,"Aral, Kölner Str 255, 51149 Köln, Deutschland","Royal Inn, Hohenzollernring 46, 50672 Köln, Deutschland",1:52,0:06,77.5
+,23:37,00:19,"553, Hohenzollernring, 50672 Köln, Deutschland","McDonald's, Mülheimer Zubringer 142, 51063 Köln, Deutschland",0:42,0:01,18.2
+Daily Totals:,1:53,0:19,,,9:22,13:03,327.1
+,,,,,,,
+03-04-22,00:25,01:10,"McDonald's, Mülheimer Zubringer 142, 51063 Köln, Deutschland","Funk-Electronic Piciorgros, Claudiastraße 5, 51149 Köln, Deutschland",0:44,0:00,41.6
+,01:22,02:12,"Funk-Electronic Piciorgros, Claudiastraße 5, 51149 Köln, Deutschland","Kölner Str 259, 51149 Köln, Deutschland",0:50,0:12,22.6
+,02:22,02:51,"Aral, Kölner Str 255, 51149 Köln, Deutschland","Industriestraße 97, 51399 Burscheid, Deutschland",0:29,0:09,35.1
+,12:39,12:42,"Industriestraße 103, 51399 Burscheid, Deutschland","Lidl, Massiefen 3, 51399 Burscheid, Deutschland",0:03,9:47,1.4
+,13:06,13:10,"Lidl, Massiefen 3, 51399 Burscheid, Deutschland","Hauptstraße 59, 51399 Burscheid, Deutschland",0:04,0:23,1.2
+,13:14,13:19,"Hauptstraße 59, 51399 Burscheid, Deutschland","Industriestraße 97, 51399 Burscheid, Deutschland",0:05,0:03,2.6
+,16:25,17:01,"Industriestraße 97, 51399 Burscheid, Deutschland","Aral, Mülheimer Zubringer 140, 51063 Köln, Deutschland",0:35,3:05,18.5
+,17:03,17:20,"Aral, Mülheimer Zubringer 140, 51063 Köln, Deutschland","Funk-Electronic Piciorgros, Claudiastraße 5, 51149 Köln, Deutschland",0:16,0:02,15.3
+,17:31,19:31,"Claudiastraße 3b, 51149 Köln, Deutschland","Kapellenstraße 65, 51103 Köln, Deutschland",1:59,0:10,48.3
+,19:33,19:52,"Kapellenstraße 65, 51103 Köln, Deutschland","Burghöfchen, 50667 Köln, Deutschland",0:18,0:02,6.2
+,19:54,21:48,"Burghöfchen, 50667 Köln, Deutschland","Maria Bergen geb. Lilienfeld, Genter Str, 50672 Köln, Deutschland",1:54,0:02,42.7
+,21:49,23:27,"Genter Str 27, 50672 Köln, Deutschland","PSA 1698, Neumarkt, 50667 Köln, Deutschland",1:37,0:00,49.0
+,23:28,23:52,"Neumarkt 39, 50667 Köln, Deutschland","Marienburger Straße, Pferdmengesstraße, 50968 Köln, Deutschland",0:23,0:01,9.1
+,23:55,23:56,"Marienburger Straße, Pferdmengesstraße, 50968 Köln, Deutschland","Pferdmengesstraße 44, 50968 Köln, Deutschland",0:01,0:03,0.1
+,23:58,02:03,"Pferdmengesstraße 44, 50968 Köln, Deutschland","Autohaus-Dirkes Köln-Zollstock, Zollstockgürtel 41, 50969 Köln, Deutschland",2:05,0:01,67.4
+Daily Totals:,0:25,2:03,,,11:30,14:07,361.1
+,,,,,,,
+03-05-22,02:04,02:54,"Aral, Zollstockgürtel 39, 50969 Köln, Deutschland","Kölner Str 259, 51149 Köln, Deutschland",0:50,0:00,38.4
+,02:55,03:55,"Aral, Kölner Str 255, 51149 Köln, Deutschland","Kempener Str 66, 50733 Köln, Deutschland",1:00,0:00,41.0
+,04:00,04:35,"Wilhelmstraße 72, 50733 Köln, Deutschland","Kölner Str 260, 51149 Köln, Deutschland",0:34,0:04,27.2
+,04:38,07:10,"Kölner Str, 51149 Köln, Deutschland","Industriestraße 97, 51399 Burscheid, Deutschland",2:31,0:03,127.8
+,12:31,13:22,"Industriestraße 97, 51399 Burscheid, Deutschland","Karlstraße, 40210 Düsseldorf, Deutschland",0:50,5:21,37.9
+,14:21,14:40,"Karlstraße, 40210 Düsseldorf, Deutschland","Karlstraße, 40210 Düsseldorf, Deutschland",0:18,0:59,0.0
+,14:48,15:37,"Karlstraße, 40210 Düsseldorf, Deutschland","Rewe, Bürgermeister-Schmidt-Str 6, 51399 Burscheid, Deutschland",0:49,0:08,41.9
+,16:05,16:11,"Rewe, Bürgermeister-Schmidt-Str 6, 51399 Burscheid, Deutschland","Industriestraße 97, 51399 Burscheid, Deutschland",0:05,0:27,3.0
+,18:02,02:25,"Industriestraße 97, 51399 Burscheid, Deutschland","Aral, Siegburger Str 116a, 50679 Köln, Deutschland",8:23,1:51,306.5
+Daily Totals:,2:04,2:25,,,15:24,8:56,623.8
+,,,,,,,
+03-06-22,02:25,02:31,"Aral, Siegburger Str 116a, 50679 Köln, Deutschland","Kölner Str 259, 51149 Köln, Deutschland",0:05,0:00,3.6
+,02:36,06:56,"Aral, Kölner Str 255, 51149 Köln, Deutschland","Funk-Electronic Piciorgros, Claudiastraße 5, 51149 Köln, Deutschland",4:19,0:05,130.0
+Daily Totals:,2:25,6:56,,,4:25,0:05,133.6
+,,,,,,,
+03-07-22,20:30,20:44,"Funk-Electronic Piciorgros, Claudiastraße 5, 51149 Köln, Deutschland","Gilgaustraße 18, 51149 Köln, Deutschland",0:13,0:00,3.2
+,20:51,20:56,"Elsterweg 2-4, 51149 Köln, Deutschland","Kölner Str 260, 51149 Köln, Deutschland",0:05,0:06,1.1
+,21:01,22:22,"Kölner Str, 51149 Köln, Deutschland","Jet, Bergisch Gladbacher Str 388, 51067 Köln, Deutschland",1:21,0:04,49.1
+,22:26,00:04,"Bergisch Gladbacher Str 388, 51067 Köln, Deutschland","Traffic World, Kölner Str 220, 51149 Köln, Deutschland",1:38,0:03,63.3
+Daily Totals:,20:30,0:04,,,3:18,0:15,116.8
+,,,,,,,
+03-08-22,00:26,02:02,"Traffic World, Kölner Str 220, 51149 Köln, Deutschland","Kölner Str 224, 51149 Köln, Deutschland",1:36,0:00,49.2
+,02:05,03:29,"Kölner Str 224, 51149 Köln, Deutschland","Porzer Ringstraße, 51149 Köln, Deutschland",1:24,0:02,62.2
+,03:33,04:53,"Porzer Ringstraße, 51149 Köln, Deutschland","Richard-Wagner-Str 8, 50674 Köln, Deutschland",1:19,0:03,45.2
+,04:56,05:51,"Richard-Wagner-Str 4, 50674 Köln, Deutschland","Frankenforster Str 74a, 51427 Refrath, Deutschland",0:55,0:03,28.3
+,05:55,07:03,"Frankenforster Str 74a, 51427 Refrath, Deutschland","Rettungswache Burscheid, Massiefen, 51399 Burscheid, Deutschland",1:07,0:03,55.7
+,07:05,07:09,"Rettungswache Burscheid, Massiefen, 51399 Burscheid, Deutschland","Industriestraße 97, 51399 Burscheid, Deutschland",0:03,0:02,1.4
+,15:51,16:36,"Industriestraße 97, 51399 Burscheid, Deutschland","Am Pantaleonsberg 7, 50676 Köln, Deutschland",0:45,8:41,33.2
+,16:49,20:14,"Am Pantaleonsberg 2, 50676 Köln, Deutschland","Kölner Str 259, 51149 Köln, Deutschland",3:24,0:13,71.6
+,20:33,20:37,"Aral, Kölner Str 255, 51149 Köln, Deutschland","Kölner Str, 51149 Köln, Deutschland",0:03,0:19,0.3
+,20:41,20:53,"Kölner Str, 51149 Köln, Deutschland","Funk-Electronic Piciorgros, Claudiastraße 5, 51149 Köln, Deutschland",0:12,0:03,4.6
+,21:24,22:50,"Claudiastraße 3b, 51149 Köln, Deutschland","Kölner Str 259, 51149 Köln, Deutschland",1:25,0:31,66.2
+,22:51,00:53,"Kölner Str 259, 51149 Köln, Deutschland","Kölner Str 259, 51149 Köln, Deutschland",2:02,0:00,78.8
+Daily Totals:,0:26,0:53,,,14:22,10:04,496.8
+,,,,,,,
+03-09-22,00:54,00:57,"Aral, Kölner Str 255, 51149 Köln, Deutschland","Funk-Electronic Piciorgros, Claudiastraße 5, 51149 Köln, Deutschland",0:03,0:00,0.5
+,01:26,01:53,"Claudiastraße 3b, 51149 Köln, Deutschland","Industriestraße 97, 51399 Burscheid, Deutschland",0:26,0:28,35.5
+,15:57,16:04,"Industriestraße 97, 51399 Burscheid, Deutschland","Rewe, Bürgermeister-Schmidt-Str 6, 51399 Burscheid, Deutschland",0:06,14:04,3.0
+,16:25,17:12,"Rewe, Bürgermeister-Schmidt-Str 6, 51399 Burscheid, Deutschland","Funk-Electronic Piciorgros, Claudiastraße 5, 51149 Köln, Deutschland",0:47,0:20,29.5
+,17:17,17:19,"Funk-Electronic Piciorgros, Claudiastraße 5, 51149 Köln, Deutschland","INTERSEROH SE, Stollwerckstraße 9, 51149 Köln, Deutschland",0:02,0:05,0.3
+,17:27,17:29,"INTERSEROH SE, Stollwerckstraße 9, 51149 Köln, Deutschland","Funk-Electronic Piciorgros, Claudiastraße 5, 51149 Köln, Deutschland",0:01,0:07,0.3
+,20:29,21:00,"Claudiastraße 3b, 51149 Köln, Deutschland","Industriestraße 97, 51399 Burscheid, Deutschland",0:31,3:00,35.6
+Daily Totals:,0:54,21:00,,,1:59,18:06,104.8
+,,,,,,,
+03-10-22,00:13,01:47,"Industriestraße 97, 51399 Burscheid, Deutschland","Am Schönenkamp 11, 40599 Düsseldorf, Deutschland",1:34,0:00,67.7
+,01:51,02:26,"Am Schönenkamp 11, 40599 Düsseldorf, Spandauer Str, 40599 Düsseldorf, Deutschland","Kölner Str 259, 51149 Köln, Deutschland",0:34,0:03,43.5
+,02:46,03:44,"Aral, Kölner Str 255, 51149 Köln, Deutschland","Wache, Kölner Str, 51149 Köln, Deutschland",0:58,0:20,34.5
+,03:56,06:10,"A 4, 51107 Köln, Deutschland","Wandelwerk, Liebigstraße 201-203, 50823 Köln, Deutschland",2:14,0:12,54.0
+,06:11,07:12,"Wandelwerk, Liebigstraße 201-203, 50823 Köln, Deutschland","Siegburger Str 398, 51105 Köln, Deutschland",1:01,0:00,19.9
+,07:18,07:50,"Siegburger Str 400, 51105 Köln, Deutschland","Industriestraße 97, 51399 Burscheid, Deutschland",0:31,0:06,34.7
+,18:04,18:05,"Industriestraße 97, 51399 Burscheid, Deutschland","Fahrzeugtechnik Gustmann, Industriestraße 105, 51399 Burscheid, Deutschland",0:01,10:13,0.1
+,18:06,19:02,"Fahrzeugtechnik Gustmann, Industriestraße 105, 51399 Burscheid, Deutschland","Forensische Psychiatrie der LVR-Klinik Köln, Porzer Ringstraße 25, 51149 Köln, Deutschland",0:56,0:00,49.0
+,19:03,19:25,"Forensische Psychiatrie der LVR-Klinik Köln, Porzer Ringstraße 25, 51149 Köln, Deutschland","Kölner Str 259, 51149 Köln, Deutschland",0:21,0:01,8.0
+,20:01,20:24,"Kölner Str 259, 51149 Köln, Deutschland","Kiesgrubenweg, 50996 Köln, Deutschland",0:23,0:35,14.4
+,20:25,20:36,"Kiesgrubenweg, 50996 Köln, Deutschland","Kölner Str 259, 51149 Köln, Deutschland",0:10,0:01,8.6
+,20:46,21:30,"Kölner Str 259, 51149 Köln, Deutschland","Am Bahnhof 54, 51147 Köln, Deutschland",0:43,0:10,20.8
+,21:35,22:01,"Am Bahnhof 56, 51147 Köln, Deutschland","Kölner Str 259, 51149 Köln, Deutschland",0:26,0:04,13.7
+,22:20,00:46,"Kölner Str 259, 51149 Köln, Deutschland","Deutz-Mülheimer Str 156, 51063 Köln, Deutschland",2:26,0:18,65.2
+Daily Totals:,0:13,0:46,,,12:23,12:09,434.0
+,,,,,,,
+03-11-22,00:49,01:18,"Deutz-Mülheimer Str 154, 51063 Köln, Deutschland","Kölner Str 259, 51149 Köln, Deutschland",0:29,0:00,7.5
+,01:33,02:04,"Kölner Str 259, 51149 Köln, Deutschland","Industriestraße 97, 51399 Burscheid, Deutschland",0:31,0:14,35.5
+,17:35,21:41,"Industriestraße 101, 51399 Burscheid, Deutschland","101, Piusstraße, 50931 Köln, Deutschland",4:06,15:30,112.1
+,21:44,01:23,"101, Piusstraße, 50931 Köln, Deutschland","Severinstraße 216, 50676 Köln, Deutschland",3:39,0:02,97.5
+Daily Totals:,0:49,1:23,,,8:47,15:47,252.5
+,,,,,,,
+03-12-22,01:25,04:24,"Severinstraße 216, 50676 Köln, Deutschland","Paffrather Str 164, 51469 Bergisch Gladbach, Deutschland",2:58,0:00,70.3
+,04:28,06:30,"Paffrather Str 164, 51469 Bergisch Gladbach, Deutschland","Industriestraße 97, 51399 Burscheid, Deutschland",2:02,0:03,89.8
+,14:25,14:32,"Industriestraße 97, 51399 Burscheid, Deutschland","Burscheider Str 154, 51381 Leverkusen, Deutschland",0:07,7:54,4.3
+,14:36,14:45,"ARAL, Burscheider Str 154, 51381 Leverkusen, Deutschland","Opladen Busbahnhof, Goethestraße, 51379 Leverkusen, Deutschland",0:08,0:03,3.2
+,15:03,15:16,"Opladen Busbahnhof, Goethestraße, 51379 Leverkusen, Deutschland","Industriestraße 97, 51399 Burscheid, Deutschland",0:13,0:18,7.4
+,17:04,17:08,"Industriestraße 97, 51399 Burscheid, Deutschland","Rettungswache Burscheid, Massiefen, 51399 Burscheid, Deutschland",0:03,1:47,1.5
+,17:26,04:38,"Lidl, Massiefen 3, 51399 Burscheid, Deutschland","Bf Deutz / Messe, Bf Deutz/ Messe, 50679 Köln, Deutschland",11:11,0:18,297.9
+Daily Totals:,1:25,4:38,,,16:46,10:26,474.4
+,,,,,,,
+03-13-22,05:05,07:20,"Bf Deutz / Messe, Bf Deutz/ Messe, 50679 Köln, Deutschland","Industriestraße 97, 51399 Burscheid, Deutschland",2:15,0:00,87.0
+,17:43,17:52,"Industriestraße 97, 51399 Burscheid, Deutschland","Shell, Höhestraße 66, 51399 Burscheid, Deutschland",0:08,10:22,3.8
+,17:59,19:06,"Shell, Höhestraße 66, 51399 Burscheid, Deutschland","Aral, Siegburger Str 116a, 50679 Köln, Deutschland",1:06,0:07,40.1
+,19:16,19:29,"Aral, Siegburger Str 116a, 50679 Köln, Deutschland","Aral, Kölner Str 255, 51149 Köln, Deutschland",0:13,0:10,3.6
+,19:33,19:55,"Aral, Kölner Str 255, 51149 Köln, Deutschland","Kölner Str 260, 51149 Köln, Deutschland",0:22,0:03,8.6
+,19:56,19:58,"Kölner Str, 51149 Köln, Deutschland","DHL Packstation, Kölner Str, 51149 Köln, Deutschland",0:01,0:01,0.1
+,20:04,20:05,"Kölner Str 251, 51149 Köln, Deutschland","Kölner Str 259, 51149 Köln, Deutschland",0:01,0:05,0.1
+,21:37,21:44,"Aral, Kölner Str 255, 51149 Köln, Deutschland","Funk-Electronic Piciorgros, Claudiastraße 5, 51149 Köln, Deutschland",0:06,1:32,0.5
+Daily Totals:,5:05,21:44,,,4:15,12:23,143.9
+,,,,,,,
+03-14-22,09:39,09:45,"Funk-Electronic Piciorgros, Claudiastraße 5, 51149 Köln, Deutschland","Claudiastraße 9, 51149 Köln, Deutschland",0:06,0:00,0.2
+,10:06,10:07,"Claudiastraße 9, 51149 Köln, Deutschland","Claudiastraße 9, 51149 Köln, Deutschland",0:01,0:20,0.0
+,10:11,10:13,"Claudiastraße 9, 51149 Köln, Deutschland","Funk-Electronic Piciorgros, Claudiastraße 5, 51149 Köln, Deutschland",0:01,0:04,0.2
+Daily Totals:,9:39,10:13,,,0:08,0:25,0.4
+,,,,,,,
+03-15-22,18:03,19:47,"Funk-Electronic Piciorgros, Claudiastraße 5, 51149 Köln, Deutschland","Lidl, Siegburger Str 120, 50679 Köln, Deutschland",1:44,0:00,64.8
+,19:48,19:50,"Lidl, Siegburger Str 120, 50679 Köln, Deutschland","Lidl, Siegburger Str 120, 50679 Köln, Deutschland",0:01,0:01,0.2
+,20:02,22:05,"Siegburger Str 118, 50679 Köln, Deutschland","Kölner Str 259, 51149 Köln, Deutschland",2:02,0:12,59.0
+,22:13,23:27,"Kölner Str 259, 51149 Köln, Deutschland","Kölner Str 259, 51149 Köln, Deutschland",1:13,0:08,40.8
+,23:28,00:16,"Kölner Str 259, 51149 Köln, Deutschland","Kölner Str 260, 51149 Köln, Deutschland",0:47,0:01,42.4
+Daily Totals:,18:03,0:16,,,5:49,0:23,207.2
+,,,,,,,
+03-16-22,00:29,01:06,"Kölner Str, 51149 Köln, Deutschland","Kölner Str 260, 51149 Köln, Deutschland",0:37,0:00,23.3
+,01:11,01:33,"Kölner Str, 51149 Köln, Deutschland","Kalker Hauptstraße 84, 51103 Köln, Deutschland",0:22,0:04,11.0
+,01:50,02:48,"Kalker Hauptstraße 88, 51103 Köln, Deutschland","1708, Bf Deutz/ Messe, 50679 Köln, Deutschland",0:58,0:16,38.1
+,02:50,03:27,"1708, Bf Deutz/ Messe, 50679 Köln, Deutschland","Industriestraße 97, 51399 Burscheid, Deutschland",0:37,0:01,40.2
+,15:34,15:48,"Industriestraße 97, 51399 Burscheid, Deutschland","51379 Leverkusen, Deutschland",0:14,12:07,7.3
+,17:07,17:22,"51379 Leverkusen, Deutschland","HEM, Borsigstraße, 51381 Leverkusen, Deutschland",0:15,1:18,4.3
+,17:25,17:26,"HEM, Borsigstraße, 51381 Leverkusen, Deutschland","HEM, Borsigstraße, 51381 Leverkusen, Deutschland",0:01,0:02,0.1
+,17:41,19:01,"HEM Tankstelle, Borsigstraße, 51381 Leverkusen, Deutschland","Kölner Str 259, 51149 Köln, Deutschland",1:19,0:14,50.0
+,20:10,20:57,"Kölner Str 259, 51149 Köln, Deutschland","Kölner Str 259, 51149 Köln, Deutschland",0:46,1:09,26.7
+,20:58,21:21,"Aral, Kölner Str 255, 51149 Köln, Deutschland","Kölner Str 260, 51149 Köln, Deutschland",0:22,0:01,12.1
+,21:22,21:43,"Kölner Str 260, 51149 Köln, Deutschland","Kölner Str 259, 51149 Köln, Deutschland",0:21,0:01,9.7
+,22:03,23:00,"Kölner Str 259, 51149 Köln, Deutschland","Kölner Str 259, 51149 Köln, Deutschland",0:57,0:19,28.8
+,23:01,00:29,"Aral, Kölner Str 255, 51149 Köln, Deutschland","Kölner Str 259, 51149 Köln, Deutschland",1:27,0:00,24.0
+Daily Totals:,0:29,0:29,,,8:22,15:37,275.7
+,,,,,,,
+03-17-22,00:47,01:03,"Kölner Str 259, 51149 Köln, Deutschland","Kölner Str 260, 51149 Köln, Deutschland",0:16,0:00,5.4
+,01:07,02:12,"Kölner Str, 51149 Köln, Deutschland","Industriestraße 97, 51399 Burscheid, Deutschland",1:04,0:03,58.6
+,11:56,12:01,"Industriestraße 95, 51399 Burscheid, Deutschland","Rettungswache Burscheid, Massiefen, 51399 Burscheid, Deutschland",0:04,9:44,1.4
+,12:18,12:22,"Massiefen 1, 51399 Burscheid, Deutschland","Industriestraße 97, 51399 Burscheid, Deutschland",0:03,0:17,1.5
+,14:47,15:01,"Industriestraße 97, 51399 Burscheid, Deutschland","Lidl, Massiefen 3, 51399 Burscheid, Deutschland",0:13,2:25,1.8
+,15:16,18:23,"Massiefen 5, 51399 Burscheid, Deutschland","Kölner Str 259, 51149 Köln, Deutschland",3:07,0:15,110.2
+,18:33,19:11,"Kölner Str 259, 51149 Köln, Deutschland","Kölner Str 259, 51149 Köln, Deutschland",0:38,0:10,23.8
+,19:12,22:26,"Aral, Kölner Str 255, 51149 Köln, Deutschland","Aral, Kölner Str 255, 51149 Köln, Deutschland",3:14,0:00,77.2
+,23:19,04:03,"Aral, Kölner Str 255, 51149 Köln, Deutschland","Industriestraße 97, 51399 Burscheid, Deutschland",4:44,0:52,153.6
+Daily Totals:,0:47,4:03,,,13:27,13:49,433.4
+,,,,,,,
+03-18-22,15:28,16:09,"Industriestraße 95, 51399 Burscheid, Deutschland","Carl-Duisberg-Pl 1, 51373 Leverkusen, Deutschland",0:41,0:00,13.7
+,16:17,16:25,"Carl-Duisberg-Pl 1, 51373 Leverkusen, Deutschland","Peschstraße 11, 51373 Leverkusen, Deutschland",0:08,0:07,2.1
+,16:31,16:54,"Peschstraße 11, 51373 Leverkusen, Deutschland","Funk-Electronic Piciorgros, Claudiastraße 5, 51149 Köln, Deutschland",0:23,0:05,21.2
+,17:57,21:52,"Funk-Electronic Piciorgros, Claudiastraße 5, 51149 Köln, Deutschland","Kölner Str 259, 51149 Köln, Deutschland",3:54,1:03,105.5
+,22:08,22:43,"Kölner Str 259, 51149 Köln, Deutschland","Esso, Höninger Weg 12-14, 50969 Köln, Deutschland",0:34,0:15,17.4
+,22:47,03:20,"Esso, Höninger Weg, Köln, Deutschland","Königstraße/Schildgesstraße, Kölnstraße, 50321 Brühl, Deutschland",4:32,0:04,121.5
+Daily Totals:,15:28,3:20,,,10:15,1:36,281.4
+,,,,,,,
+03-19-22,03:21,07:12,"Königstraße/Schildgesstraße, Kölnstraße, 50321 Brühl, Deutschland","Ewald-Sträßer-Weg 4, 51399 Burscheid, Deutschland",3:51,0:00,189.6
+,07:25,07:31,"Ewald-Sträßer-Weg 3, 51399 Burscheid, Deutschland","Industriestraße 97, 51399 Burscheid, Deutschland",0:05,0:12,3.3
+,18:15,18:19,"Industriestraße 103, 51399 Burscheid, Deutschland","Lidl, Massiefen 3, 51399 Burscheid, Deutschland",0:03,10:44,1.4
+,18:24,22:34,"Lidl, Massiefen 3, 51399 Burscheid, Deutschland","Venloer Str 310-316, 50823 Köln, Deutschland",4:10,0:04,159.8
+,22:38,06:00,"Venloer Str 329, 50823 Köln, Deutschland","Holzmarkt 59, 50676 Köln, Deutschland",7:21,0:04,220.7
+Daily Totals:,3:21,6:00,,,15:33,11:06,574.7
+,,,,,,,
+03-20-22,06:05,08:20,"Kleine Witschgasse, 50676 Köln, Deutschland","Industriestraße 97, 51399 Burscheid, Deutschland",2:15,0:00,76.8
+,16:32,18:42,"Neuenhaus 3, 51399 Burscheid, Deutschland","Aachener Straße / Gürtel, Aachener Str, 50933 Köln, Deutschland",2:10,8:11,65.1
+,18:44,23:38,"Aachener Straße / Gürtel, Aachener Str, 50933 Köln, Deutschland","Keupstraße 51, 51063 Köln, Deutschland",4:54,0:01,106.7
+,23:45,03:22,"Keupstraße 53, 51063 Köln, Deutschland","Industriestraße 97, 51399 Burscheid, Deutschland",3:37,0:06,131.4
+Daily Totals:,6:05,3:22,,,12:58,8:19,380.1
+,,,,,,,
+03-21-22,14:39,15:02,"Industriestraße 97, 51399 Burscheid, Deutschland","Opladen Busbahnhof, Goethestraße, 51379 Leverkusen, Deutschland",0:23,0:00,7.4
+,15:48,15:51,"Opladen Busbahnhof, Goethestraße, 51379 Leverkusen, Deutschland","Bahnallee 4, 51379 Leverkusen, Deutschland",0:02,0:45,0.2
+,15:51,15:52,"Bahnallee 4b, 51379 Leverkusen, Deutschland","51379 Leverkusen, Deutschland",0:01,0:00,0.1
+,16:10,16:22,"51379 Leverkusen, Deutschland","Industriestraße 97, 51399 Burscheid, Deutschland",0:12,0:17,7.4
+,18:12,18:15,"Industriestraße 97, 51399 Burscheid, Deutschland","Lidl, Massiefen 3, 51399 Burscheid, Deutschland",0:03,1:49,1.4
+,18:19,18:52,"Lidl, Massiefen 3, 51399 Burscheid, Deutschland","Kölner Str 259, 51149 Köln, Deutschland",0:32,0:03,33.9
+,19:12,19:13,"Aral, Kölner Str 255, 51149 Köln, Deutschland","Kölner Str 251, 51149 Köln, Deutschland",0:01,0:20,0.1
+,19:22,19:23,"Kölner Str 251, 51149 Köln, Deutschland","Kölner Str 259, 51149 Köln, Deutschland",0:01,0:08,0.1
+,20:15,22:40,"Aral, Kölner Str 255, 51149 Köln, Deutschland","Funk-Electronic Piciorgros, Claudiastraße 5, 51149 Köln, Deutschland",2:25,0:51,54.1
+,22:49,02:38,"Funk-Electronic Piciorgros, Claudiastraße 5, 51149 Köln, Deutschland","Kölner Str, 51149 Köln, Deutschland",3:49,0:08,123.4
+Daily Totals:,14:39,2:38,,,7:32,4:26,228.0
+,,,,,,,
+03-22-22,02:48,03:25,"Kölner Str, 51149 Köln, Deutschland","Industriestraße 97, 51399 Burscheid, Deutschland",0:36,0:00,35.3
+,15:21,16:47,"Industriestraße 97, 51399 Burscheid, Deutschland","Funk-Electronic Piciorgros, Claudiastraße 5, 51149 Köln, Deutschland",1:26,11:56,44.5
+,17:05,17:08,"Claudiastraße 3b, 51149 Köln, Deutschland","INTERSEROH SE, Stollwerckstraße 9, 51149 Köln, Deutschland",0:02,0:17,0.3
+,17:18,18:19,"Am Westhover Berg 43, 51149 Köln, Deutschland","Kölner Str 259, 51149 Köln, Deutschland",1:00,0:10,53.8
+,18:22,18:51,"Kölner Str 259, 51149 Köln, Deutschland","Aral, Kölner Str 255, 51149 Köln, Deutschland",0:28,0:03,10.3
+,18:55,19:07,"Aral, Kölner Str 255, 51149 Köln, Deutschland","Kölner Str 259, 51149 Köln, Deutschland",0:12,0:03,0.0
+,19:19,19:38,"Aral, Kölner Str 255, 51149 Köln, Deutschland","Kölner Str 260, 51149 Köln, Deutschland",0:19,0:12,6.6
+,19:48,20:21,"Kölner Str 260, 51149 Köln, Deutschland","Kölner Str 260, 51149 Köln, Deutschland",0:33,0:09,7.0
+,20:43,20:49,"Kölner Str, 51149 Köln, Deutschland","Getränke Bania, Am Altenberger Kreuz 2, 51105 Köln, Deutschland",0:05,0:21,2.9
+,20:51,20:58,"Getränke Bania, Am Altenberger Kreuz 2, 51105 Köln, Deutschland","Kölner Str 259, 51149 Köln, Deutschland",0:07,0:02,2.9
+,20:59,00:00,"Aral, Kölner Str 255, 51149 Köln, Deutschland","Hauptstraße 335, 51143 Köln, Deutschland",3:01,0:01,101.3
+Daily Totals:,2:48,0:00,,,7:53,13:18,264.8
+,,,,,,,
+03-23-22,00:04,00:12,"Hauptstraße 335, 51143 Köln, Deutschland","Kölner Str 260, 51149 Köln, Deutschland",0:07,0:00,3.7
+,00:17,01:25,"Kölner Str 260, 51149 Köln, Deutschland","Kölner Str 260, 51149 Köln, Deutschland",1:08,0:05,40.2
+,01:30,02:22,"Kölner Str, 51149 Köln, Deutschland","Schulstraße 11, 57638 Niederölfen, Deutschland",0:51,0:04,65.6
+,06:07,08:27,"Schulstraße 11, 57638 Niederölfen, Deutschland","Schießhüttenstraße 7, 60386 Frankfurt am Main, Deutschland",2:20,3:45,150.0
+,17:23,-,"Schießhüttenstraße 8, 60386 Frankfurt am Main, Deutschland",Journey in Progress,0:27,8:55,26.3
+Daily Totals:,0:04,17:51,,,4:55,12:50,285.8
+,,,,,,,
+Totals:,,,,,313:15,253:13,10642.5

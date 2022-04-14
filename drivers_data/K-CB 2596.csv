@@ -1,0 +1,224 @@
+Kinesis Telematics & Dashcam - Individual Trips - K-CB 2596/Sükür,,,,,,,
+,,,,,,,
+Date,Start Time,End Time,Start Location,End Location,Drive Time (h:m:),Stopped Time (h:m:),Distance Travelled (kilometres)
+,,,,,,,
+02-21-22,11:14,11:48,"Wikingerstraße 68, 51107 Köln, Deutschland","Wikingerstraße 68, 51107 Köln, Deutschland",0:33,0:00,0.5
+,11:51,12:16,"Wikingerstraße 68, 51107 Köln, Deutschland","Wikingerstraße 68, 51107 Köln, Deutschland",0:25,0:02,4.4
+,13:24,13:25,"Wikingerstraße 68, 51107 Köln, Deutschland","Wikingerstraße 68, 51107 Köln, Deutschland",0:00,1:08,0.0
+,13:37,13:38,"Wikingerstraße 68, 51107 Köln, Deutschland","Wikingerstraße 68, 51107 Köln, Deutschland",0:00,0:12,0.0
+,13:53,14:12,"Wikingerstraße 70, 51107 Köln, Deutschland","Claudiastraße 9, 51149 Köln, Deutschland",0:18,0:15,6.9
+,14:25,14:27,"Claudiastraße 9, 51149 Köln, Deutschland","Funk-Electronic Piciorgros, Claudiastraße 5, 51149 Köln, Deutschland",0:01,0:13,0.2
+,15:21,15:44,"Funk-Electronic Piciorgros, Claudiastraße 5, 51149 Köln, Deutschland","Zollstockgürtel 39, 50969 Köln, Deutschland",0:23,0:54,10.9
+,15:47,15:56,"Zollstockgürtel 39, 50969 Köln, Deutschland","Ferdinand-Schmitz-Str 2, 50969 Köln, Deutschland",0:08,0:02,2.2
+,18:34,20:11,"Ferdinand-Schmitz-Str 2, 50969 Köln, Deutschland","Aral, Riehler Str 12-14, 50668 Köln, Deutschland",1:36,2:38,67.0
+,20:19,03:15,"Aral, Riehler Str 12-14, 50668 Köln, Deutschland","Gottesweg 18, 50969 Köln, Deutschland",6:56,0:08,231.9
+Daily Totals:,11:14,3:15,,,10:25,5:35,324.0
+,,,,,,,
+02-22-22,-,-,-,-,-,-,-
+,,,,,,,
+02-23-22,14:39,14:51,"Zollstocksweg 5, 50969 Köln, Deutschland","Aral, Riehler Str 12-14, 50668 Köln, Deutschland",0:11,0:00,5.4
+,14:51,15:46,"Aral, Riehler Str 12-14, 50668 Köln, Deutschland","Neusser Str 173, 50733 Köln, Deutschland",0:54,0:00,3.6
+,16:01,16:23,"Neusser Str 179, 50733 Köln, Deutschland","Reiterstandbild Kaiser Wilhelm I., Norbert-Burger-Pl, 50679 Köln, Deutschland",0:21,0:14,7.8
+,16:57,17:48,"Charles-de-Gaulle-Pl, 50679 Köln, Deutschland","Total Wash, Nordallee, 51147 Köln, Deutschland",0:50,0:34,37.9
+,18:03,18:45,"Total, Nordallee 2, 51147 Köln, Deutschland","Shell, Frankfurter Str, 51145 Köln, Deutschland",0:41,0:15,27.4
+,18:46,19:39,"Frankfurter Str 538, 51145 Köln, Deutschland","Neusser Str 381, 50733 Köln, Deutschland",0:53,0:00,42.1
+,19:41,20:36,"Neusser Str 381, 50733 Köln, Deutschland","Aachener Str 1093, 50858 Köln, Deutschland",0:54,0:01,25.1
+,20:37,20:51,"Institut für angewandte Verbraucherforschung e.V., Aachener Str 1089, 50858 Köln, Deutschland","Neue Weyerstraße, 50676 Köln, Deutschland",0:14,0:00,7.9
+,21:31,23:12,"Weyerstraße 75, 50676 Köln, Deutschland","Schützenhofstraße, Marktplatz Berliner Str, 51063 Köln, Deutschland",1:41,0:40,76.5
+Daily Totals:,14:39,23:12,,,6:44,1:49,233.7
+,,,,,,,
+02-24-22,03:45,04:13,"Schützenhofstraße, Marktplatz Berliner Str, 51063 Köln, Deutschland","Gottesweg 15, 50969 Köln, Deutschland",0:27,0:00,13.5
+,16:52,05:00,"Vorgebirgstraße 178, 50969 Köln, Deutschland","Gottesweg 17, 50969 Köln, Deutschland",12:08,12:39,342.5
+Daily Totals:,3:45,5:00,,,12:35,12:39,356.0
+,,,,,,,
+02-25-22,17:20,17:43,"Willigisstraße 1, 50969 Köln, Deutschland","Neusser Str 401, 50733 Köln, Deutschland",0:23,0:00,7.8
+,18:38,18:41,"Neusser Str 384, 50733 Köln, Deutschland","Galeria Karstadt Kaufhof, Neusser Str 244-246, 50733 Köln, Deutschland",0:03,0:54,0.8
+,18:51,19:24,"Galeria Karstadt Kaufhof, Neusser Str 244-246, 50733 Köln, Deutschland","Star, Siegburger Str 406, 51105 Köln, Deutschland",0:32,0:09,15.6
+,19:26,22:37,"Star, Siegburger Str 406, 51105 Köln, Deutschland","Total, Holzmarkt 49, 50676 Köln, Deutschland",3:11,0:01,101.7
+,22:55,06:06,"Total, Holzmarkt 49, 50676 Köln, Deutschland","Gottesweg 15, 50969 Köln, Deutschland",7:11,0:17,286.3
+Daily Totals:,17:20,6:06,,,11:21,1:24,412.1
+,,,,,,,
+02-26-22,16:10,01:10,"Willigisstraße 1, 50969 Köln, Deutschland","PSA 1717, Breslauer Pl, 50668 Köln, Deutschland",8:59,0:00,253.5
+Daily Totals:,16:10,1:10,,,8:59,0:00,253.5
+,,,,,,,
+02-27-22,01:23,06:29,"Breslauer Pl 6, 50668 Köln, Deutschland","Ferdinand-Schmitz-Str 2, 50969 Köln, Deutschland",5:05,0:00,165.7
+,17:45,21:24,"Ferdinand-Schmitz-Str 2, 50969 Köln, Deutschland","Clevischer Ring 51, 51063 Köln, Deutschland",3:39,11:16,82.0
+,21:26,01:13,"Clevischer Ring 51, 51063 Köln, Deutschland","Neusser Str 219, 50733 Köln, Deutschland",3:46,0:02,141.4
+Daily Totals:,1:23,1:13,,,12:31,11:18,389.1
+,,,,,,,
+02-28-22,01:24,08:17,"Neusser Str 219, 50733 Köln, Deutschland","Gottesweg 15, 50969 Köln, Deutschland",6:52,0:00,320.9
+,18:46,21:52,"Ferdinand-Schmitz-Str 2, 50969 Köln, Deutschland","Häuschensweg 2a, 50827 Köln, Deutschland",3:06,10:29,99.8
+,22:04,05:35,"Rochusstraße 85, 50827 Köln, Deutschland","Gottesweg 13, 50969 Köln, Deutschland",7:31,0:11,252.1
+Daily Totals:,1:24,5:35,,,17:31,10:40,672.8
+,,,,,,,
+03-01-22,13:22,13:24,"Gottesweg 15, 50969 Köln, Deutschland","Gottesweg, Höninger Weg, 50969 Köln, Deutschland",0:01,0:00,0.2
+,13:26,13:54,"Gottesweg, Höninger Weg, 50969 Köln, Deutschland","Funk-Electronic Piciorgros, Claudiastraße 5, 51149 Köln, Deutschland",0:27,0:02,10.6
+,14:12,14:23,"Claudiastraße 3b, 51149 Köln, Deutschland","Kölner Str 259, 51149 Köln, Deutschland",0:11,0:17,0.5
+,14:47,15:06,"Kölner Str 259, 51149 Köln, Deutschland","Gottesweg 9, 50969 Köln, Deutschland",0:18,0:24,9.6
+Daily Totals:,13:22,15:06,,,0:59,0:44,20.8
+,,,,,,,
+03-02-22,18:47,19:57,"Gottesweg 6, 50969 Köln, Deutschland","Total, Holzmarkt 49, 50676 Köln, Deutschland",1:09,0:00,49.1
+,21:13,03:12,"Rheinaustraße 32, 50676 Köln, Deutschland","Escher Str 273, 50739 Köln, Deutschland",5:58,1:16,239.2
+Daily Totals:,18:47,3:12,,,7:08,1:16,288.3
+,,,,,,,
+03-03-22,03:13,04:15,"Aral, Escher Str 273, 50739 Köln, Deutschland","Pizza Quick, Gottesweg 16, 50969 Köln, Deutschland",1:01,0:00,22.9
+,17:40,17:46,"Gottesweg 17, 50969 Köln, Deutschland","Esso, Höninger Weg 12-14, 50969 Köln, Deutschland",0:05,13:25,1.3
+,17:46,17:47,"Esso, Höninger Weg, Köln, Deutschland","Esso, Höninger Weg 12-14, 50969 Köln, Deutschland",0:00,0:00,0.0
+,18:02,23:58,"Esso, Höninger Weg 12-14, 50969 Köln, Deutschland","Chlodwigplatz, Karolingerring, 50678 Köln, Deutschland",5:56,0:14,239.0
+Daily Totals:,3:13,23:58,,,7:04,13:40,263.1
+,,,,,,,
+03-04-22,00:45,03:10,"Chlodwigplatz, Karolingerring, 50678 Köln, Deutschland","Gottesweg 15, 50969 Köln, Deutschland",2:24,0:00,46.2
+,13:56,14:18,"Zollstocksweg 18, 50969 Köln, Deutschland","Funk-Electronic Piciorgros, Claudiastraße 5, 51149 Köln, Deutschland",0:21,10:46,10.3
+,16:24,19:47,"Funk-Electronic Piciorgros, Claudiastraße 5, 51149 Köln, Deutschland","Dortmunder Str 41, 51065 Köln, Deutschland",3:23,2:05,116.4
+,20:31,21:35,"Dortmunder Str 41, 51065 Köln, Deutschland","Pizza Quick, Gottesweg 16, 50969 Köln, Deutschland",1:04,0:44,27.2
+,22:29,04:01,"Gottesweg 15, 50969 Köln, Deutschland","Aral, Äußere Kanalstraße 90, 50827 Köln, Deutschland",5:31,0:54,146.7
+Daily Totals:,0:45,4:01,,,12:44,14:30,346.8
+,,,,,,,
+03-05-22,04:03,05:38,"Aral, Äußere Kanalstraße 90, 50827 Köln, Deutschland","Gottesweg 15, 50969 Köln, Deutschland",1:35,0:00,47.5
+,10:17,10:37,"Zollstocksweg 20, 50969 Köln, Deutschland","Schleiermacherstraße 45, 51063 Köln, Deutschland",0:20,4:38,7.8
+,13:35,13:59,"Schleiermacherstraße 47a, 51063 Köln, Deutschland","Ferdinand-Schmitz-Str 4, 50969 Köln, Deutschland",0:23,2:57,8.7
+,17:53,18:01,"Ferdinand-Schmitz-Str 4, 50969 Köln, Deutschland","Star, Brühler Str 274, 50968 Köln, Deutschland",0:07,3:54,2.3
+,18:04,21:50,"Star, Brühler Str 274, 50968 Köln, Deutschland","Venloer Str 354, 50825 Köln, Deutschland",3:46,0:03,137.3
+,22:21,01:26,"Venloer Str 383b, 50825 Köln, Deutschland","Aral, Riehler Str 12-14, 50668 Köln, Deutschland",3:05,0:30,88.5
+Daily Totals:,4:03,1:26,,,9:18,12:04,292.1
+,,,,,,,
+03-06-22,01:38,05:25,"Aral, Riehler Str 12-14, 50668 Köln, Deutschland","Hadersleber Str 20, 50825 Köln, Deutschland",3:47,0:00,75.5
+,06:21,06:40,"Hadersleber Str 18, 50825 Köln, Deutschland","Gottesweg 14, 50969 Köln, Deutschland",0:18,0:56,7.7
+,13:25,13:35,"Gottesweg 14, 50969 Köln, Deutschland","Brühler Str 95b, 50968 Köln, Deutschland",0:09,6:45,2.8
+,14:30,14:34,"Stahleckstraße 13, 50968 Köln, Deutschland","Star, Brühler Str 274, 50968 Köln, Deutschland",0:04,0:54,0.9
+,14:46,17:31,"Star, Brühler Str 274, 50968 Köln, Deutschland","Total, Holzmarkt 49, 50676 Köln, Deutschland",2:45,0:11,84.8
+,17:42,17:49,"Rheinaustraße 32, 50676 Köln, Deutschland","Rheinaustraße 32, 50676 Köln, Deutschland",0:07,0:11,0.0
+,18:06,21:21,"Total, Holzmarkt 49, 50676 Köln, Deutschland","Lina-Bommer-Weg, Alter Deutzer Postweg, 51149 Köln, Deutschland",3:14,0:17,164.6
+,22:12,23:50,"Lina-Bommer-Weg, Alter Deutzer Postweg, 51149 Köln, Deutschland","Aral, Riehler Str 12-14, 50668 Köln, Deutschland",1:37,0:51,91.3
+,23:52,01:29,"Aral, Riehler Str 12-14, 50668 Köln, Deutschland","Gottesweg 15, 50969 Köln, Deutschland",1:37,0:01,83.4
+Daily Totals:,1:38,1:29,,,13:41,10:09,510.9
+,,,,,,,
+03-07-22,10:15,10:36,"Zollstocksweg 7, 50969 Köln, Deutschland","Schleiermacherstraße 47a, 51063 Köln, Deutschland",0:21,0:00,7.8
+,12:54,13:17,"Rahel-Varnhagen-Str 4, 51063 Köln, Deutschland","Gottesweg 8, 50969 Köln, Deutschland",0:23,2:17,8.4
+Daily Totals:,10:15,13:17,,,0:45,2:17,16.2
+,,,,,,,
+03-08-22,12:10,12:29,"Gottesweg 14, 50969 Köln, Deutschland","Kleingärtnerverein Am Schiffhof, Amselweg, 50997 Köln, Deutschland",0:18,0:00,5.8
+,14:31,16:40,"Kleingärtnerverein Am Schiffhof, Amselweg, 50997 Köln, Deutschland","Ferdinand-Schmitz-Str 2, 50969 Köln, Deutschland",2:08,2:02,77.7
+,16:42,17:55,"Gottesweg 13, 50969 Köln, Deutschland","DHL Packstation, Am Westhover Berg, 51149 Köln, Deutschland",1:13,0:01,25.1
+,18:08,02:49,"DHL Packstation, Am Westhover Berg, 51149 Köln, Deutschland","Coeur Cologne, Breslauer Pl, 50668 Köln, Deutschland",8:41,0:12,273.6
+Daily Totals:,12:10,2:49,,,12:21,2:16,382.2
+,,,,,,,
+03-09-22,02:57,03:35,"Coeur Cologne, Breslauer Pl, 50668 Köln, Deutschland","Gottesweg 15, 50969 Köln, Deutschland",0:38,0:00,13.2
+,15:16,16:08,"Gottesweg 17, 50969 Köln, Deutschland","Aral, Kölner Str 255, 51149 Köln, Deutschland",0:52,11:40,19.3
+,16:12,19:34,"Aral, Kölner Str 255, 51149 Köln, Deutschland","Neusser Str 17, 50670 Köln, Deutschland",3:22,0:03,113.6
+,19:43,20:36,"Neusser Str 15, 50670 Köln, Deutschland","Zülpicher Pl 13, 50674 Köln, Deutschland",0:52,0:09,18.7
+,20:58,23:10,"Zülpicher Pl 15, 50674 Köln, Deutschland","Einhardstraße 16, 50937 Köln, Deutschland",2:11,0:22,93.4
+,23:14,06:18,"Sülzburgstraße 27, 50937 Köln, Deutschland","Gottesweg 15, 50969 Köln, Deutschland",7:04,0:04,187.5
+Daily Totals:,2:57,6:18,,,15:01,12:20,445.7
+,,,,,,,
+03-10-22,11:29,11:45,"Gottesweg 13, 50969 Köln, Deutschland","IKEA Parkplatz, Otto-Hahn-Str, 50997 Köln, Deutschland",0:16,0:00,8.2
+,12:13,12:21,"IKEA Parkplatz, Otto-Hahn-Str, 50997 Köln, Deutschland","Aral Verteilerkreis Westseite, Am Verteilerkreis, 50968 Köln, Deutschland",0:08,0:27,4.7
+,12:22,12:31,"Aral Verteilerkreis Westseite, Am Verteilerkreis, 50968 Köln, Deutschland","Gottesweg 13, 50969 Köln, Deutschland",0:09,0:00,4.2
+,17:31,19:11,"Gottesweg 13, 50969 Köln, Deutschland","Neusser Str 526, 50737 Köln, Deutschland",1:39,5:00,65.6
+,19:56,20:33,"Neusser Str 526, 50737 Köln, Deutschland","Coeur Cologne, Breslauer Pl, 50668 Köln, Deutschland",0:37,0:45,9.9
+,20:44,20:49,"Coeur Cologne, Breslauer Pl, 50668 Köln, Deutschland","Johannisstraße 47, 50668 Köln, Deutschland",0:04,0:11,0.2
+,20:50,01:28,"Johannisstraße 60-64, 50668 Köln, Deutschland","PSA 1717, Breslauer Pl, 50668 Köln, Deutschland",4:37,0:01,182.7
+Daily Totals:,11:29,1:28,,,7:32,6:26,275.5
+,,,,,,,
+03-11-22,01:29,02:17,"Breslauer Pl 6, 50668 Köln, Deutschland","Aral, Riehler Str 12-14, 50668 Köln, Deutschland",0:47,0:00,38.7
+,02:21,02:54,"Aral, Riehler Str 12-14, 50668 Köln, Deutschland","Venloer Str 354, 50825 Köln, Deutschland",0:32,0:04,10.7
+,02:57,03:14,"Venloer Str 354, 50825 Köln, Deutschland","Gottesweg 15, 50969 Köln, Deutschland",0:17,0:02,5.7
+,10:53,11:10,"Zollstocksweg 22, 50969 Köln, Deutschland","Claudiastraße 9, 51149 Köln, Deutschland",0:17,7:38,10.4
+,12:06,12:17,"Claudiastraße 9, 51149 Köln, Deutschland","Claudiastraße 9, 51149 Köln, Deutschland",0:10,0:56,0.2
+,12:58,15:16,"Claudiastraße 9, 51149 Köln, Deutschland","Schützenhofstraße, Marktplatz Berliner Str, 51063 Köln, Deutschland",2:18,0:40,91.9
+,16:01,19:23,"Schützenhofstraße, Marktplatz Berliner Str, 51063 Köln, Deutschland","Ferdinand-Schmitz-Str 4, 50969 Köln, Deutschland",3:21,0:45,115.1
+,22:08,00:23,"Ferdinand-Schmitz-Str 2, 50969 Köln, Deutschland","702, Venloer Str, 50823 Köln, Deutschland",2:15,2:44,71.9
+Daily Totals:,1:29,0:23,,,10:01,12:53,344.5
+,,,,,,,
+03-12-22,00:24,02:28,"702, Venloer Str, 50823 Köln, Deutschland","Venloer Str 310-316, 50823 Köln, Deutschland",2:03,0:00,101.6
+,02:31,06:31,"Venloer Str 308c, 50823 Köln, Deutschland","Ferdinand-Schmitz-Str 2, 50969 Köln, Deutschland",3:59,0:03,145.8
+,16:21,16:28,"St. Pius, Gottesweg 12, 50969 Köln, Deutschland","Zollstockgürtel 39, 50969 Köln, Deutschland",0:07,9:50,0.9
+,16:33,17:12,"Aral, Zollstockgürtel 39, 50969 Köln, Deutschland","Berliner Str 27, 51063 Köln, Deutschland",0:39,0:04,10.2
+,18:21,20:13,"Berliner Str 25, 51063 Köln, Deutschland","Lidl, Düsseldorfer Str 177, 51063 Köln, Deutschland",1:51,1:09,84.3
+,20:24,22:31,"Am Faulbach, 51063 Köln, Deutschland","Shell, Neusser Str, 50733 Köln, Deutschland",2:06,0:11,66.0
+,22:57,23:06,"Shell, Neusser Str, 50733 Köln, Deutschland","Venloer Str 337, 50823 Köln, Deutschland",0:09,0:25,3.4
+,23:08,04:03,"Venloer Str 337, 50823 Köln, Deutschland","Hadersleber Str 20, 50825 Köln, Deutschland",4:55,0:01,202.0
+Daily Totals:,0:24,4:03,,,15:52,11:46,614.1
+,,,,,,,
+03-13-22,04:38,05:45,"Hadersleber Str 20, 50825 Köln, Deutschland","Helmholtzstraße 8, 50825 Köln, Deutschland",1:06,0:00,26.3
+,05:48,06:26,"Helmholtzstraße 6, 50825 Köln, Deutschland","Gottesweg 15, 50969 Köln, Deutschland",0:37,0:03,12.1
+,16:55,17:03,"St. Pius, Gottesweg 12, 50969 Köln, Deutschland","Brühler Str 114, 50968 Köln, Deutschland",0:08,10:29,2.9
+,18:04,18:12,"Brühler Str 114, 50968 Köln, Deutschland","Gottesweg 13, 50969 Köln, Deutschland",0:08,1:00,1.9
+,18:15,22:15,"Gottesweg 13, 50969 Köln, Deutschland","Bauerbankstraße 33, 50969 Köln, Deutschland",4:00,0:02,114.5
+Daily Totals:,4:38,22:15,,,6:01,11:36,157.8
+,,,,,,,
+03-14-22,01:10,04:37,"Bauerbankstraße 33, 50969 Köln, Deutschland","Coeur Cologne, Breslauer Pl, 50668 Köln, Deutschland",3:26,0:00,107.3
+,04:46,06:13,"Coeur Cologne, Breslauer Pl, 50668 Köln, Deutschland","Gottesweg 17, 50969 Köln, Deutschland",1:26,0:08,7.7
+,13:27,13:33,"Zollstocksweg 20, 50969 Köln, Deutschland","Einhardstraße 16, 50937 Köln, Deutschland",0:05,7:14,1.7
+,13:34,13:57,"Sülzburgstraße 60, 50937 Köln, Deutschland","Gottesweg 15, 50969 Köln, Deutschland",0:22,0:01,1.6
+,17:11,17:17,"Ferdinand-Schmitz-Str 2, 50969 Köln, Deutschland","Aral, Zollstockgürtel 39, 50969 Köln, Deutschland",0:06,3:14,1.0
+,17:21,19:31,"Zollstockgürtel 39, 50969 Köln, Deutschland","Total, Holzmarkt 49, 50676 Köln, Deutschland",2:10,0:04,32.2
+,19:33,02:17,"Total, Holzmarkt 49, 50676 Köln, Deutschland","Gottesweg 15, 50969 Köln, Deutschland",6:44,0:01,234.0
+Daily Totals:,1:10,2:17,,,14:21,10:45,385.3
+,,,,,,,
+03-15-22,14:08,15:10,"Willigisstraße 1, 50969 Köln, Deutschland","Neusser Str 179, 50733 Köln, Deutschland",1:01,0:00,18.7
+,15:27,17:43,"Neusser Str 179, 50733 Köln, Deutschland","Neue Weyerstraße 5, 50676 Köln, Deutschland",2:15,0:17,59.9
+,18:40,19:34,"Pantaleonswall 50, 50676 Köln, Deutschland","Tassostraße 14, 51145 Köln, Deutschland",0:53,0:57,32.3
+,19:41,03:37,"Tassostraße 14, 51145 Köln, Deutschland","Ferdinand-Schmitz-Str 1, 50969 Köln, Deutschland",7:55,0:07,280.1
+Daily Totals:,14:08,3:37,,,12:06,1:21,391.0
+,,,,,,,
+03-16-22,12:27,12:49,"Gottesweg 13, 50969 Köln, Deutschland","Venloer Str 242, 50823 Köln, Deutschland",0:22,0:00,6.2
+,13:18,13:54,"Venloer Str 238, 50823 Köln, Deutschland","Dieselstraße 12, 50354 Hürth, Deutschland",0:35,0:28,9.6
+,14:07,14:39,"Dieselstraße 12, 50354 Hürth, Deutschland","Fahrzeughaus Erpelding GmbH, Biesterfeldstraße 3, 50829 Köln, Deutschland",0:32,0:13,14.0
+,14:49,15:14,"Venloer Str 897, 50829 Köln, Deutschland","Gottesweg 13, 50969 Köln, Deutschland",0:24,0:09,8.3
+,15:17,15:22,"Gottesweg 13, 50969 Köln, Deutschland","Zollstockgürtel 39, 50969 Köln, Deutschland",0:05,0:03,1.3
+,15:26,17:15,"Aral, Zollstockgürtel 39, 50969 Köln, Deutschland","Markthalle, Marktplatz Berliner Str, 51063 Köln, Deutschland",1:48,0:04,61.0
+,17:50,19:32,"Markthalle, Marktplatz Berliner Str, 51063 Köln, Deutschland","Ferdinand-Schmitz-Str 2, 50969 Köln, Deutschland",1:41,0:35,60.3
+,20:32,23:54,"Ferdinand-Schmitz-Str 2, 50969 Köln, Deutschland","Venloer Straße / Gürtel, Venloer Str, 50825 Köln, Deutschland",3:21,1:00,146.2
+Daily Totals:,12:27,23:54,,,8:51,2:35,306.9
+,,,,,,,
+03-17-22,00:24,04:48,"Venloer Straße / Gürtel, Venloer Str, 50825 Köln, Deutschland","Gottesweg 13, 50969 Köln, Deutschland",4:24,0:00,150.0
+,17:49,18:44,"Ferdinand-Schmitz-Str 4, 50969 Köln, Deutschland","Emil-Hoffmann-Str 21B, 50996 Köln, Deutschland",0:54,13:00,9.2
+,18:47,20:52,"Emil-Hoffmann-Str 21B, 50996 Köln, Deutschland","PSA 1717, Breslauer Pl, 50668 Köln, Deutschland",2:04,0:03,82.0
+,21:00,00:27,"PSA 1717, Breslauer Pl, 50668 Köln, Deutschland","Venloer Str 331, 50823 Köln, Deutschland",3:27,0:08,160.5
+Daily Totals:,0:24,0:27,,,10:50,13:12,401.7
+,,,,,,,
+03-18-22,00:28,00:55,"Venloer Str 331, 50823 Köln, Deutschland","Coeur Cologne, Breslauer Pl, 50668 Köln, Deutschland",0:27,0:00,6.6
+,01:00,02:31,"Coeur Cologne, Breslauer Pl, 50668 Köln, Deutschland","Aral, Siegburger Str 116a, 50679 Köln, Deutschland",1:30,0:04,49.9
+,02:35,05:33,"Aral, Siegburger Str 116a, 50679 Köln, Deutschland","St. Pius, Gottesweg 12, 50969 Köln, Deutschland",2:58,0:03,98.4
+,15:32,18:37,"St. Pius, Gottesweg 12, 50969 Köln, Deutschland","Neusser Str 191, 50733 Köln, Deutschland",3:05,9:58,118.8
+,18:48,19:31,"Neusser Str 191, 50733 Köln, Deutschland","Lidl, Leyendeckerstraße 2a, 50825 Köln, Deutschland",0:42,0:11,11.0
+,19:43,01:07,"Lidl, Leyendeckerstraße 2a, 50825 Köln, Deutschland","Shell, Schloß Röttgen Ost, 51149 Köln, Deutschland",5:24,0:11,226.9
+Daily Totals:,0:28,1:07,,,14:08,10:30,511.6
+,,,,,,,
+03-19-22,01:12,05:22,"Shell, Schloß Röttgen Ost, 51149 Köln, Deutschland","St. Pius, Gottesweg 12, 50969 Köln, Deutschland",4:09,0:00,103.0
+,13:34,13:43,"St. Pius, Gottesweg 12, 50969 Köln, Deutschland","Brühler Str 95a, 50968 Köln, Deutschland",0:08,8:12,2.8
+,15:17,15:25,"Brühler Str 108, 50968 Köln, Deutschland","Gottesweg 13, 50969 Köln, Deutschland",0:07,1:33,2.9
+,17:50,20:04,"Gottesweg 15, 50969 Köln, Deutschland","Berliner Str 29, 51063 Köln, Deutschland",2:13,2:25,71.6
+,20:40,22:23,"Berliner Str 29, 51063 Köln, Deutschland","Pantaleonswall 65-75, 50676 Köln, Deutschland",1:43,0:36,64.4
+,22:59,03:48,"Pantaleonswall 65-75, 50676 Köln, Deutschland","Evezastraße 31, 51143 Köln, Deutschland",4:48,0:35,193.0
+Daily Totals:,1:12,3:48,,,13:12,13:23,437.5
+,,,,,,,
+03-20-22,04:03,06:04,"Evezastraße 31, 51143 Köln, Deutschland","Gottesweg 13, 50969 Köln, Deutschland",2:01,0:00,56.3
+,15:48,17:46,"Gottesweg 15, 50969 Köln, Deutschland","Pantaleonswall, 50676 Köln, Deutschland",1:57,9:43,56.3
+,18:52,23:56,"Pantaleonswall, 50676 Köln, Deutschland","Shell, Bonner Str 98, 50677 Köln, Deutschland",5:03,1:06,204.6
+,23:59,01:03,"Bonner Wall, 50677 Köln, Deutschland","Aral, Riehler Str 12-14, 50668 Köln, Deutschland",1:04,0:03,35.8
+Daily Totals:,4:03,1:03,,,10:07,10:53,353.0
+,,,,,,,
+03-21-22,01:12,04:15,"Aral, Riehler Str 12-14, 50668 Köln, Deutschland","Pizza Quick, Gottesweg 16, 50969 Köln, Deutschland",3:03,0:00,58.1
+,13:32,14:40,"Gottesweg 15, 50969 Köln, Deutschland","Mannesmannstraße 1, 50996 Köln, Deutschland",1:08,9:16,9.2
+,14:45,14:53,"Emil-Hoffmann-Str 21B, 50996 Köln, Deutschland","Lidl, Emil-Hoffmann-Str 42, 50996 Köln, Deutschland",0:07,0:04,0.3
+,14:58,16:19,"Lidl, Emil-Hoffmann-Str 42, 50996 Köln, Deutschland","Berliner Str 43, 51063 Köln, Deutschland",1:20,0:05,43.2
+,16:54,01:10,"Berliner Str 43, 51063 Köln, Deutschland","Heliosturm, Heliosstraße, 50825 Köln, Deutschland",8:16,0:34,281.1
+Daily Totals:,1:12,1:10,,,13:56,10:02,391.8
+,,,,,,,
+03-22-22,01:46,02:35,"Heliosstraße 54, 50825 Köln, Deutschland","Venloer Straße / Gürtel, Venloer Str, 50825 Köln, Deutschland",0:48,0:00,23.7
+,03:01,04:17,"Venloer Straße / Gürtel, Venloer Str, 50825 Köln, Deutschland","Gottesweg 15, 50969 Köln, Deutschland",1:16,0:25,36.3
+,15:15,16:37,"Gottesweg 15, 50969 Köln, Deutschland","Parkhaus Köln Arcaden, Barcelona-Allee, 51103 Köln, Deutschland",1:22,10:58,33.1
+,17:05,17:27,"Parkhaus Köln Arcaden, Barcelona-Allee, 51103 Köln, Deutschland","Heliosturm, Heliosstraße, 50825 Köln, Deutschland",0:21,0:27,8.3
+,17:59,19:49,"Heliosturm, Heliosstraße, 50825 Köln, Deutschland","Venloer Str 326, 50823 Köln, Deutschland",1:49,0:32,44.6
+,19:54,00:43,"Venloer Str 326, 50823 Köln, Deutschland","Aachener Str 1095, 50858 Köln, Deutschland",4:49,0:04,136.8
+Daily Totals:,1:46,0:43,,,10:28,12:29,282.8
+,,,,,,,
+03-23-22,00:48,01:44,"Aachener Str 1095, 50858 Köln, Deutschland","Venloer Straße / Gürtel, Venloer Str, 50825 Köln, Deutschland",0:56,0:00,27.4
+,01:47,03:33,"Venloer Str 354, 50825 Köln, Deutschland","Gottesweg 10, 50969 Köln, Deutschland",1:46,0:02,35.2
+,16:59,17:31,"Gottesweg 10, 50969 Köln, Deutschland","Aachener Str 199, 50931 Köln, Deutschland",0:32,13:25,5.8
+,17:47,-,"Aachener Str 201, 50931 Köln, Deutschland",Journey in Progress,0:03,0:15,0.0
+Daily Totals:,0:48,17:51,,,3:19,13:43,68.4
+,,,,,,,
+Totals:,,,,,310:02,254:28,10129.4

@@ -1,0 +1,273 @@
+Kinesis Telematics & Dashcam - Individual Trips - K XI 1071/Muhammad Inayat,,,,,,,
+,,,,,,,
+Date,Start Time,End Time,Start Location,End Location,Drive Time (h:m:),Stopped Time (h:m:),Distance Travelled (kilometres)
+,,,,,,,
+02-21-22,07:54,08:21,"Diepeschrather Str 24, 51069 Köln, Deutschland","Diepeschrather Str 31, 51069 Köln, Deutschland",0:27,0:00,9.8
+,08:22,08:33,"Diepeschrather Str 31, 51069 Köln, Deutschland","Nikolaus-Lenau-Str 7e, 51469 Bergisch Gladbach, Deutschland",0:11,0:00,4.3
+,12:05,12:07,"Gustav-Stresemann-Str 1, 51469 Bergisch Gladbach, Deutschland","Willy-Brandt-Str 1, 51469 Bergisch Gladbach, Deutschland",0:02,3:31,0.4
+,12:10,12:16,"Willy-Brandt-Str 1, 51469 Bergisch Gladbach, Deutschland","Jet, Bergisch Gladbacher Str 1146, 51069 Köln, Deutschland",0:05,0:02,2.3
+,14:56,20:46,"Roonstraße 48, 50674 Köln, Deutschland","Diepeschrather Str 24, 51069 Köln, Deutschland",5:49,2:40,134.8
+Daily Totals:,7:54,20:46,,,6:36,6:15,151.6
+,,,,,,,
+02-22-22,07:53,08:50,"Diepeschrather Str 29, 51069 Köln, Deutschland","Nikolaus-Lenau-Str 7a, 51469 Bergisch Gladbach, Deutschland",0:57,0:00,22.8
+,10:35,11:17,"Nikolaus-Lenau-Str 7e, 51469 Bergisch Gladbach, Deutschland","Funk-Electronic Piciorgros, Claudiastraße 5, 51149 Köln, Deutschland",0:42,1:44,21.6
+,11:41,11:45,"Claudiastraße 3b, 51149 Köln, Deutschland","Claudiastraße 3b, 51149 Köln, Deutschland",0:04,0:24,0.1
+,11:52,13:40,"Funk-Electronic Piciorgros, Claudiastraße 5, 51149 Köln, Deutschland","Aldi Süd, Kradepohlsmühlenweg 8, 51469 Bergisch Gladbach, Deutschland",1:47,0:06,48.9
+,13:56,14:00,"Aldi Süd, Kradepohlsmühlenweg 8, 51469 Bergisch Gladbach, Deutschland","Nikolaus-Lenau-Str 7, 51469 Bergisch Gladbach, Deutschland",0:04,0:16,1.2
+,14:25,20:17,"Nikolaus-Lenau-Str 7e, 51469 Bergisch Gladbach, Deutschland","Diepeschrather Str 24, 51069 Köln, Deutschland",5:52,0:24,171.9
+,23:53,02:15,"Diepeschrather Str 23, 51069 Köln, Deutschland","Hohenstaufenring 30, 50674 Köln, Deutschland",2:21,3:35,56.7
+Daily Totals:,7:53,2:15,,,11:49,6:32,323.2
+,,,,,,,
+02-23-22,02:15,02:29,"Zülpicher Platz, Hohenstaufenring, 50674 Köln, Deutschland","Waldorfkindergarten Köln-Volksgarten e.V., Vorgebirgswall 29, 50677 Köln, Deutschland",0:13,0:00,3.4
+,02:31,03:47,"Waldorfkindergarten Köln-Volksgarten e.V., Vorgebirgswall 29, 50677 Köln, Deutschland","Diepeschrather Str 27, 51069 Köln, Deutschland",1:16,0:01,35.6
+,08:14,08:24,"Hyazinthenweg 2a, 51069 Köln, Deutschland","Nikolaus-Lenau-Str 4, 51469 Bergisch Gladbach, Deutschland",0:09,4:27,3.9
+,08:27,09:45,"Nikolaus-Lenau-Str 4, 51469 Bergisch Gladbach, Deutschland","OBI, Jakobstraße 57, 51465 Bergisch Gladbach, Deutschland",1:18,0:03,23.0
+,09:55,13:59,"OBI, Jakobstraße 57, 51465 Bergisch Gladbach, Deutschland","Kradepohlsmühlenweg 4, 51469 Bergisch Gladbach, Deutschland",4:03,0:10,121.0
+,14:00,14:03,"Ferdinandstraße 34, 51469 Refrath, Deutschland","Nikolaus-Lenau-Str 7e, 51469 Bergisch Gladbach, Deutschland",0:03,0:01,1.0
+,14:47,14:50,"Nikolaus-Lenau-Str 7a, 51469 Bergisch Gladbach, Deutschland","CenterShop, Mülheimer Str 81, 51469 Bergisch Gladbach, Deutschland",0:03,0:43,1.0
+,14:56,15:01,"CenterShop, Mülheimer Str 81, 51469 Bergisch Gladbach, Deutschland","Kaufland, Gronauer Waldweg, 51465 Refrath, Deutschland",0:05,0:06,1.8
+,16:01,16:10,"Kaufland, Gronauer Waldweg, 51465 Refrath, Deutschland","Kradepohlsmühlenweg 14, 51469 Refrath, Deutschland",0:09,1:00,1.9
+,16:18,16:21,"Kradepohlsmühlenweg 14, 51469 Refrath, Deutschland","Nikolaus-Lenau-Str 7a, 51469 Bergisch Gladbach, Deutschland",0:03,0:07,1.2
+,16:25,16:31,"Nikolaus-Lenau-Str 7e, 51469 Bergisch Gladbach, Deutschland","Jet, Bergisch Gladbacher Str 1146, 51069 Köln, Deutschland",0:06,0:03,2.7
+,16:35,21:42,"Jet, Bergisch Gladbacher Str 1146, 51069 Köln, Deutschland","Kalk-Mülheimer Str 5, 51103 Köln, Deutschland",5:06,0:03,117.8
+,21:43,23:26,"Kalk-Mülheimer Str 5, 51103 Köln, Deutschland","Alteburger Str 14, 50678 Köln, Deutschland",1:43,0:01,38.0
+,23:28,02:37,"Alteburger Str 14, 50678 Köln, Deutschland","Diepeschrather Str 24, 51069 Köln, Deutschland",3:08,0:01,80.8
+Daily Totals:,2:15,2:37,,,17:30,6:51,433.0
+,,,,,,,
+02-24-22,08:19,08:30,"Diepeschrather Str 27, 51069 Köln, Deutschland","Nikolaus-Lenau-Str 3, 51469 Bergisch Gladbach, Deutschland",0:10,0:00,4.1
+,08:42,11:31,"Nikolaus-Lenau-Str 4, 51469 Bergisch Gladbach, Deutschland","Aldi Süd, Kradepohlsmühlenweg 8, 51469 Bergisch Gladbach, Deutschland",2:49,0:12,87.7
+,11:40,11:43,"Aldi Süd, Kradepohlsmühlenweg 8, 51469 Bergisch Gladbach, Deutschland","Nikolaus-Lenau-Str 7a, 51469 Bergisch Gladbach, Deutschland",0:03,0:08,1.1
+,11:48,16:25,"Nikolaus-Lenau-Str 7a, 51469 Bergisch Gladbach, Deutschland","Militärringstraße, 50969 Köln, Deutschland",4:37,0:05,102.4
+,16:27,21:07,"Militärringstraße, 50969 Köln, Deutschland","Hyazinthenweg 2a, 51069 Köln, Deutschland",4:40,0:01,85.5
+,21:29,22:32,"Hyazinthenweg 2a, 51069 Köln, Deutschland","Jet, Bergisch Gladbacher Str 388, 51067 Köln, Deutschland",1:03,0:21,31.7
+,22:36,03:06,"Jet, Bergisch Gladbacher Str 388, 51067 Köln, Deutschland","Hohenzollernring 55, 50672 Köln, Deutschland",4:29,0:03,124.2
+Daily Totals:,8:19,3:06,,,17:53,0:53,436.6
+,,,,,,,
+02-25-22,03:48,04:13,"Hohenzollernring 57-63, 50672 Köln, Deutschland","Zehntstraße 11, 51065 Köln, Deutschland",0:25,0:00,9.8
+,04:37,04:52,"Bergisch Gladbacher Str 111, 51065 Köln, Deutschland","Hyazinthenweg 2a, 51069 Köln, Deutschland",0:14,0:24,5.7
+,08:19,08:44,"Diepeschrather Str 24, 51069 Köln, Deutschland","Diepeschrather Str 31, 51069 Köln, Deutschland",0:24,3:27,8.2
+,08:46,12:13,"Diepeschrather Str 31, 51069 Köln, Deutschland","Esch, 50765 Köln, Deutschland",3:27,0:02,127.8
+,12:15,15:42,"Esch, 50765 Köln, Deutschland","Blanckertzstraße 2, 40629 Düsseldorf, Deutschland",3:26,0:01,110.4
+,15:55,16:04,"Blanckertzstraße 2, 40629 Düsseldorf, Deutschland","Parkplatz Stindertal, Stindertal, 40699 Erkrath, Deutschland",0:08,0:13,6.5
+,16:07,18:38,"Parkplatz Stindertal, Stindertal, 40699 Erkrath, Deutschland","Esch, 50765 Köln, Deutschland",2:31,0:03,128.9
+,18:41,20:05,"Esch, 50765 Köln, Deutschland","Bergisch Gladbacher Str 1123, 51069 Köln, Deutschland",1:24,0:02,51.5
+,20:11,20:16,"Bergisch Gladbacher Str 1148a, 51069 Köln, Deutschland","P+R Duckterath, Damaschkestraße, 51469 Bergisch Gladbach, Deutschland",0:05,0:05,2.0
+,21:42,00:47,"P+R Duckterath, Damaschkestraße, 51469 Bergisch Gladbach, Deutschland","Schönhauser Str 5, 50968 Köln, Deutschland",3:04,1:25,88.9
+Daily Totals:,3:48,0:47,,,15:14,5:45,539.7
+,,,,,,,
+02-26-22,00:48,01:06,"Schönhauser Str 5, 50968 Köln, Deutschland","Moselstraße 40, 50674 Köln, Deutschland",0:17,0:00,4.8
+,01:07,04:44,"Köln Süd, Moselstraße, 50674 Köln, Deutschland","Hyazinthenweg 2a, 51069 Köln, Deutschland",3:36,0:01,86.0
+,08:17,08:26,"Hyazinthenweg 2a, 51069 Köln, Deutschland","P+R Duckterath, Damaschkestraße, 51469 Bergisch Gladbach, Deutschland",0:08,3:32,3.8
+,12:37,12:43,"P+R Duckterath, Damaschkestraße, 51469 Bergisch Gladbach, Deutschland","Nikolaus-Lenau-Str 3, 51469 Bergisch Gladbach, Deutschland",0:05,4:11,1.5
+,13:03,13:08,"Nikolaus-Lenau-Str 7e, 51469 Bergisch Gladbach, Deutschland","Duckterath, Damaschkestraße, 51469 Bergisch Gladbach, Deutschland",0:04,0:20,1.1
+,13:23,13:27,"CenterShop, Mülheimer Str 81, 51469 Bergisch Gladbach, Deutschland","Nikolaus-Lenau-Str 7e, 51469 Bergisch Gladbach, Deutschland",0:03,0:15,1.1
+,13:58,03:16,"Nikolaus-Lenau-Str 7a, 51469 Bergisch Gladbach, Deutschland","Nikolaus-Lenau-Str 7e, 51469 Bergisch Gladbach, Deutschland",13:18,0:31,344.0
+Daily Totals:,0:48,3:16,,,17:34,8:53,442.2
+,,,,,,,
+02-27-22,11:53,16:22,"Nikolaus-Lenau-Str 3, 51469 Bergisch Gladbach, Deutschland","Star, Siegburger Str 406, 51105 Köln, Deutschland",4:29,0:00,115.8
+,16:25,19:22,"Star, Siegburger Str 406, 51105 Köln, Deutschland","Pfälzischer Ring, 51065 Köln, Deutschland",2:57,0:02,89.1
+,19:24,23:28,"Pfälzischer Ring, 51065 Köln, Deutschland","Nikolaus-Lenau-Str 7, 51469 Bergisch Gladbach, Deutschland",4:04,0:01,191.2
+Daily Totals:,11:53,23:28,,,11:31,0:04,396.1
+,,,,,,,
+02-28-22,10:33,11:06,"Nikolaus-Lenau-Str 7, 51469 Bergisch Gladbach, Deutschland","Funk-Electronic Piciorgros, Claudiastraße 5, 51149 Köln, Deutschland",0:32,0:00,19.4
+,11:14,11:17,"Funk-Electronic Piciorgros, Claudiastraße 5, 51149 Köln, Deutschland","Funk-Electronic Piciorgros, Claudiastraße 5, 51149 Köln, Deutschland",0:03,0:08,0.1
+,11:45,15:50,"Funk-Electronic Piciorgros, Claudiastraße 5, 51149 Köln, Deutschland","Mülheimer Str 84a, 51469 Bergisch Gladbach, Deutschland",4:04,0:28,94.8
+,16:18,16:20,"Mülheimer Str 76, 51469 Bergisch Gladbach, Deutschland","Aldi Süd, Kradepohlsmühlenweg 8, 51469 Bergisch Gladbach, Deutschland",0:01,0:27,0.2
+,16:31,16:35,"Aldi Süd, Kradepohlsmühlenweg 8, 51469 Bergisch Gladbach, Deutschland","Nikolaus-Lenau-Str 7e, 51469 Bergisch Gladbach, Deutschland",0:03,0:11,1.1
+,16:55,17:06,"Nikolaus-Lenau-Str 7e, 51469 Bergisch Gladbach, Deutschland","Jet, Bergisch Gladbacher Str 1146, 51069 Köln, Deutschland",0:10,0:20,4.1
+,17:09,22:01,"Bergisch Gladbacher Str 1148a, 51069 Köln, Deutschland","Nikolaus-Lenau-Str 7e, 51469 Bergisch Gladbach, Deutschland",4:52,0:03,127.1
+Daily Totals:,10:33,22:01,,,9:48,1:39,246.8
+,,,,,,,
+03-01-22,11:16,11:33,"Nikolaus-Lenau-Str 3, 51469 Bergisch Gladbach, Deutschland","Cederwaldstraße 24a, 51465 Bensberg, Deutschland",0:17,0:00,4.9
+,11:39,13:41,"Expert, Richard-Zanders-Str 11, 51465 Bensberg, Deutschland","Funk-Electronic Piciorgros, Claudiastraße 5, 51149 Köln, Deutschland",2:02,0:05,97.7
+,13:50,13:50,"Claudiastraße 3b, 51149 Köln, Deutschland","Claudiastraße 3b, 51149 Köln, Deutschland",0:00,0:08,0.1
+,14:04,21:04,"Claudiastraße 3b, 51149 Köln, Deutschland","Nikolaus-Lenau-Str 3, 51469 Bergisch Gladbach, Deutschland",7:00,0:13,148.4
+Daily Totals:,11:16,21:04,,,9:20,0:27,251.1
+,,,,,,,
+03-02-22,09:51,10:58,"Damaschkestraße, Hermann-Löns-Str, 51469 Bergisch Gladbach, Deutschland","Claudiastraße 9, 51149 Köln, Deutschland",1:06,0:00,38.7
+,11:19,11:44,"Claudiastraße 7, 51149 Köln, Deutschland","Claudiastraße 9, 51149 Köln, Deutschland",0:24,0:21,10.4
+,11:45,11:46,"Claudiastraße 9, 51149 Köln, Deutschland","Claudiastraße 9, 51149 Köln, Deutschland",0:01,0:01,0.0
+,11:57,12:00,"Claudiastraße 9, 51149 Köln, Deutschland","Claudiastraße 9, 51149 Köln, Deutschland",0:02,0:11,0.0
+,12:04,12:08,"Claudiastraße 9, 51149 Köln, Deutschland","Claudiastraße 9, 51149 Köln, Deutschland",0:03,0:04,0.2
+,12:08,12:09,"Claudiastraße 9, 51149 Köln, Deutschland","Funk-Electronic Piciorgros, Claudiastraße 5, 51149 Köln, Deutschland",0:01,0:00,0.1
+,13:24,13:57,"Claudiastraße 9, 51149 Köln, Deutschland","Mülheimer Str 84a, 51469 Bergisch Gladbach, Deutschland",0:32,1:14,19.3
+,14:02,14:13,"Mülheimer Str 84a, 51469 Bergisch Gladbach, Deutschland","Nikolaus-Lenau-Str 7e, 51469 Bergisch Gladbach, Deutschland",0:11,0:04,3.3
+,14:35,16:15,"Nikolaus-Lenau-Str 7e, 51469 Bergisch Gladbach, Deutschland","Bergisch Gladbacher Str 632, 51067 Köln, Deutschland",1:39,0:22,39.5
+,16:27,19:52,"Bergisch Gladbacher Str 632, 51067 Köln, Deutschland","Mathias-Brüggen-Str, 50827 Köln, Deutschland",3:25,0:11,71.9
+,19:54,20:20,"Mathias-Brüggen-Str, 50827 Köln, Deutschland","Bardenheuerstraße 9, 50931 Köln, Deutschland",0:26,0:02,8.1
+,20:36,22:50,"Universitätsklinikum Köln, Rurstraße, 50937 Köln, Deutschland","Bergisch Gladbacher Str 1148a, 51069 Köln, Deutschland",2:14,0:15,68.2
+,22:54,23:03,"Bergisch Gladbacher Str 1148a, 51069 Köln, Deutschland","Nikolaus-Lenau-Str 7, 51469 Bergisch Gladbach, Deutschland",0:08,0:03,3.0
+Daily Totals:,9:51,23:03,,,10:17,2:53,262.9
+,,,,,,,
+03-03-22,11:04,14:40,"Nikolaus-Lenau-Str 7a, 51469 Bergisch Gladbach, Deutschland","""Odonien"" - Kunst-und Kulturpark, Hornstraße 85, 50823 Köln, Deutschland",3:36,0:00,74.4
+,14:43,14:45,"""Odonien"" - Kunst-und Kulturpark, Hornstraße 85, 50823 Köln, Deutschland","Hornstraße 92, 50823 Köln, Deutschland",0:02,0:02,0.4
+,15:05,17:19,"Hornstraße 92, 50823 Köln, Deutschland","Interimsbau Greinstraße, Greinstraße, 50939 Köln, Deutschland",2:13,0:20,48.9
+,17:23,20:26,"Interimsbau Greinstraße, Greinstraße, 50939 Köln, Deutschland","Mülheimer Str 76, 51469 Bergisch Gladbach, Deutschland",3:02,0:04,68.7
+,20:51,20:56,"Mülheimer Str 76, 51469 Bergisch Gladbach, Deutschland","Nikolaus-Lenau-Str 7a, 51469 Bergisch Gladbach, Deutschland",0:04,0:25,1.2
+,20:57,21:06,"Nikolaus-Lenau-Str 7e, 51469 Bergisch Gladbach, Deutschland","Nikolaus-Lenau-Str 3, 51469 Bergisch Gladbach, Deutschland",0:08,0:01,0.4
+Daily Totals:,11:04,21:06,,,9:08,0:54,194.0
+,,,,,,,
+03-04-22,15:15,02:46,"Nikolaus-Lenau-Str 3, 51469 Bergisch Gladbach, Deutschland","Nikolaus-Lenau-Str 3, 51469 Bergisch Gladbach, Deutschland",11:30,0:00,268.3
+Daily Totals:,15:15,2:46,,,11:30,0:00,268.3
+,,,,,,,
+03-05-22,13:30,19:07,"Nikolaus-Lenau-Str 7e, 51469 Bergisch Gladbach, Deutschland","Netto, Weinsbergstraße, 50825 Köln, Deutschland",5:36,0:00,182.5
+,19:09,19:31,"KFZ Meisterbetrieb, Oskar-Jäger-Str 155, 50825 Köln, Deutschland","Butzweilerstraße, 50827 Köln, Deutschland",0:21,0:01,11.1
+,19:34,20:18,"Butzweilerstraße, 50827 Köln, Deutschland","Rhöndorfer Str 14, 50939 Köln, Deutschland",0:43,0:03,16.2
+,20:37,20:46,"Rhöndorfer Str 13, 50939 Köln, Deutschland","Luxemburger Str 136, 50939 Köln, Deutschland",0:09,0:19,2.0
+,20:53,00:27,"Uni-Center, Universitätsstraße, 50939 Köln, Deutschland","Nikolaus-Lenau-Str 7e, 51469 Bergisch Gladbach, Deutschland",3:34,0:06,75.2
+Daily Totals:,13:30,0:27,,,10:26,0:31,287.1
+,,,,,,,
+03-06-22,11:18,11:19,"Nikolaus-Lenau-Str 4, 51469 Bergisch Gladbach, Deutschland","Nikolaus-Lenau-Str 4, 51469 Bergisch Gladbach, Deutschland",0:00,0:00,0.0
+,12:45,21:11,"Nikolaus-Lenau-Str 3, 51469 Bergisch Gladbach, Deutschland","Nikolaus-Lenau-Str 7e, 51469 Bergisch Gladbach, Deutschland",8:26,1:25,288.3
+Daily Totals:,11:18,21:11,,,8:26,1:25,288.3
+,,,,,,,
+03-07-22,10:05,12:21,"Nikolaus-Lenau-Str 7e, 51469 Bergisch Gladbach, Deutschland","Claudiastraße 9, 51149 Köln, Deutschland",2:16,0:00,60.4
+,12:29,12:34,"Claudiastraße 9, 51149 Köln, Deutschland","Funk-Electronic Piciorgros, Claudiastraße 5, 51149 Köln, Deutschland",0:05,0:07,0.3
+,12:44,16:47,"Funk-Electronic Piciorgros, Claudiastraße 5, 51149 Köln, Deutschland","Siegburger Str 118, 50679 Köln, Deutschland",4:02,0:10,79.5
+,17:02,21:33,"Lidl, Siegburger Str 120, 50679 Köln, Deutschland","Jet, Bergisch Gladbacher Str 1146, 51069 Köln, Deutschland",4:30,0:15,94.8
+,21:35,21:43,"Jet, Bergisch Gladbacher Str 1146, 51069 Köln, Deutschland","Nikolaus-Lenau-Str 3, 51469 Bergisch Gladbach, Deutschland",0:07,0:02,2.6
+Daily Totals:,10:05,21:43,,,11:02,0:35,237.6
+,,,,,,,
+03-08-22,10:38,13:51,"Nikolaus-Lenau-Str 3, 51469 Bergisch Gladbach, Deutschland","L 34, 50933 Köln, Deutschland",3:12,0:00,73.5
+,13:52,15:55,"L 34, 50933 Köln, Deutschland","Nikolaus-Lenau-Str 7e, 51469 Bergisch Gladbach, Deutschland",2:02,0:01,52.0
+,20:04,20:06,"Nikolaus-Lenau-Str 7e, 51469 Bergisch Gladbach, Deutschland","Hermann-Löns-Str 72a, 51469 Bergisch Gladbach, Deutschland",0:01,4:09,0.1
+Daily Totals:,10:38,20:06,,,5:16,4:11,125.6
+,,,,,,,
+03-09-22,07:39,08:11,"Nikolaus-Lenau-Str 3, 51469 Bergisch Gladbach, Deutschland","An der Gohrsmühle 8, 51465 Bensberg, Deutschland",0:31,0:00,9.8
+,08:17,08:22,"Hauptstraße 136-140, 51465 Bensberg, Deutschland","Nikolaus-Lenau-Str 3, 51469 Bergisch Gladbach, Deutschland",0:04,0:06,1.6
+,09:27,13:15,"Nikolaus-Lenau-Str 7e, 51469 Bergisch Gladbach, Deutschland","Mülheimer Str 84a, 51469 Bergisch Gladbach, Deutschland",3:47,1:05,91.1
+,13:42,14:29,"Mülheimer Str 84a, 51469 Bergisch Gladbach, Deutschland","Nikolaus-Lenau-Str 3, 51469 Bergisch Gladbach, Deutschland",0:46,0:27,7.7
+,14:53,20:38,"Nikolaus-Lenau-Str 3, 51469 Bergisch Gladbach, Deutschland","Nikolaus-Lenau-Str 7, 51469 Bergisch Gladbach, Deutschland",5:44,0:23,140.7
+,22:41,22:52,"Nikolaus-Lenau-Str 7e, 51469 Bergisch Gladbach, Deutschland","Dellbrücker Hauptstraße 113, 51069 Köln, Deutschland",0:10,2:03,3.8
+,22:53,23:04,"Von-Quadt-Str 69, 51069 Köln, Deutschland","Nikolaus-Lenau-Str 3, 51469 Bergisch Gladbach, Deutschland",0:10,0:01,3.8
+Daily Totals:,7:39,23:04,,,11:16,4:07,258.6
+,,,,,,,
+03-10-22,07:40,08:17,"Nikolaus-Lenau-Str 3, 51469 Bergisch Gladbach, Deutschland","Nikolaus-Lenau-Str 2, 51469 Bergisch Gladbach, Deutschland",0:36,0:00,8.9
+,09:06,12:41,"Nikolaus-Lenau-Str 3, 51469 Bergisch Gladbach, Deutschland","Funk-Electronic Piciorgros, Claudiastraße 5, 51149 Köln, Deutschland",3:34,0:49,83.6
+,12:46,13:43,"Funk-Electronic Piciorgros, Claudiastraße 5, 51149 Köln, Deutschland","Mülheimer Str 84a, 51469 Bergisch Gladbach, Deutschland",0:57,0:04,18.6
+,14:19,14:23,"Mülheimer Str 84a, 51469 Bergisch Gladbach, Deutschland","Nikolaus-Lenau-Str 7e, 51469 Bergisch Gladbach, Deutschland",0:03,0:35,1.1
+,15:02,16:43,"Nikolaus-Lenau-Str 4, 51469 Bergisch Gladbach, Deutschland","Jet, Widdersdorfer Str 165, 50825 Köln, Deutschland",1:40,0:39,37.7
+,16:48,18:22,"Widdersdorfer Str 163, 50825 Köln, Deutschland","Neptunplatz 6c, 50823 Köln, Deutschland",1:34,0:04,32.0
+,18:23,21:59,"Venloer Str 295, 50823 Köln, Deutschland","Nikolaus-Lenau-Str 7, 51469 Bergisch Gladbach, Deutschland",3:35,0:01,106.3
+Daily Totals:,7:40,21:59,,,12:02,2:15,288.2
+,,,,,,,
+03-11-22,07:44,08:14,"Nikolaus-Lenau-Str 3, 51469 Bergisch Gladbach, Deutschland","Nikolaus-Lenau-Str 3, 51469 Bergisch Gladbach, Deutschland",0:29,0:00,9.1
+,09:29,09:36,"Nikolaus-Lenau-Str 3, 51469 Bergisch Gladbach, Deutschland","Cederwaldstraße 24a, 51465 Bensberg, Deutschland",0:07,1:14,2.1
+,10:01,10:10,"Expert, Richard-Zanders-Str 11, 51465 Bensberg, Deutschland","Kaufland, Gronauer Waldweg, 51465 Refrath, Deutschland",0:09,0:24,1.2
+,10:14,10:27,"Kaufland, Gronauer Waldweg, 51465 Refrath, Deutschland","Campus Gronau, Gronauer Mühlenweg, 51465 Bergisch Gladbach, Deutschland",0:12,0:04,0.9
+,10:31,10:37,"Campus Gronau, Gronauer Mühlenweg, 51465 Bergisch Gladbach, Deutschland","L 288, 51465 Bensberg, Deutschland",0:06,0:04,1.7
+,11:09,11:13,"An der Gohrsmühle, 51465 Bensberg, Deutschland","Nikolaus-Lenau-Str 7e, 51469 Bergisch Gladbach, Deutschland",0:04,0:31,1.5
+,12:29,13:14,"Nikolaus-Lenau-Str 7e, 51469 Bergisch Gladbach, Deutschland","ZAK Zentrum für Aktion und Kultur, Reginharstraße 40, 51429 Bensberg, Deutschland",0:44,1:16,9.8
+,13:56,14:16,"Giselbertstraße 18, 51429 Bensberg, Deutschland","Nikolaus-Lenau-Str 7e, 51469 Bergisch Gladbach, Deutschland",0:20,0:41,7.5
+,14:48,02:11,"Nikolaus-Lenau-Str 3, 51469 Bergisch Gladbach, Deutschland","Nikolaus-Lenau-Str 3, 51469 Bergisch Gladbach, Deutschland",11:22,0:31,257.0
+Daily Totals:,7:44,2:11,,,13:37,4:49,290.7
+,,,,,,,
+03-12-22,11:38,11:47,"Nikolaus-Lenau-Str 3, 51469 Bergisch Gladbach, Deutschland","Kaufland, Gronauer Waldweg, 51465 Refrath, Deutschland",0:09,0:00,2.1
+,12:16,12:25,"Kaufland, Gronauer Waldweg, 51465 Refrath, Deutschland","Mülheimer Str 82, 51469 Bergisch Gladbach, Deutschland",0:08,0:29,1.9
+,12:39,12:43,"Mülheimer Str 82, 51469 Bergisch Gladbach, Deutschland","Nikolaus-Lenau-Str 7a, 51469 Bergisch Gladbach, Deutschland",0:03,0:13,1.0
+,13:03,13:08,"Nikolaus-Lenau-Str 3, 51469 Bergisch Gladbach, Deutschland","Hauptstraße 136-140, 51465 Bensberg, Deutschland",0:05,0:19,2.6
+,13:47,14:45,"Hauptstraße 136-140, 51465 Bensberg, Deutschland","Interimsbau Greinstraße, Greinstraße, 50939 Köln, Deutschland",0:57,0:38,26.6
+,15:02,16:33,"Uni-Center, Universitätsstraße, 50939 Köln, Deutschland","Esch, 50765 Köln, Deutschland",1:30,0:17,71.9
+,16:34,20:02,"Esch, 50765 Köln, Deutschland","Oskar-Jäger-Str 149, 50825 Köln, Deutschland",3:27,0:01,79.7
+,20:04,20:07,"Oskar-Jäger-Str 149, 50825 Köln, Deutschland","Stolberger Str 80, 50933 Köln, Deutschland",0:02,0:02,0.7
+,20:54,01:53,"Stolberger Str 80, 50933 Köln, Deutschland","Nikolaus-Lenau-Str 3, 51469 Bergisch Gladbach, Deutschland",4:58,0:46,104.0
+Daily Totals:,11:38,1:53,,,11:24,2:50,290.4
+,,,,,,,
+03-13-22,12:35,17:16,"Nikolaus-Lenau-Str 3, 51469 Bergisch Gladbach, Deutschland","ZAK Zentrum für Aktion und Kultur, Reginharstraße 40, 51429 Bensberg, Deutschland",4:40,0:00,116.9
+,20:15,20:35,"ZAK Zentrum für Aktion und Kultur, Reginharstraße 40, 51429 Bensberg, Deutschland","Nikolaus-Lenau-Str 7, 51469 Bergisch Gladbach, Deutschland",0:19,2:59,7.9
+Daily Totals:,12:35,20:35,,,5:00,2:59,124.9
+,,,,,,,
+03-14-22,07:42,08:08,"Nikolaus-Lenau-Str 3, 51469 Bergisch Gladbach, Deutschland","Nikolaus-Lenau-Str 3, 51469 Bergisch Gladbach, Deutschland",0:26,0:00,9.2
+,09:02,13:39,"Nikolaus-Lenau-Str 7e, 51469 Bergisch Gladbach, Deutschland","Mülheimer Str 84a, 51469 Bergisch Gladbach, Deutschland",4:37,0:54,114.7
+,13:56,14:00,"Hammer Fachmarkt, Mülheimer Str 78, 51469 Bergisch Gladbach, Deutschland","Nikolaus-Lenau-Str 7a, 51469 Bergisch Gladbach, Deutschland",0:04,0:16,1.1
+,14:56,20:26,"Nikolaus-Lenau-Str 7a, 51469 Bergisch Gladbach, Deutschland","Nikolaus-Lenau-Str 7e, 51469 Bergisch Gladbach, Deutschland",5:30,0:55,108.6
+Daily Totals:,7:42,20:26,,,10:37,2:06,233.6
+,,,,,,,
+03-15-22,07:41,08:12,"Nikolaus-Lenau-Str 3, 51469 Bergisch Gladbach, Deutschland","Nikolaus-Lenau-Str 3, 51469 Bergisch Gladbach, Deutschland",0:30,0:00,9.3
+,09:26,09:33,"Nikolaus-Lenau-Str 3, 51469 Bergisch Gladbach, Deutschland","Siemes Schuhcenter, Richard-Zanders-Str, 51465 Bensberg, Deutschland",0:06,1:14,2.0
+,09:55,10:02,"Gronauer Biergarten, Richard-Zanders-Str, 51465 Bensberg, Deutschland","Nikolaus-Lenau-Str 7a, 51469 Bergisch Gladbach, Deutschland",0:06,0:22,1.8
+,10:07,10:17,"Nikolaus-Lenau-Str 7a, 51469 Bergisch Gladbach, Deutschland","Kürtener Str 3c, 51465 Bergisch Gladbach, Deutschland",0:09,0:04,3.7
+,10:48,10:50,"Kürtener Str 5a, 51465 Bergisch Gladbach, Deutschland","Hauptstraße 393, 51465 Bergisch Gladbach, Deutschland",0:01,0:31,0.3
+,11:08,11:38,"Hauptstraße 393, 51465 Bergisch Gladbach, Deutschland","Nikolaus-Lenau-Str 7e, 51469 Bergisch Gladbach, Deutschland",0:30,0:18,7.5
+,11:52,16:02,"Nikolaus-Lenau-Str 7e, 51469 Bergisch Gladbach, Deutschland","Widdersdorfer Str 163, 50825 Köln, Deutschland",4:09,0:14,85.6
+,16:06,19:37,"Widdersdorfer Str 163, 50825 Köln, Deutschland","Greinstraße, 50939 Köln, Deutschland",3:30,0:04,84.8
+,19:47,21:39,"Greinstraße 1, 50939 Köln, Deutschland","Nikolaus-Lenau-Str 7, 51469 Bergisch Gladbach, Deutschland",1:52,0:09,49.1
+Daily Totals:,7:41,21:39,,,10:57,3:00,244.1
+,,,,,,,
+03-16-22,07:39,08:38,"Nikolaus-Lenau-Str 7e, 51469 Bergisch Gladbach, Deutschland","Nikolaus-Lenau-Str 3, 51469 Bergisch Gladbach, Deutschland",0:59,0:00,11.9
+,10:41,10:49,"Nikolaus-Lenau-Str 7e, 51469 Bergisch Gladbach, Deutschland","An der Gohrsmühle 8, 51465 Bensberg, Deutschland",0:08,2:02,2.7
+,12:11,12:18,"An der Gohrsmühle, 51465 Bensberg, Deutschland","Aldi Süd, Kradepohlsmühlenweg 8, 51469 Bergisch Gladbach, Deutschland",0:06,1:22,2.3
+,12:29,12:31,"Kradepohlsmühlenweg 14, 51469 Refrath, Deutschland","Mülheimer Str 84a, 51469 Bergisch Gladbach, Deutschland",0:01,0:11,0.2
+,12:44,13:11,"Mülheimer Str 84a, 51469 Bergisch Gladbach, Deutschland","Refrather Weg 2a, 51465 Bensberg, Deutschland",0:26,0:13,2.0
+,13:29,13:47,"Kaufland, Gronauer Waldweg, 51465 Refrath, Deutschland","Nikolaus-Lenau-Str 7a, 51469 Bergisch Gladbach, Deutschland",0:17,0:18,2.9
+,14:08,14:36,"Nikolaus-Lenau-Str 3, 51469 Bergisch Gladbach, Deutschland","Nikolaus-Lenau-Str 7e, 51469 Bergisch Gladbach, Deutschland",0:27,0:20,12.3
+,14:38,17:03,"Nikolaus-Lenau-Str 3, 51469 Bergisch Gladbach, Deutschland","Lidl, Leyendeckerstraße 2a, 50825 Köln, Deutschland",2:24,0:02,55.1
+,17:23,21:21,"Lidl, Leyendeckerstraße 2a, 50825 Köln, Deutschland","Nikolaus-Lenau-Str 3, 51469 Bergisch Gladbach, Deutschland",3:58,0:19,85.5
+Daily Totals:,7:39,21:21,,,8:49,4:52,174.9
+,,,,,,,
+03-17-22,07:42,10:05,"Nikolaus-Lenau-Str 7e, 51469 Bergisch Gladbach, Deutschland","Kleiner Griechenmarkt 20, 50676 Köln, Deutschland",2:22,0:00,40.0
+,10:12,12:20,"Fleischmengergasse 1, 50676 Köln, Deutschland","Zoobrücke, 51063 Köln, Deutschland",2:07,0:07,43.7
+,12:29,13:45,"Zoobrücke, 50668 Köln, Deutschland","Kradepohlsmühlenweg 4, 51469 Bergisch Gladbach, Deutschland",1:15,0:09,28.0
+,13:48,13:53,"Kradepohlsmühlenweg 4, 51469 Bergisch Gladbach, Deutschland","Nikolaus-Lenau-Str 3, 51469 Bergisch Gladbach, Deutschland",0:05,0:03,1.0
+,14:58,20:03,"Nikolaus-Lenau-Str 3, 51469 Bergisch Gladbach, Deutschland","bft Tankstelle, Mülheimer Str 243, 51469 Bergisch Gladbach, Deutschland",5:04,1:05,151.7
+,20:06,20:40,"Mülheimer Str 247, 51469 Bergisch Gladbach, Deutschland","Nikolaus-Lenau-Str 7, 51469 Bergisch Gladbach, Deutschland",0:33,0:03,2.1
+Daily Totals:,7:42,20:40,,,11:30,1:27,266.5
+,,,,,,,
+03-18-22,07:39,08:09,"Nikolaus-Lenau-Str 7, 51469 Bergisch Gladbach, Deutschland","An der Gohrsmühle, 51465 Bensberg, Deutschland",0:29,0:00,9.2
+,08:19,08:25,"An der Gohrsmühle, 51465 Bensberg, Deutschland","Nikolaus-Lenau-Str 3, 51469 Bergisch Gladbach, Deutschland",0:06,0:09,1.6
+,09:33,14:37,"Nikolaus-Lenau-Str 3, 51469 Bergisch Gladbach, Deutschland","Weinmuseum, Amsterdamer Str 1, 50668 Köln, Deutschland",5:03,1:08,106.0
+,14:38,16:27,"Weinmuseum, Amsterdamer Str 1, 50668 Köln, Deutschland","Pfälzischer Ring, 51065 Köln, Deutschland",1:49,0:01,30.8
+,16:38,18:28,"Pfälzischer Ring, 51065 Köln, Deutschland","Butzweilerstraße, 50827 Köln, Deutschland",1:49,0:10,40.9
+,18:30,22:09,"Butzweilerstraße, 50827 Köln, Deutschland","Nikolaus-Lenau-Str 7, 51469 Bergisch Gladbach, Deutschland",3:38,0:02,72.3
+Daily Totals:,7:39,22:09,,,12:57,1:32,260.8
+,,,,,,,
+03-19-22,08:24,08:28,"Nikolaus-Lenau-Str 3, 51469 Bergisch Gladbach, Deutschland","Mülheimer Str 84a, 51469 Bergisch Gladbach, Deutschland",0:04,0:00,1.1
+,09:05,09:31,"Mülheimer Str 84a, 51469 Bergisch Gladbach, Deutschland","Nikolaus-Lenau-Str 7a, 51469 Bergisch Gladbach, Deutschland",0:25,0:37,4.8
+,09:34,09:35,"Nikolaus-Lenau-Str 7a, 51469 Bergisch Gladbach, Deutschland","Nikolaus-Lenau-Str 3, 51469 Bergisch Gladbach, Deutschland",0:01,0:02,0.1
+,13:51,13:57,"Nikolaus-Lenau-Str 4, 51469 Bergisch Gladbach, Deutschland","Mülheimer Str 82, 51469 Bergisch Gladbach, Deutschland",0:06,4:15,1.2
+,14:05,14:11,"51469 Bergisch Gladbach, Deutschland","Family Fitness Club, Richard-Zanders-Str, 51465 Bensberg, Deutschland",0:06,0:07,1.8
+,14:18,14:50,"Richard-Zanders-Str 5, 51465 Bensberg, Deutschland","Nikolaus-Lenau-Str 3, 51469 Bergisch Gladbach, Deutschland",0:31,0:06,2.7
+,15:03,20:28,"Nikolaus-Lenau-Str 4, 51469 Bergisch Gladbach, Deutschland","Florastraße 145, 50733 Köln, Deutschland",5:24,0:13,114.8
+,20:30,22:23,"Nägelistraße 2, 50733 Köln, Deutschland","Aachener Str 1095, 50858 Köln, Deutschland",1:52,0:02,42.6
+,22:25,01:03,"Aachener Str 1100, 50858 Köln, Deutschland","Luxemburger Str 121, 50939 Köln, Deutschland",2:37,0:02,56.0
+Daily Totals:,8:24,1:03,,,11:10,5:28,225.2
+,,,,,,,
+03-20-22,01:05,04:05,"Greinstraße 1, 50939 Köln, Deutschland","Nikolaus-Lenau-Str 3, 51469 Bergisch Gladbach, Deutschland",2:59,0:00,88.3
+,11:39,11:40,"Nikolaus-Lenau-Str 3, 51469 Bergisch Gladbach, Deutschland","Nikolaus-Lenau-Str 3, 51469 Bergisch Gladbach, Deutschland",0:00,7:34,0.0
+,13:12,13:13,"Nikolaus-Lenau-Str 4, 51469 Bergisch Gladbach, Deutschland","Nikolaus-Lenau-Str 8, 51469 Bergisch Gladbach, Deutschland",0:01,1:31,0.1
+,14:21,21:17,"Nikolaus-Lenau-Str 2, 51469 Bergisch Gladbach, Deutschland","Nikolaus-Lenau-Str 3, 51469 Bergisch Gladbach, Deutschland",6:55,1:08,200.7
+Daily Totals:,1:05,21:17,,,9:57,10:14,289.0
+,,,,,,,
+03-21-22,07:34,08:10,"Nikolaus-Lenau-Str 3, 51469 Bergisch Gladbach, Deutschland","Nikolaus-Lenau-Str 3, 51469 Bergisch Gladbach, Deutschland",0:36,0:00,8.7
+,09:15,09:24,"Nikolaus-Lenau-Str 3, 51469 Bergisch Gladbach, Deutschland","Im Kleefeld 24, 51467 Bergisch Gladbach, Deutschland",0:09,1:04,2.9
+,09:44,09:49,"Im Kleefeld 22, 51467 Bergisch Gladbach, Deutschland","Paffrather Str 23, 51465 Bergisch Gladbach, Deutschland",0:04,0:19,1.3
+,10:01,10:15,"Paffrather Str 18, 51465 Bergisch Gladbach, Deutschland","Paffrather Str 8, 51465 Bergisch Gladbach, Deutschland",0:14,0:11,0.8
+,10:19,10:26,"Rathaus Bergisch Gladbach, Konrad-Adenauer-Pl 1, 51465 Bergisch Gladbach, Deutschland","Hauptstraße 136-140, 51465 Bensberg, Deutschland",0:07,0:04,1.2
+,10:31,10:39,"Hauptstraße 136-140, 51465 Bensberg, Deutschland","Nikolaus-Lenau-Str 3, 51469 Bergisch Gladbach, Deutschland",0:08,0:04,1.6
+,10:43,10:50,"Nikolaus-Lenau-Str 3, 51469 Bergisch Gladbach, Deutschland","Hauptstraße 136-140, 51465 Bensberg, Deutschland",0:06,0:03,2.5
+,11:00,11:05,"Hauptstraße 136-140, 51465 Bensberg, Deutschland","Hauptstraße 297, 51465 Bensberg, Deutschland",0:04,0:09,1.5
+,11:25,11:34,"Hauptstraße 297, 51465 Bensberg, Deutschland","Nikolaus-Lenau-Str 3, 51469 Bergisch Gladbach, Deutschland",0:08,0:20,2.6
+,13:33,13:37,"Nikolaus-Lenau-Str 3, 51469 Bergisch Gladbach, Deutschland","Mülheimer Str 84a, 51469 Bergisch Gladbach, Deutschland",0:03,1:59,1.1
+,13:53,13:58,"Mülheimer Str 76, 51469 Bergisch Gladbach, Deutschland","Nikolaus-Lenau-Str 7e, 51469 Bergisch Gladbach, Deutschland",0:04,0:16,1.2
+,15:39,20:07,"Nikolaus-Lenau-Str 3, 51469 Bergisch Gladbach, Deutschland","Bonner Wall 118b, 50677 Köln, Deutschland",4:27,1:40,143.4
+,20:26,21:51,"Lidl, Bonner Wall 114-116, 50677 Köln, Deutschland","Jet, Bergisch Gladbacher Str 1146, 51069 Köln, Deutschland",1:25,0:18,40.7
+,21:54,22:03,"Bergisch Gladbacher Str 1148a, 51069 Köln, Deutschland","Nikolaus-Lenau-Str 7, 51469 Bergisch Gladbach, Deutschland",0:08,0:02,2.7
+Daily Totals:,7:34,22:03,,,7:51,6:37,212.3
+,,,,,,,
+03-22-22,06:52,06:53,"Hermann-Löns-Str 94, 51469 Bergisch Gladbach, Deutschland","Nikolaus-Lenau-Str 7, 51469 Bergisch Gladbach, Deutschland",0:00,0:00,0.0
+,07:37,08:13,"Nikolaus-Lenau-Str 3, 51469 Bergisch Gladbach, Deutschland","Nikolaus-Lenau-Str 3, 51469 Bergisch Gladbach, Deutschland",0:36,0:43,9.5
+,13:46,13:50,"Nikolaus-Lenau-Str 3, 51469 Bergisch Gladbach, Deutschland","Mülheimer Str 84a, 51469 Bergisch Gladbach, Deutschland",0:04,5:32,1.1
+,14:26,14:30,"Mülheimer Str 84a, 51469 Bergisch Gladbach, Deutschland","Nikolaus-Lenau-Str 3, 51469 Bergisch Gladbach, Deutschland",0:04,0:36,1.1
+,14:50,20:11,"Nikolaus-Lenau-Str 3, 51469 Bergisch Gladbach, Deutschland","Edith-Stein-Realschule (derzeit im Umbau), Niehler Kirchweg 120, 50733 Köln, Deutschland",5:21,0:19,133.2
+,20:22,23:57,"Niehler Gürtel 104a, 50733 Köln, Deutschland","Nikolaus-Lenau-Str 3, 51469 Bergisch Gladbach, Deutschland",3:34,0:11,86.0
+Daily Totals:,6:52,23:57,,,9:42,7:22,230.9
+,,,,,,,
+03-23-22,08:01,08:20,"Nikolaus-Lenau-Str 3, 51469 Bergisch Gladbach, Deutschland","Kaufland, Gronauer Waldweg, 51465 Refrath, Deutschland",0:18,0:00,7.0
+,08:31,08:36,"Kaufland, Gronauer Waldweg, 51465 Refrath, Deutschland","Mülheimer Str 84a, 51469 Bergisch Gladbach, Deutschland",0:05,0:11,1.9
+,08:52,08:56,"Mülheimer Str 76, 51469 Bergisch Gladbach, Deutschland","Nikolaus-Lenau-Str 3, 51469 Bergisch Gladbach, Deutschland",0:04,0:16,1.1
+,10:57,13:03,"Nikolaus-Lenau-Str 4, 51469 Bergisch Gladbach, Deutschland","Aldi Süd, Kradepohlsmühlenweg 8, 51469 Bergisch Gladbach, Deutschland",2:05,2:00,38.0
+,13:49,13:54,"Aldi Süd, Kradepohlsmühlenweg 8, 51469 Bergisch Gladbach, Deutschland","Nikolaus-Lenau-Str 3, 51469 Bergisch Gladbach, Deutschland",0:04,0:46,1.4
+,14:15,-,"Nikolaus-Lenau-Str 3, 51469 Bergisch Gladbach, Deutschland",Journey in Progress,3:35,0:20,144.7
+Daily Totals:,8:01,17:51,,,6:14,3:35,194.1
+,,,,,,,
+Totals:,,,,,336:39,111:15,8468.4

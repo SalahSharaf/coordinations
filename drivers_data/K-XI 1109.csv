@@ -1,0 +1,173 @@
+Kinesis Telematics & Dashcam - Individual Trips - K-XI 1109/Hakim Schker & Dimitri,,,,,,,
+,,,,,,,
+Date,Start Time,End Time,Start Location,End Location,Drive Time (h:m:),Stopped Time (h:m:),Distance Travelled (kilometres)
+,,,,,,,
+02-21-22,15:21,15:23,"Weserpromenade, Weichselring, 50765 Köln, Deutschland","Lidl, Elbeallee 11, 50765 Köln, Deutschland",0:02,0:00,0.9
+,15:54,16:09,"Lidl, Elbeallee 11, 50765 Köln, Deutschland","Regastraße 56, 50765 Köln, Deutschland",0:15,0:30,6.5
+,16:16,16:18,"Regastraße 56, 50765 Köln, Deutschland","Regastraße 7, 50765 Köln, Deutschland",0:01,0:06,0.1
+,18:06,18:12,"Regastraße 9, 50765 Köln, Deutschland","Heimersdorf, Oranjehofstraße, 50767 Köln, Deutschland",0:05,1:48,3.8
+,23:09,00:28,"Hospeltstraße 65, 50825 Köln, Deutschland","Regastraße 3, 50765 Köln, Deutschland",1:19,4:56,33.7
+Daily Totals:,15:21,0:28,,,1:44,7:22,45.0
+,,,,,,,
+02-22-22,09:10,09:14,"Regastraße 3, 50765 Köln, Deutschland","Lidl, Elbeallee 11, 50765 Köln, Deutschland",0:04,0:00,1.6
+,09:19,09:24,"Lidl, Elbeallee 11, 50765 Köln, Deutschland","Star, Volkhovener Weg 107, 50767 Köln, Deutschland",0:05,0:04,2.5
+,09:28,11:13,"Ursula-Kuhr-Gemeinschaftshauptschule, Johannes-Albers-Str, 50767 Köln, Deutschland","An den Kreutzmorgen 5, 50737 Köln, Deutschland",1:44,0:03,49.8
+,12:14,13:08,"An den Kreutzmorgen 4, 50737 Köln, Deutschland","Haselnußhof 1, 50767 Köln, Deutschland",0:53,1:01,27.0
+,13:29,13:51,"Heimersdorf, Haselnußweg, 50767 Köln, Deutschland","Bar?? Bistro Café, Mataréweg, 50769 Köln, Deutschland",0:21,0:21,7.6
+,14:53,15:25,"Robert-Grosche-Str 2, 50769 Köln, Deutschland","Bismarckstraße 23, 50672 Köln, Deutschland",0:32,1:02,12.0
+,16:46,18:13,"Venloer Str 18, 50672 Köln, Deutschland","Chlodwigplatz, Bonner Str, 50677 Köln, Deutschland",1:27,1:20,31.6
+,18:21,19:17,"Chlodwigplatz, Bonner Str, 50677 Köln, Deutschland","Bar?? Bistro Café, Mataréweg, 50769 Köln, Deutschland",0:56,0:07,29.5
+,20:26,20:27,"Bar?? Bistro Café, Mataréweg, 50769 Köln, Deutschland","Thorn-Prikker-Str 11, 50769 Köln, Deutschland",0:01,1:08,0.2
+Daily Totals:,9:10,20:27,,,6:07,5:10,161.8
+,,,,,,,
+02-23-22,11:27,11:29,"Zörgiebelstraße 1, 50769 Köln, Deutschland","Gemeinschaftsgrundschule Riphahnstraße, Robert-Grosche-Str, 50769 Köln, Deutschland",0:01,0:00,0.4
+,11:49,13:18,"Riphahnstraße 23, 50769 Köln, Deutschland","Schloss Arenfels, Kolpingstraße 10, 53557 Bad Hönningen, Deutschland",1:29,0:19,88.3
+,14:16,15:39,"Schloss Arenfels, Kolpingstraße 9, 53557 Bad Hönningen, Deutschland","Bar?? Bistro Café, Mataréweg, 50769 Köln, Deutschland",1:23,0:57,74.7
+,15:41,15:45,"Robert-Grosche-Str 2, 50769 Köln, Deutschland","Köln-Chorweiler, Liverpooler Pl, 50765 Köln, Deutschland",0:03,0:02,0.6
+,16:03,16:10,"Chorweiler, Liverpooler Pl, 50765 Köln, Deutschland","Regastraße 9, 50765 Köln, Deutschland",0:07,0:17,3.1
+,20:43,00:26,"Regastraße 9, 50765 Köln, Deutschland","Weichselring 28, 50765 Köln, Deutschland",3:42,4:33,90.8
+Daily Totals:,11:27,0:26,,,6:48,6:10,258.0
+,,,,,,,
+02-24-22,11:18,03:01,"Weichselring 28, 50765 Köln, Deutschland","Zörgiebelstraße 1, 50769 Köln, Deutschland",15:42,0:00,446.8
+Daily Totals:,11:18,3:01,,,15:42,0:00,446.8
+,,,,,,,
+02-25-22,03:01,13:04,"Zörgiebelstraße 1, 50769 Köln, Deutschland","Schlüter-tools, Donatusstraße, 50767 Köln, Deutschland",10:02,0:00,343.4
+,13:59,14:05,"Schlüter-tools, Donatusstraße, 50767 Köln, Deutschland","Haselnußweg 30, 50767 Köln, Deutschland",0:05,0:54,3.9
+,14:16,14:25,"Haselnußweg 30, 50767 Köln, Deutschland","Regastraße 50, 50765 Köln, Deutschland",0:09,0:11,4.2
+,18:56,23:24,"Regastraße 50, 50765 Köln, Deutschland","Wohnwagenstraßenstrich, Am Eifeltor, 50997 Köln, Deutschland",4:27,4:31,103.6
+,23:26,01:21,"Wohnwagenstraßenstrich, Am Eifeltor, 50997 Köln, Deutschland","Bonner Str 5, 50677 Köln, Deutschland",1:55,0:02,45.3
+Daily Totals:,3:01,1:21,,,16:40,5:39,500.5
+,,,,,,,
+02-26-22,01:26,02:22,"Bonner Str 3, 50677 Köln, Deutschland","Regastraße 50, 50765 Köln, Deutschland",0:56,0:00,29.2
+,09:17,09:21,"Regastraße 50, 50765 Köln, Deutschland","Lidl, Elbeallee 11, 50765 Köln, Deutschland",0:03,6:54,1.6
+,09:24,17:45,"Lidl, Elbeallee 11, 50765 Köln, Deutschland","Zörgiebelstraße 1, 50769 Köln, Deutschland",8:21,0:02,217.7
+,17:52,17:54,"Herstattallee, 50769 Köln, Deutschland","Bar?? Bistro Café, Mataréweg, 50769 Köln, Deutschland",0:02,0:07,0.3
+,18:01,20:38,"Bar?? Bistro Café, Mataréweg, 50769 Köln, Deutschland","Gereonswall 36, 50668 Köln, Deutschland",2:37,0:06,55.6
+,20:48,13:48,"Weidengasse 68, 50668 Köln, Deutschland","Schlüter-tools, Donatusstraße, 50767 Köln, Deutschland",17:00,0:09,530.5
+Daily Totals:,1:26,13:48,,,29:02,7:20,834.9
+,,,,,,,
+02-27-22,13:52,13:54,"Waffenschmidtstraße 7, 50767 Köln, Deutschland","Kegelcenter, Donatusstraße 26, 50767 Köln, Deutschland",0:02,0:00,0.5
+,13:59,14:06,"Kegelcenter, Donatusstraße 26, 50767 Köln, Deutschland","Regastraße 5, 50765 Köln, Deutschland",0:07,0:04,5.6
+,15:39,15:45,"Regastraße 5, 50765 Köln, Deutschland","Sportcorner Cologne, Haselnußweg 36, 50767 Köln, Deutschland",0:05,1:32,3.7
+,19:12,19:28,"Sportcorner Cologne, Haselnußweg 36, 50767 Köln, Deutschland","Regastraße 3, 50765 Köln, Deutschland",0:15,3:27,6.2
+Daily Totals:,13:52,19:28,,,0:31,5:05,15.9
+,,,,,,,
+02-28-22,10:26,10:33,"Regastraße 3, 50765 Köln, Deutschland","Heimersdorf, Oranjehofstraße, 50767 Köln, Deutschland",0:07,0:00,3.8
+,10:39,13:05,"Heimersdorf, Haselnußweg, 50767 Köln, Deutschland","Neusser Str 631, 50737 Köln, Deutschland",2:26,0:05,97.5
+,14:55,15:21,"Scheibenstraße 1, 50737 Köln, Deutschland","Grethenstraße 1c, 50739 Köln, Deutschland",0:25,1:50,12.5
+,16:01,16:13,"Longericher Hauptstraße 76, 50739 Köln, Deutschland","Regastraße 50, 50765 Köln, Deutschland",0:12,0:39,5.2
+,20:09,20:15,"Regastraße 9, 50765 Köln, Deutschland","Heimersdorf, Oranjehofstraße, 50767 Köln, Deutschland",0:05,3:55,3.7
+,20:20,23:45,"Heimersdorf, Oranjehofstraße, 50767 Köln, Deutschland","Neusser Str 629, 50737 Köln, Deutschland",3:25,0:05,142.4
+Daily Totals:,10:26,23:45,,,6:42,6:36,265.1
+,,,,,,,
+03-01-22,00:42,00:55,"Neusser Str 629, 50737 Köln, Deutschland","Weichselring, 50765 Köln, Deutschland",0:12,0:00,9.1
+,11:12,11:16,"Weichselring, 50765 Köln, Deutschland","Lidl, Elbeallee 11, 50765 Köln, Deutschland",0:03,10:17,1.3
+,11:22,11:30,"Lidl, Elbeallee 11, 50765 Köln, Deutschland","Star, Volkhovener Weg 107, 50767 Köln, Deutschland",0:08,0:06,2.4
+,11:33,15:30,"Star, Volkhovener Weg 107, 50767 Köln, Deutschland","Homburger Str 9, 51545 Waldbröl, Deutschland",3:56,0:02,172.6
+,15:37,15:50,"Homburger Str 9, 51545 Waldbröl, Deutschland","Gästeparkplatz piknik, Schefflerweg, 51545 Waldbröl, Deutschland",0:12,0:07,1.9
+,15:57,15:58,"Gästeparkplatz piknik, Schefflerweg, 51545 Waldbröl, Deutschland","Strandbadstraße 11, 51545 Waldbröl, Deutschland",0:01,0:06,0.2
+,16:16,17:17,"Königreichsaal JW. Org, Schefflerweg 4, 51545 Waldbröl, Deutschland","Volhardstraße 3, 51379 Leverkusen, Deutschland",1:01,0:17,76.6
+,17:44,18:15,"Arnold-Ohletz-Str 2, 51379 Leverkusen, Deutschland","Regastraße 3, 50765 Köln, Deutschland",0:30,0:26,20.5
+Daily Totals:,0:42,18:15,,,6:07,11:25,284.6
+,,,,,,,
+03-02-22,15:07,17:09,"Regastraße 3, 50765 Köln, Deutschland","Regastraße 50, 50765 Köln, Deutschland",2:02,0:00,45.9
+,18:47,21:43,"Regastraße 50, 50765 Köln, Deutschland","Regastraße 50, 50765 Köln, Deutschland",2:56,1:37,64.0
+Daily Totals:,15:07,21:43,,,4:58,1:37,110.0
+,,,,,,,
+03-03-22,10:35,10:49,"Regastraße 9, 50765 Köln, Deutschland","Chorweiler, Turkuplatz, 50765 Köln, Deutschland",0:13,0:00,3.2
+,11:11,11:14,"Chorweiler, Turkuplatz, 50765 Köln, Deutschland","Robert-Grosche-Str 2, 50769 Köln, Deutschland",0:02,0:22,0.6
+,11:17,11:20,"Thorn-Prikker-Str, 50769 Köln, Deutschland","Taborplatz 1, 50767 Köln, Deutschland",0:03,0:02,1.2
+,11:26,12:20,"Taborplatz, 50767 Köln, Deutschland","Aral, Kölner Str 255, 51149 Köln, Deutschland",0:53,0:05,41.7
+,12:25,12:28,"Aral, Kölner Str 255, 51149 Köln, Deutschland","Funk-Electronic Piciorgros, Claudiastraße 5, 51149 Köln, Deutschland",0:02,0:05,0.5
+,14:05,15:34,"Funk-Electronic Piciorgros, Claudiastraße 5, 51149 Köln, Deutschland","Grethenstraße 1c, 50739 Köln, Deutschland",1:29,1:37,40.0
+,16:27,17:55,"Grethenstraße 1a, 50739 Köln, Deutschland","Regastraße 3, 50765 Köln, Deutschland",1:28,0:52,39.5
+Daily Totals:,10:35,17:55,,,4:14,3:05,126.7
+,,,,,,,
+03-04-22,16:32,16:43,"Regastraße 3, 50765 Köln, Deutschland","Aral, Athener Ring 1, 50765 Köln, Deutschland",0:10,0:00,6.2
+,16:45,05:58,"Aral, Athener Ring 1, 50765 Köln, Deutschland","Regastraße 5, 50765 Köln, Deutschland",13:12,0:02,408.2
+Daily Totals:,16:32,5:58,,,13:23,0:02,414.4
+,,,,,,,
+03-05-22,17:26,00:56,"Regastraße 5, 50765 Köln, Deutschland","Bundespolizei Köln Hbf, Breslauer Pl, 50668 Köln, Deutschland",7:29,0:00,229.9
+Daily Totals:,17:26,0:56,,,7:29,0:00,229.9
+,,,,,,,
+03-06-22,00:57,06:27,"Johannisstraße, 50668 Köln, Deutschland","Stolpestraße 8, 50765 Köln, Deutschland",5:30,0:00,225.8
+,15:31,18:16,"Stolpestraße 13, 50765 Köln, Deutschland","Chorweiler, Turkuplatz, 50765 Köln, Deutschland",2:45,9:04,89.4
+,18:58,19:16,"Chorweiler, Turkuplatz, 50765 Köln, Deutschland","Heimersdorf, Oranjehofstraße, 50767 Köln, Deutschland",0:17,0:42,10.2
+,19:20,21:58,"Heimersdorf, Haselnußweg, 50767 Köln, Deutschland","Stolpestraße 6, 50765 Köln, Deutschland",2:38,0:04,106.3
+Daily Totals:,0:57,21:58,,,11:10,9:51,431.7
+,,,,,,,
+03-07-22,09:54,13:21,"Stolpestraße 8, 50765 Köln, Deutschland","IMO Car Wash, Boltensternstraße, 50735 Köln, Deutschland",3:27,0:00,144.8
+,13:36,13:49,"IMO Car Wash, Boltensternstraße, 50735 Köln, Deutschland","Regastraße 7, 50765 Köln, Deutschland",0:12,0:15,10.0
+,13:49,13:51,"Regastraße 9, 50765 Köln, Deutschland","Regastraße 5, 50765 Köln, Deutschland",0:01,0:00,0.1
+Daily Totals:,9:54,13:51,,,3:41,0:15,154.9
+,,,,,,,
+03-08-22,12:31,12:40,"Regastraße 5, 50765 Köln, Deutschland","Heimersdorf, Oranjehofstraße, 50767 Köln, Deutschland",0:09,0:00,4.1
+,12:44,14:45,"Heimersdorf, Haselnußweg, 50767 Köln, Deutschland","Regastraße 7, 50765 Köln, Deutschland",2:01,0:03,67.6
+,17:11,00:08,"Regastraße 7, 50765 Köln, Deutschland","Weichselring, 50765 Köln, Deutschland",6:56,2:25,213.8
+Daily Totals:,12:31,0:08,,,9:07,2:29,285.4
+,,,,,,,
+03-09-22,11:25,11:41,"Weichselring, 50765 Köln, Deutschland","Metzgerei Dick, Haselnußweg 24, 50767 Köln, Deutschland",0:16,0:00,5.2
+,12:25,13:55,"Metzgerei Dick, Haselnußweg 24, 50767 Köln, Deutschland","Geranienhof 1, 50769 Köln, Deutschland",1:29,0:43,35.4
+,14:41,15:27,"Geranienhof 2, 50769 Köln, Deutschland","An der Alten Post 21, 50858 Köln, Deutschland",0:46,0:46,25.0
+,15:33,15:39,"An der Alten Post 21, 50858 Köln, Deutschland","An der Alten Post 21, 50858 Köln, Deutschland",0:06,0:05,0.1
+,15:44,16:49,"An der Alten Post 21, 50858 Köln, Deutschland","Theodor-Heuss-Ring 32, 50668 Köln, Deutschland",1:04,0:04,36.7
+,17:25,20:08,"Theodor-Heuss-Ring 32, 50668 Köln, Deutschland","Regastraße 3, 50765 Köln, Deutschland",2:42,0:36,67.3
+Daily Totals:,11:25,20:08,,,6:26,2:15,169.8
+,,,,,,,
+03-10-22,11:59,12:08,"Regastraße 3, 50765 Köln, Deutschland","Heimersdorf, Oranjehofstraße, 50767 Köln, Deutschland",0:09,0:00,4.1
+,12:12,15:08,"Heimersdorf, Haselnußweg, 50767 Köln, Deutschland","Städtischer Kindergarten, Toni-Welter-Str, 50765 Köln, Deutschland",2:55,0:04,92.2
+,15:08,15:13,"Städtischer Kindergarten, Toni-Welter-Str, 50765 Köln, Deutschland","Cölner Getränke Store, Elbeallee 13, 50765 Köln, Deutschland",0:04,0:00,1.6
+,15:15,15:23,"Diemelweg, 50765 Köln, Deutschland","Fühlinger See P1, Oranjehofstraße, 50769 Köln, Deutschland",0:08,0:01,4.4
+,19:10,19:24,"Fühlinger See P1, Oranjehofstraße, 50769 Köln, Deutschland","Deutsche Post, Havelstraße, 50765 Köln, Deutschland",0:13,3:47,5.0
+Daily Totals:,11:59,19:24,,,3:31,3:53,107.3
+,,,,,,,
+03-11-22,01:41,02:12,"Deutsche Post, Havelstraße, 50765 Köln, Deutschland","Saalestraße 1, 50765 Köln, Deutschland",0:30,0:00,14.8
+,16:17,16:29,"Saalestraße 1, 50765 Köln, Deutschland","Metzgerei Dick, Haselnußweg 24, 50767 Köln, Deutschland",0:12,14:05,6.7
+,16:38,01:58,"Haselnußweg 30, 50767 Köln, Deutschland","Kalker Hauptstraße 101b, 51103 Köln, Deutschland",9:19,0:08,265.7
+Daily Totals:,1:41,1:58,,,10:02,14:13,287.2
+,,,,,,,
+03-12-22,02:14,06:09,"Kalker Hauptstraße 103, 51103 Köln, Deutschland","Volkhovener Weg 170, 50767 Köln, Deutschland",3:54,0:00,110.9
+,06:10,06:19,"Stallagsweg, Volkhovener Weg, 50767 Köln, Deutschland","Regastraße 5, 50765 Köln, Deutschland",0:09,0:01,3.6
+,18:00,18:06,"Regastraße 5, 50765 Köln, Deutschland","Chorweiler, Londoner Pl, 50765 Köln, Deutschland",0:05,11:40,2.1
+,18:13,02:05,"Köln-Chorweiler, Liverpooler Pl, 50765 Köln, Deutschland","Zörgiebelstraße 6, 50769 Köln, Deutschland",7:51,0:07,288.1
+Daily Totals:,2:14,2:05,,,12:02,11:49,404.7
+,,,,,,,
+03-13-22,02:25,03:43,"Zörgiebelstraße 6, 50769 Köln, Deutschland","Wollinstraße 16, 50765 Köln, Deutschland",1:17,0:00,81.9
+,14:52,18:07,"Weichselring, 50765 Köln, Deutschland","Regastraße 5, 50765 Köln, Deutschland",3:14,11:09,99.3
+,19:04,20:26,"Regastraße 5, 50765 Köln, Deutschland","Regastraße 5, 50765 Köln, Deutschland",1:21,0:57,49.2
+Daily Totals:,2:25,20:26,,,5:53,12:06,230.4
+,,,,,,,
+03-14-22,16:56,16:57,"Regastraße 9, 50765 Köln, Deutschland","Regastraße 9, 50765 Köln, Deutschland",0:01,0:00,0.0
+,16:58,17:32,"Regastraße 9, 50765 Köln, Deutschland","Kölner Golfclub, Freimersdorfer Weg, 50859 Köln, Deutschland",0:34,0:00,15.1
+,17:34,18:30,"Kölner Golfclub, Freimersdorfer Weg, 50859 Köln, Deutschland","Haselnußweg 30, 50767 Köln, Deutschland",0:55,0:02,36.5
+,18:55,20:32,"Haselnußweg 30, 50767 Köln, Deutschland","Lidl, Elbeallee 11, 50765 Köln, Deutschland",1:36,0:25,34.9
+,20:56,21:02,"Lidl, Elbeallee 11, 50765 Köln, Deutschland","Stolpestraße 2, 50765 Köln, Deutschland",0:05,0:24,1.8
+Daily Totals:,16:56,21:02,,,3:13,0:52,88.2
+,,,,,,,
+03-15-22,12:27,12:34,"Peeneweg, 50765 Köln, Deutschland","Salzburger Hof 2, 50765 Köln, Deutschland",0:07,0:00,3.7
+,12:51,12:56,"Handwerkerhof Athener Ring, Athener Ring, 50765 Köln, Deutschland","Regastraße 9, 50765 Köln, Deutschland",0:04,0:16,2.6
+Daily Totals:,12:27,12:56,,,0:12,0:16,6.4
+,,,,,,,
+03-16-22,-,-,-,-,-,-,-
+,,,,,,,
+03-17-22,18:24,19:28,"Regastraße 9, 50765 Köln, Deutschland","Homburger Str 9, 51545 Waldbröl, Deutschland",1:03,0:00,79.9
+,19:32,20:29,"Homburger Str 9, 51545 Waldbröl, Deutschland","Hirschhofweg 12, 50765 Köln, Deutschland",0:57,0:03,85.9
+,20:37,20:53,"Hirschhofweg 14, 50765 Köln, Deutschland","Weichselring, 50765 Köln, Deutschland",0:15,0:07,6.0
+Daily Totals:,18:24,20:53,,,2:16,0:11,171.9
+,,,,,,,
+03-18-22,-,-,-,-,-,-,-
+,,,,,,,
+03-19-22,-,-,-,-,-,-,-
+,,,,,,,
+03-20-22,18:50,18:52,"Heimersdorf, Haselnußweg, 50767 Köln, Deutschland","Heimersdorf, Oranjehofstraße, 50767 Köln, Deutschland",0:02,0:00,0.5
+,18:55,19:00,"Heimersdorf, Haselnußweg, 50767 Köln, Deutschland","Fühlinger See P1, Oranjehofstraße, 50769 Köln, Deutschland",0:04,0:02,2.5
+,19:33,19:49,"Fühlinger See P1, Oranjehofstraße, 50769 Köln, Deutschland","Regastraße 3, 50765 Köln, Deutschland",0:16,0:33,8.7
+Daily Totals:,18:50,19:49,,,0:24,0:35,11.7
+,,,,,,,
+03-21-22,-,-,-,-,-,-,-
+,,,,,,,
+03-22-22,-,-,-,-,-,-,-
+,,,,,,,
+03-23-22,-,-,-,-,-,-,-
+,,,,,,,
+Totals:,,,,,187:35,118:28,6043.2

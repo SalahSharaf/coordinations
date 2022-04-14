@@ -1,0 +1,179 @@
+Kinesis Telematics & Dashcam - Individual Trips - K-HC 3560/saman,,,,,,,
+,,,,,,,
+Date,Start Time,End Time,Start Location,End Location,Drive Time (h:m:),Stopped Time (h:m:),Distance Travelled (kilometres)
+,,,,,,,
+02-21-22,13:21,13:30,"Funk-Electronic Piciorgros, Claudiastraße 5, 51149 Köln, Deutschland","Rudolf Schwarz, Charlottenstraße 41-43, 51149 Köln, Deutschland",0:09,0:00,1.2
+,13:43,13:43,"Rudolf Schwarz, Charlottenstraße 41-43, 51149 Köln, Deutschland","Rudolf Schwarz, Charlottenstraße 41-43, 51149 Köln, Deutschland",0:00,0:12,0.0
+,14:12,14:15,"Rudolf Schwarz, Charlottenstraße 41-43, 51149 Köln, Deutschland","Funk-Electronic Piciorgros, Claudiastraße 5, 51149 Köln, Deutschland",0:03,0:28,0.8
+,14:38,15:06,"Funk-Electronic Piciorgros, Claudiastraße 5, 51149 Köln, Deutschland","Rösrather Str 133, 51107 Köln, Deutschland",0:27,0:22,6.6
+,15:13,15:21,"Rösrather Str 131, 51107 Köln, Deutschland","Servatiusstraße 69a, 51109 Köln, Deutschland",0:07,0:07,0.8
+,22:34,00:37,"Victoriastraße, 50668 Köln, Deutschland","Servatiusstraße 78, 51109 Köln, Deutschland",2:03,7:12,50.2
+Daily Totals:,13:21,0:37,,,2:52,8:24,59.7
+,,,,,,,
+02-22-22,09:08,15:59,"Servatiusstraße 51, 51109 Köln, Deutschland","Parkhaus Köln Arcaden, Peter-Stühlen-Str, 51103 Köln, Deutschland",6:51,0:00,174.4
+,17:51,18:09,"Parkhaus Köln Arcaden, Peter-Stühlen-Str, 51103 Köln, Deutschland","Servatiusstraße 69a, 51109 Köln, Deutschland",0:17,1:52,4.8
+,19:53,23:25,"Servatiusstraße 69a, 51109 Köln, Deutschland","Aachener Str 1091, 50858 Köln, Deutschland",3:32,1:44,79.7
+,23:31,01:27,"Aachener Str 1093, 50858 Köln, Deutschland","Servatiusstraße 69a, 51109 Köln, Deutschland",1:56,0:05,57.6
+Daily Totals:,9:08,1:27,,,12:37,3:41,316.4
+,,,,,,,
+02-23-22,09:10,13:44,"Servatiusstraße 51, 51109 Köln, Deutschland","Claudiastraße 3b, 51149 Köln, Deutschland",4:34,0:00,131.7
+,13:54,14:35,"Claudiastraße 3b, 51149 Köln, Deutschland","Katholische Grundschule - Zehnthofstraße, Zehnthofstraße, 51107 Köln, Deutschland",0:41,0:09,20.6
+,14:38,14:49,"Katholische Grundschule - Zehnthofstraße, Zehnthofstraße, 51107 Köln, Deutschland","Servatiusstraße 51, 51109 Köln, Deutschland",0:10,0:03,1.2
+,18:28,00:30,"Servatiusstraße 60, 51109 Köln, Deutschland","Servatiusstraße 69a, 51109 Köln, Deutschland",6:01,3:39,145.5
+Daily Totals:,9:10,0:30,,,11:28,3:52,299.1
+,,,,,,,
+02-24-22,09:25,09:28,"Servatiusstraße 69, 51109 Köln, Deutschland","Rösrather Str 131, 51107 Köln, Deutschland",0:03,0:00,0.9
+,09:34,14:57,"Rösrather Str 129, 51107 Köln, Deutschland","Servatiusstraße 69a, 51109 Köln, Deutschland",5:23,0:05,111.0
+,16:36,17:48,"Servatiusstraße 69, 51109 Köln, Deutschland","Star, Siegburger Str 406, 51105 Köln, Deutschland",1:12,1:39,28.7
+,17:50,03:28,"Star, Siegburger Str 406, 51105 Köln, Deutschland","Servatiusstraße 51, 51109 Köln, Deutschland",9:37,0:01,243.2
+Daily Totals:,9:25,3:28,,,16:16,1:45,383.8
+,,,,,,,
+02-25-22,10:44,14:46,"Servatiusstraße 62, 51109 Köln, Deutschland","Pfarrer-Krautwig-Str 8, 51109 Köln, Deutschland",4:01,0:00,111.1
+,15:27,15:30,"Lidl, Rösrather Str 87, 51107 Köln, Deutschland","Jet, Pauline-Christmann-Str 1, 51107 Köln, Deutschland",0:03,0:40,1.3
+,15:34,15:40,"Jet, Pauline-Christmann-Str 1, 51107 Köln, Deutschland","Servatiusstraße 51, 51109 Köln, Deutschland",0:06,0:03,1.6
+,17:52,20:55,"Servatiusstraße 69, 51109 Köln, Deutschland","Herbrandstraße 10, 50825 Köln, Deutschland",3:02,2:12,88.0
+,20:57,20:57,"Cinenova Arthouse-Center, Herbrandstraße 11, 50825 Köln, Deutschland","Herbrandstraße 10, 50825 Köln, Deutschland",0:00,0:02,0.0
+,20:59,05:22,"Cinenova Arthouse-Center, Herbrandstraße 11, 50825 Köln, Deutschland","Servatiusstraße 51, 51109 Köln, Deutschland",8:22,0:01,243.1
+Daily Totals:,10:44,5:22,,,15:37,3:00,445.1
+,,,,,,,
+02-26-22,12:10,17:15,"Servatiusstraße 69, 51109 Köln, Deutschland","Jet, Pauline-Christmann-Str 1, 51107 Köln, Deutschland",5:04,0:00,128.6
+,17:22,17:27,"Jet, Pauline-Christmann-Str 1, 51107 Köln, Deutschland","Servatiusstraße 69a, 51109 Köln, Deutschland",0:05,0:06,1.6
+,18:53,04:22,"Servatiusstraße 69a, 51109 Köln, Deutschland","Servatiusstraße 69a, 51109 Köln, Deutschland",9:29,1:25,233.6
+Daily Totals:,12:10,4:22,,,14:38,1:32,363.7
+,,,,,,,
+02-27-22,12:21,16:49,"Servatiusstraße 69a, 51109 Köln, Deutschland","Servatiusstraße 69a, 51109 Köln, Deutschland",4:28,0:00,128.5
+,19:08,21:46,"Servatiusstraße 69a, 51109 Köln, Deutschland","Star, Brühler Str 223, 50968 Köln, Deutschland",2:37,2:18,65.8
+,21:48,01:49,"Star, Brühler Str 223, 50968 Köln, Deutschland","Servatiusstraße 69a, 51109 Köln, Deutschland",4:01,0:02,89.5
+Daily Totals:,12:21,1:49,,,11:07,2:20,283.8
+,,,,,,,
+02-28-22,10:20,16:27,"Servatiusstraße 69a, 51109 Köln, Deutschland","Servatiusstraße 69a, 51109 Köln, Deutschland",6:06,0:00,148.0
+,18:30,03:03,"Servatiusstraße 78, 51109 Köln, Deutschland","Servatiusstraße 69a, 51109 Köln, Deutschland",8:32,2:03,248.0
+Daily Totals:,10:20,3:03,,,14:39,2:03,396.0
+,,,,,,,
+03-01-22,-,-,-,-,-,-,-
+,,,,,,,
+03-02-22,08:53,09:13,"Wilhelm-Griesinger-Str, 51109 Köln, Deutschland","Pauline-Christmann-Str 3a, 51107 Köln, Deutschland",0:19,0:00,1.9
+,09:46,12:03,"Pauline-Christmann-Str 3a, 51107 Köln, Deutschland","Mecumstraße 45, 40225 Düsseldorf, Deutschland",2:16,0:32,117.8
+,12:07,15:29,"Esso, Mecumstraße 45, 40225 Düsseldorf, Deutschland","Servatiusstraße 69a, 51109 Köln, Deutschland",3:22,0:03,106.5
+,18:56,23:53,"Servatiusstraße 69a, 51109 Köln, Deutschland","Servatiusstraße 69a, 51109 Köln, Deutschland",4:56,3:27,140.2
+Daily Totals:,8:53,23:53,,,10:56,4:03,366.5
+,,,,,,,
+03-03-22,08:58,16:05,"Servatiusstraße 69a, 51109 Köln, Deutschland","Funk-Electronic Piciorgros, Claudiastraße 5, 51149 Köln, Deutschland",7:06,0:00,161.4
+,16:06,16:54,"Claudiastraße 3b, 51149 Köln, Deutschland","Käthe-Schlechter-Str 25, 51109 Köln, Deutschland",0:47,0:01,26.9
+,17:45,17:52,"Käthe-Schlechter-Str 25, 51109 Köln, Deutschland","Servatiusstraße 69a, 51109 Köln, Deutschland",0:06,0:51,2.2
+,20:09,23:31,"Servatiusstraße 78, 51109 Köln, Deutschland","Servatiusstraße 69a, 51109 Köln, Deutschland",3:22,2:16,84.0
+Daily Totals:,8:58,23:31,,,11:23,3:09,274.5
+,,,,,,,
+03-04-22,08:58,11:49,"Servatiusstraße 69a, 51109 Köln, Deutschland","Brühler Str 223, 50968 Köln, Deutschland",2:50,0:00,73.9
+,11:52,16:08,"Star, Brühler Str 223, 50968 Köln, Deutschland","Servatiusstraße 69a, 51109 Köln, Deutschland",4:15,0:03,77.5
+,18:41,03:35,"Servatiusstraße 69a, 51109 Köln, Deutschland","Servatiusstraße 51, 51109 Köln, Deutschland",8:53,2:33,238.2
+Daily Totals:,8:58,3:35,,,15:59,2:36,389.5
+,,,,,,,
+03-05-22,09:41,13:45,"Servatiusstraße 51, 51109 Köln, Deutschland","Servatiusstraße 69a, 51109 Köln, Deutschland",4:04,0:00,136.2
+,19:01,19:05,"Servatiusstraße 69a, 51109 Köln, Deutschland","Rösrather Str 89, 51107 Köln, Deutschland",0:04,5:15,0.8
+,19:09,04:16,"Rösrather Str 89, 51107 Köln, Deutschland","Servatiusstraße 69a, 51109 Köln, Deutschland",9:07,0:03,225.3
+Daily Totals:,9:41,4:16,,,13:16,5:19,362.3
+,,,,,,,
+03-06-22,-,-,-,-,-,-,-
+,,,,,,,
+03-07-22,07:52,08:24,"Servatiusstraße 51, 51109 Köln, Deutschland","Rösrather Str 133, 51107 Köln, Deutschland",0:31,0:00,3.5
+,08:34,14:54,"Rösrather Str 131, 51107 Köln, Deutschland","Zehnthofstraße 26, 51107 Köln, Deutschland",6:20,0:09,151.5
+,14:59,15:04,"Katholische Grundschule - Zehnthofstraße, Zehnthofstraße, 51107 Köln, Deutschland","Rösrather Str 133, 51107 Köln, Deutschland",0:04,0:04,0.9
+,15:10,15:15,"Rösrather Str 133, 51107 Köln, Deutschland","Servatiusstraße 69a, 51109 Köln, Deutschland",0:04,0:06,0.8
+,19:10,01:14,"Servatiusstraße 78, 51109 Köln, Deutschland","Servatiusstraße 69a, 51109 Köln, Deutschland",6:04,3:55,167.4
+Daily Totals:,7:52,1:14,,,13:05,4:15,324.1
+,,,,,,,
+03-08-22,09:11,09:14,"Servatiusstraße 69a, 51109 Köln, Deutschland","Rösrather Str 131, 51107 Köln, Deutschland",0:03,0:00,0.9
+,09:23,09:56,"Rösrather Str 133, 51107 Köln, Deutschland","Funk-Electronic Piciorgros, Claudiastraße 5, 51149 Köln, Deutschland",0:33,0:08,6.2
+,10:21,11:12,"Funk-Electronic Piciorgros, Claudiastraße 5, 51149 Köln, Deutschland","Widdersdorfer Str 163, 50825 Köln, Deutschland",0:51,0:24,21.1
+,11:16,12:42,"Widdersdorfer Str 163, 50825 Köln, Deutschland","Funk-Electronic Piciorgros, Claudiastraße 5, 51149 Köln, Deutschland",1:25,0:03,37.4
+,12:52,15:25,"Funk-Electronic Piciorgros, Claudiastraße 5, 51149 Köln, Deutschland","Rösrather Str 133, 51107 Köln, Deutschland",2:33,0:10,49.7
+,15:35,15:39,"Rösrather Str 133, 51107 Köln, Deutschland","Servatiusstraße 69a, 51109 Köln, Deutschland",0:04,0:09,0.8
+,18:47,00:30,"Servatiusstraße 69a, 51109 Köln, Deutschland","Servatiusstraße 69a, 51109 Köln, Deutschland",5:42,3:07,181.1
+Daily Totals:,9:11,0:30,,,11:13,4:04,297.1
+,,,,,,,
+03-09-22,07:15,12:36,"Servatiusstraße 69, 51109 Köln, Deutschland","Rudolf Schwarz, Charlottenstraße 41-43, 51149 Köln, Deutschland",5:20,0:00,171.7
+,12:53,12:56,"Rudolf Schwarz, Charlottenstraße 41-43, 51149 Köln, Deutschland","Funk-Electronic Piciorgros, Claudiastraße 5, 51149 Köln, Deutschland",0:03,0:17,0.8
+,13:21,16:00,"Funk-Electronic Piciorgros, Claudiastraße 5, 51149 Köln, Deutschland","Servatiusstraße 69a, 51109 Köln, Deutschland",2:39,0:24,83.5
+,19:17,22:19,"Servatiusstraße 69a, 51109 Köln, Deutschland","Aachener Str 1095, 50858 Köln, Deutschland",3:01,3:17,69.6
+,22:23,00:09,"Aachener Str 1095, 50858 Köln, Deutschland","Servatiusstraße 69a, 51109 Köln, Deutschland",1:45,0:03,49.2
+Daily Totals:,7:15,0:09,,,12:50,4:02,374.8
+,,,,,,,
+03-10-22,09:05,09:08,"Servatiusstraße 60, 51109 Köln, Deutschland","Rösrather Str 133, 51107 Köln, Deutschland",0:03,0:00,0.9
+,09:19,09:36,"Rösrather Str 133, 51107 Köln, Deutschland","Charlottenstraße 37-39, 51149 Köln, Deutschland",0:16,0:11,7.0
+,09:44,15:06,"Rudolf Schwarz, Charlottenstraße 41-43, 51149 Köln, Deutschland","Gernsheimer Str 15, 51107 Köln, Deutschland",5:22,0:08,127.2
+,17:14,17:20,"Gernsheimer Str 19, 51107 Köln, Deutschland","Servatiusstraße 69a, 51109 Köln, Deutschland",0:05,2:08,1.0
+,19:30,00:09,"Servatiusstraße 69a, 51109 Köln, Deutschland","Servatiusstraße 69a, 51109 Köln, Deutschland",4:38,2:10,115.2
+Daily Totals:,9:05,0:09,,,10:25,4:38,251.3
+,,,,,,,
+03-11-22,08:56,09:00,"Servatiusstraße 69a, 51109 Köln, Deutschland","Rösrather Str 133, 51107 Köln, Deutschland",0:04,0:00,0.9
+,09:08,15:59,"Rösrather Str 133, 51107 Köln, Deutschland","Servatiusstraße 69a, 51109 Köln, Deutschland",6:51,0:07,101.2
+,19:26,19:29,"Servatiusstraße 60, 51109 Köln, Deutschland","Rösrather Str 89, 51107 Köln, Deutschland",0:03,3:27,0.7
+,19:34,04:57,"Rösrather Str 89, 51107 Köln, Deutschland","Servatiusstraße 69a, 51109 Köln, Deutschland",9:22,0:04,229.3
+Daily Totals:,8:56,4:57,,,16:21,3:39,332.1
+,,,,,,,
+03-12-22,12:14,16:09,"Servatiusstraße 51, 51109 Köln, Deutschland","Sebastian Klein, Rösrather Str, 51107 Köln, Deutschland",3:55,0:00,90.9
+,16:22,16:26,"Orientalischer Shamal Supermarkt, Rösrather Str, 51107 Köln, Deutschland","Servatiusstraße 69a, 51109 Köln, Deutschland",0:04,0:12,0.8
+,19:43,21:19,"Servatiusstraße 69a, 51109 Köln, Deutschland","Berliner Str 111, 51063 Köln, Deutschland",1:35,3:16,48.0
+,21:22,05:14,"Aral, Berliner Str, 51063 Köln, Deutschland","Servatiusstraße 69a, 51109 Köln, Deutschland",7:51,0:03,243.6
+Daily Totals:,12:14,5:14,,,13:26,3:32,383.4
+,,,,,,,
+03-13-22,-,-,-,-,-,-,-
+,,,,,,,
+03-14-22,07:44,10:47,"Servatiusstraße 69, 51109 Köln, Deutschland","Claudiastraße 9, 51149 Köln, Deutschland",3:03,0:00,89.7
+,11:02,11:03,"Claudiastraße 9, 51149 Köln, Deutschland","Claudiastraße 9, 51149 Köln, Deutschland",0:01,0:14,0.0
+,11:23,12:51,"Claudiastraße 9, 51149 Köln, Deutschland","Armand-Peugeot-Str, 51149 Köln, Deutschland",1:28,0:20,25.6
+,13:06,14:24,"Armand-Peugeot-Str, 51149 Köln, Deutschland","Katholische Grundschule - Zehnthofstraße, Zehnthofstraße, 51107 Köln, Deutschland",1:18,0:14,70.1
+,14:28,14:44,"Katholische Grundschule - Zehnthofstraße, Zehnthofstraße, 51107 Köln, Deutschland","Servatiusstraße 69a, 51109 Köln, Deutschland",0:15,0:04,1.1
+,16:45,16:54,"Servatiusstraße 51, 51109 Köln, Deutschland","Jet, Pauline-Christmann-Str 1, 51107 Köln, Deutschland",0:08,2:01,1.5
+,16:57,23:11,"Jet, Pauline-Christmann-Str 1, 51107 Köln, Deutschland","Servatiusstraße 51, 51109 Köln, Deutschland",6:13,0:03,308.4
+Daily Totals:,7:44,23:11,,,12:29,2:58,496.5
+,,,,,,,
+03-15-22,09:07,13:05,"Servatiusstraße 69a, 51109 Köln, Deutschland","Armand-Peugeot-Str, 51149 Köln, Deutschland",3:57,0:00,84.7
+,13:21,15:29,"Armand-Peugeot-Str, 51149 Köln, Deutschland","Servatiusstraße 69, 51109 Köln, Deutschland",2:07,0:15,77.1
+,19:02,22:06,"Servatiusstraße 69, 51109 Köln, Deutschland","Servatiusstraße 51, 51109 Köln, Deutschland",3:04,3:32,83.8
+Daily Totals:,9:07,22:06,,,9:10,3:48,245.6
+,,,,,,,
+03-16-22,09:27,16:19,"Servatiusstraße 69a, 51109 Köln, Deutschland","Servatiusstraße 69a, 51109 Köln, Deutschland",6:51,0:00,147.5
+,18:42,18:48,"Servatiusstraße 51, 51109 Köln, Deutschland","Jet, Pauline-Christmann-Str 1, 51107 Köln, Deutschland",0:05,2:23,1.5
+,18:52,23:44,"Jet, Pauline-Christmann-Str 1, 51107 Köln, Deutschland","Servatiusstraße 51, 51109 Köln, Deutschland",4:52,0:03,111.3
+Daily Totals:,9:27,23:44,,,11:49,2:27,260.3
+,,,,,,,
+03-17-22,07:54,14:10,"Servatiusstraße 51, 51109 Köln, Deutschland","Servatiusstraße 69a, 51109 Köln, Deutschland",6:15,0:00,129.7
+,19:08,00:55,"Servatiusstraße 51, 51109 Köln, Deutschland","Servatiusstraße 51, 51109 Köln, Deutschland",5:47,4:58,162.6
+Daily Totals:,7:54,0:55,,,12:03,4:58,292.3
+,,,,,,,
+03-18-22,08:53,09:34,"Servatiusstraße 78, 51109 Köln, Deutschland","Widdersdorfer Str 163, 50825 Köln, Deutschland",0:40,0:00,13.3
+,09:44,14:10,"Widdersdorfer Str 163, 50825 Köln, Deutschland","Lidl, Rösrather Str 87, 51107 Köln, Deutschland",4:25,0:10,121.9
+,14:52,15:00,"Lidl, Rösrather Str 87, 51107 Köln, Deutschland","Katholische Grundschule - Zehnthofstraße, Zehnthofstraße, 51107 Köln, Deutschland",0:07,0:42,1.1
+,15:07,15:22,"Katholische Grundschule - Zehnthofstraße, Zehnthofstraße, 51107 Köln, Deutschland","Servatiusstraße 69a, 51109 Köln, Deutschland",0:15,0:06,0.8
+,19:06,19:13,"Servatiusstraße 69a, 51109 Köln, Deutschland","Jet, Pauline-Christmann-Str 1, 51107 Köln, Deutschland",0:07,3:44,1.5
+,19:18,04:26,"Jet, Pauline-Christmann-Str 1, 51107 Köln, Deutschland","Servatiusstraße 69a, 51109 Köln, Deutschland",9:08,0:04,269.7
+Daily Totals:,8:53,4:26,,,14:45,4:47,408.2
+,,,,,,,
+03-19-22,13:30,18:39,"Servatiusstraße 51, 51109 Köln, Deutschland","Servatiusstraße 69a, 51109 Köln, Deutschland",5:08,0:00,175.9
+,20:38,20:43,"Servatiusstraße 69a, 51109 Köln, Deutschland","Jet, Pauline-Christmann-Str 1, 51107 Köln, Deutschland",0:05,1:59,1.5
+,20:47,04:38,"Jet, Pauline-Christmann-Str 1, 51107 Köln, Deutschland","Servatiusstraße 69a, 51109 Köln, Deutschland",7:50,0:03,229.8
+Daily Totals:,13:30,4:38,,,13:04,2:03,407.2
+,,,,,,,
+03-20-22,14:02,14:12,"Servatiusstraße 78, 51109 Köln, Deutschland","Lehmbacher Weg, 51109 Köln, Deutschland",0:09,0:00,4.3
+,14:22,17:34,"Lehmbacher Weg, 51109 Köln, Deutschland","Servatiusstraße 78, 51109 Köln, Deutschland",3:11,0:09,104.1
+Daily Totals:,14:02,17:34,,,3:21,0:09,108.4
+,,,,,,,
+03-21-22,07:52,08:30,"Servatiusstraße 69a, 51109 Köln, Deutschland","Rösrather Str 133, 51107 Köln, Deutschland",0:37,0:00,3.8
+,08:38,12:15,"Rösrather Str 133, 51107 Köln, Deutschland","Funk-Electronic Piciorgros, Claudiastraße 5, 51149 Köln, Deutschland",3:36,0:08,93.6
+,12:57,14:58,"Funk-Electronic Piciorgros, Claudiastraße 5, 51149 Köln, Deutschland","Rösrather Str 158b, 51107 Köln, Deutschland",2:01,0:41,128.0
+,15:06,15:14,"Rösrather Str 133, 51107 Köln, Deutschland","Katholische Grundschule - Zehnthofstraße, Zehnthofstraße, 51107 Köln, Deutschland",0:07,0:08,1.2
+,15:19,15:23,"Katholische Grundschule - Zehnthofstraße, Zehnthofstraße, 51107 Köln, Deutschland","Servatiusstraße 69a, 51109 Köln, Deutschland",0:04,0:05,0.8
+,19:18,21:55,"Servatiusstraße 69a, 51109 Köln, Deutschland","Jet, Widdersdorfer Str 165, 50825 Köln, Deutschland",2:37,3:54,67.5
+,21:58,22:47,"Widdersdorfer Str 163, 50825 Köln, Deutschland","Servatiusstraße 69a, 51109 Köln, Deutschland",0:49,0:03,24.6
+Daily Totals:,7:52,22:47,,,9:53,5:01,319.3
+,,,,,,,
+03-22-22,09:04,15:11,"Servatiusstraße 69a, 51109 Köln, Deutschland","Servatiusstraße 69, 51109 Köln, Deutschland",6:06,0:00,111.0
+,19:53,00:17,"Servatiusstraße 69a, 51109 Köln, Deutschland","Servatiusstraße 69a, 51109 Köln, Deutschland",4:24,4:42,153.0
+Daily Totals:,9:04,0:17,,,10:30,4:42,264.0
+,,,,,,,
+03-23-22,07:45,13:41,"Servatiusstraße 69a, 51109 Köln, Deutschland","Servatiusstraße 51, 51109 Köln, Deutschland",5:55,0:00,123.3
+Daily Totals:,7:45,13:41,,,5:55,0:00,123.3
+,,,,,,,
+Totals:,,,,,331:19,97:01,8828.4

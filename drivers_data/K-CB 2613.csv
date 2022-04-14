@@ -1,0 +1,190 @@
+Kinesis Telematics & Dashcam - Individual Trips - K-CB 2613/Frie,,,,,,,
+,,,,,,,
+Date,Start Time,End Time,Start Location,End Location,Drive Time (h:m:),Stopped Time (h:m:),Distance Travelled (kilometres)
+,,,,,,,
+02-21-22,09:10,10:10,"Claudiastraße 7, 51149 Köln, Deutschland","Jet, Bornheimer Str 145, 53119 Bonn, Deutschland",1:00,0:00,40.1
+,10:15,12:32,"Bornheimer Str 145, 53119 Bonn, Deutschland","Funk-Electronic Piciorgros, Claudiastraße 5, 51149 Köln, Deutschland",2:16,0:04,70.8
+,12:41,13:21,"Claudiastraße 3b, 51149 Köln, Deutschland","Funk-Electronic Piciorgros, Claudiastraße 5, 51149 Köln, Deutschland",0:39,0:09,10.5
+,15:18,15:40,"Claudiastraße 3b, 51149 Köln, Deutschland","Gernsheimer Str 13, 51107 Köln, Deutschland",0:22,1:56,5.7
+,16:53,17:16,"Gernsheimer Str 13, 51107 Köln, Deutschland","Pauline-Christmann-Str 3a, 51107 Köln, Deutschland",0:22,1:13,2.5
+,17:19,18:51,"Pauline-Christmann-Str 3a, 51107 Köln, Deutschland","Gernsheimer Str 13, 51107 Köln, Deutschland",1:31,0:03,35.3
+,19:32,19:44,"Gernsheimer Str 33, 51107 Köln, Deutschland","Parkhaus Köln Arcaden, Peter-Stühlen-Str, 51103 Köln, Deutschland",0:11,0:41,4.3
+,21:25,21:29,"Offenbachplatz, 50667 Köln, Deutschland","Marzellenstraße 14-16, 50667 Köln, Deutschland",0:04,1:40,1.1
+,21:30,00:35,"Marzellenstraße 14-16, 50667 Köln, Deutschland","Gernsheimer Str 33, 51107 Köln, Deutschland",3:04,0:00,120.5
+Daily Totals:,9:10,0:35,,,9:33,5:51,290.8
+,,,,,,,
+02-22-22,06:42,08:38,"Frankfurter Str 648, 51107 Köln, Deutschland","Burgstraße 11-13, 51103 Köln, Deutschland",1:56,0:00,43.5
+,08:41,08:48,"Oranienstraße 1, 51103 Köln, Deutschland","Gernsheimer Str 19, 51107 Köln, Deutschland",0:07,0:02,2.1
+,15:36,16:47,"Gernsheimer Str 15, 51107 Köln, Deutschland","Pfarrer-Krautwig-Str 8, 51109 Köln, Deutschland",1:11,6:48,31.2
+,16:54,20:41,"Pfarrer-Krautwig-Str 8, 51109 Köln, Deutschland","Marspfortengasse 9, 50667 Köln, Deutschland",3:46,0:06,103.1
+,21:02,23:15,"Obenmarspforten 9, 50667 Köln, Deutschland","Gernsheimer Str 15, 51107 Köln, Deutschland",2:12,0:21,51.4
+Daily Totals:,6:42,23:15,,,9:13,7:19,231.3
+,,,,,,,
+02-23-22,00:41,03:04,"Gernsheimer Str 19, 51107 Köln, Deutschland","Kalker Hauptstraße 101a, 51103 Köln, Deutschland",2:23,0:00,67.2
+,03:12,04:01,"Kalker Hauptstraße 103, 51103 Köln, Deutschland","Gernsheimer Str 13, 51107 Köln, Deutschland",0:48,0:07,21.7
+,04:27,06:48,"Gernsheimer Str 15, 51107 Köln, Deutschland","Gernsheimer Str 19, 51107 Köln, Deutschland",2:20,0:26,86.9
+,13:40,17:13,"Gernsheimer Str 15, 51107 Köln, Deutschland","Zehnthofstraße 48, 51107 Köln, Deutschland",3:33,6:51,77.8
+,17:24,17:27,"Förderschule Edisonstraße, Edisonstraße, 51107 Köln, Deutschland","Gernsheimer Str 13, 51107 Köln, Deutschland",0:03,0:10,0.5
+,19:18,22:56,"Gernsheimer Str 13, 51107 Köln, Deutschland","An der Eiche 5, 50678 Köln, Deutschland",3:37,1:51,113.5
+,22:57,02:32,"An der Eiche 9, 50678 Köln, Deutschland","Bobstraße 7, 50676 Köln, Deutschland",3:35,0:00,95.3
+Daily Totals:,0:41,2:32,,,16:23,9:27,463.0
+,,,,,,,
+02-24-22,02:33,05:19,"Thieboldsgasse 79, 50676 Köln, Deutschland","Kalker Hauptstraße 103, 51103 Köln, Deutschland",2:45,0:00,98.4
+,05:27,05:28,"Kalker Hauptstraße 107, 51103 Köln, Deutschland","Kalker Hauptstraße 107, 51103 Köln, Deutschland",0:00,0:08,0.0
+,05:44,06:00,"Kalker Hauptstraße 94, 51103 Köln, Deutschland","Gernsheimer Str 33, 51107 Köln, Deutschland",0:16,0:16,3.9
+,14:01,20:05,"Frankfurter Str 652, 51107 Köln, Deutschland","Hohenstaufenring 62, 50674 Köln, Deutschland",6:03,8:00,157.4
+,20:06,21:47,"Hohenstaufenring 62, 50674 Köln, Deutschland","Gernsheimer Str 3, 51107 Köln, Deutschland",1:41,0:00,84.1
+,23:05,05:20,"Gernsheimer Str 5, 51107 Köln, Deutschland","Schaafenstraße 47, 50676 Köln, Deutschland",6:14,1:18,182.0
+Daily Totals:,2:33,5:20,,,17:02,9:44,525.8
+,,,,,,,
+02-25-22,05:24,05:55,"Schaafenstraße 47, 50676 Köln, Deutschland","Subbelrather Str 244, 50825 Köln, Deutschland",0:31,0:00,9.0
+,06:00,08:15,"Stadtbücherei Ehrenfeld, Subbelrather Str, 50825 Köln, Deutschland","Piccoloministraße 385, 51067 Köln, Deutschland",2:15,0:04,53.5
+,08:21,08:27,"Kiosk & Getränkemarkt Piccolonia, Piccoloministraße 389a, 51067 Köln, Deutschland","Honschaftsstraße 2, 51067 Köln, Deutschland",0:05,0:05,1.6
+,08:30,08:52,"Honschaftsstraße, 51067 Köln, Deutschland","Funk-Electronic Piciorgros, Claudiastraße 5, 51149 Köln, Deutschland",0:22,0:02,9.4
+,09:10,09:29,"Funk-Electronic Piciorgros, Claudiastraße 5, 51149 Köln, Deutschland","Gernsheimer Str 19, 51107 Köln, Deutschland",0:19,0:17,6.2
+,09:39,09:48,"Gernsheimer Str 13, 51107 Köln, Deutschland","Institut für Qualität und Wirtschaftlichkeit im Gesundheitswesen, Dillenburger Str 27, 51105 Köln, Deutschland",0:09,0:10,3.4
+,10:10,10:32,"Institut für Qualität und Wirtschaftlichkeit im Gesundheitswesen, Dillenburger Str 27, 51105 Köln, Deutschland","Gernsheimer Str 13, 51107 Köln, Deutschland",0:22,0:21,3.9
+,18:42,18:56,"Gernsheimer Str 13, 51107 Köln, Deutschland","Pauline-Christmann-Str 3a, 51107 Köln, Deutschland",0:13,8:09,2.2
+,18:58,19:06,"Pauline-Christmann-Str 2, 51107 Köln, Deutschland","Pfarrer-Krautwig-Str 8, 51109 Köln, Deutschland",0:08,0:01,1.7
+,19:11,00:46,"Lidl, Rösrather Str 87, 51107 Köln, Deutschland","Südamerikahaus, Riehler Str, 50735 Köln, Deutschland",5:34,0:05,122.0
+Daily Totals:,5:24,0:46,,,10:02,9:19,212.8
+,,,,,,,
+02-26-22,00:46,03:19,"Riehler Str, 50735 Köln, Deutschland","Brentenstraße 33, 50354 Hürth, Deutschland",2:32,0:00,83.9
+,03:23,08:43,"Berrenrather Str 488, 50354 Hürth, Deutschland","Ring-Karree, Im Klapperhof, 50672 Köln, Deutschland",5:20,0:03,115.5
+,08:44,09:40,"221112061011, Hohenzollernring, 50672 Köln, Deutschland","Gernsheimer Str 15, 51107 Köln, Deutschland",0:55,0:01,23.5
+,17:30,17:45,"Gernsheimer Str 13, 51107 Köln, Deutschland","Jet, Pauline-Christmann-Str 1, 51107 Köln, Deutschland",0:14,7:50,2.3
+,17:55,17:58,"Jet, Pauline-Christmann-Str 1, 51107 Köln, Deutschland","Lidl, Rösrather Str 87, 51107 Köln, Deutschland",0:03,0:10,1.1
+,18:03,03:08,"Pfarrer-Krautwig-Str 8, 51109 Köln, Deutschland","Bartholomäus-Schink-Str 2, 50825 Köln, Deutschland",9:05,0:04,226.3
+Daily Totals:,0:46,3:08,,,18:12,8:10,452.6
+,,,,,,,
+02-27-22,03:12,07:15,"Bartholomäus-Schink-Str 2, 50825 Köln, Deutschland","Gernsheimer Str 15, 51107 Köln, Deutschland",4:02,0:00,118.6
+,17:26,21:50,"Gernsheimer Str 13, 51107 Köln, Deutschland","Eifelstraße, Salierring, 50677 Köln, Deutschland",4:23,10:11,113.8
+,21:51,21:59,"Salierring 3, 50677 Köln, Deutschland","Hohenstaufenring 41, 50674 Köln, Deutschland",0:07,0:01,1.4
+,22:05,23:20,"Hohenstaufenring 43-45, 50674 Köln, Deutschland","Gernsheimer Str 13, 51107 Köln, Deutschland",1:15,0:05,32.5
+Daily Totals:,3:12,23:20,,,9:49,10:18,266.3
+,,,,,,,
+02-28-22,00:32,01:49,"Gernsheimer Str 13, 51107 Köln, Deutschland","Schillingsrotter Str 100, 50996 Köln, Deutschland",1:17,0:00,50.1
+,01:50,06:33,"Schillingsrotter Str 100, 50996 Köln, Deutschland","Gernsheimer Str 13, 51107 Köln, Deutschland",4:42,0:00,134.1
+,16:17,16:18,"Gernsheimer Str 13, 51107 Köln, Deutschland","Gernsheimer Str 13, 51107 Köln, Deutschland",0:01,9:44,0.0
+,17:53,18:32,"Gernsheimer Str 13, 51107 Köln, Deutschland","Luxemburger Str 6, 50674 Köln, Deutschland",0:38,1:35,15.7
+,18:33,19:59,"Barbarossaplatz, Luxemburger Str, 50674 Köln, Deutschland","Lommerzheim (Biergarten), Siegesstraße, 50679 Köln, Deutschland",1:25,0:00,41.2
+,20:03,20:38,"Siegesstraße 18-20, 50679 Köln, Deutschland","Siegesstraße 22, 50679 Köln, Deutschland",0:34,0:04,23.1
+,20:40,23:40,"Siegesstraße 18-20, 50679 Köln, Deutschland","Brüsseler Str 48, 50674 Köln, Deutschland",3:00,0:01,79.8
+,23:47,23:48,"Fisch Hof, Brüsseler Str 46, 50674 Köln, Deutschland","Fisch Hof, Brüsseler Str 46, 50674 Köln, Deutschland",0:01,0:07,0.0
+,23:50,01:45,"Fisch Hof, Brüsseler Str 46, 50674 Köln, Deutschland","Leo-Statz-Platz, Fürstenwall, Düsseldorf, Deutschland",1:55,0:01,86.4
+Daily Totals:,0:32,1:45,,,13:37,11:35,430.4
+,,,,,,,
+03-01-22,01:46,04:29,"Fürstenwall 61, 40219 Düsseldorf, Deutschland","Gottesweg 48, 50969 Köln, Deutschland",2:43,0:00,96.8
+,04:33,06:19,"Gottesweg 83, 50969 Köln, Deutschland","Kalker Hauptstraße 103, 51103 Köln, Deutschland",1:45,0:04,40.5
+,06:33,07:39,"Kalker Hauptstraße 105, 51103 Köln, Deutschland","Oranienstraße 1, 51103 Köln, Deutschland",1:06,0:13,31.9
+,07:41,08:04,"Burgstraße 11-13, 51103 Köln, Deutschland","Gernsheimer Str 15, 51107 Köln, Deutschland",0:23,0:01,3.8
+,18:11,19:47,"Gernsheimer Str 19, 51107 Köln, Deutschland","Lidl, Rösrather Str 87, 51107 Köln, Deutschland",1:36,10:06,39.6
+,19:53,19:57,"Lidl, Rösrather Str 87, 51107 Köln, Deutschland","Gernsheimer Str 13, 51107 Köln, Deutschland",0:03,0:06,1.1
+,21:05,22:49,"Gernsheimer Str 13, 51107 Köln, Deutschland","P2 Parkhaus, Köln/Bonn Flughafen Terminal 2, 51147 Köln, Deutschland",1:44,1:08,53.8
+,22:53,23:02,"P2 Parkhaus, Köln/Bonn Flughafen Terminal 2, 51147 Köln, Deutschland","P2 Parkhaus, Köln/Bonn Flughafen Terminal 2, 51147 Köln, Deutschland",0:09,0:03,0.9
+,23:12,01:12,"P2 Parkhaus, Köln/Bonn Flughafen Terminal 2, 51147 Köln, Deutschland","IKram's, Overbeckstraße 5, 50823 Köln, Deutschland",2:00,0:10,70.5
+Daily Totals:,1:46,1:12,,,11:32,11:54,338.9
+,,,,,,,
+03-02-22,01:16,01:26,"Liebigstraße 32, 50823 Köln, Deutschland","Bartholomäus-Schink-Str 2, 50825 Köln, Deutschland",0:09,0:00,2.3
+,01:33,03:04,"Ehrenfeldgürtel, 50823 Köln, Deutschland","Kalker Hauptstraße 80, 51103 Köln, Deutschland",1:31,0:06,34.4
+,03:29,03:37,"Kalker Hauptstraße 103, 51103 Köln, Deutschland","Gernsheimer Str 15, 51107 Köln, Deutschland",0:08,0:24,3.6
+,13:14,13:28,"Gernsheimer Str 13, 51107 Köln, Deutschland","Aral, Alter Deutzer Postweg, 51149 Köln, Deutschland",0:14,9:36,3.5
+,13:34,13:44,"Ibis Budget, Alter Deutzer Postweg 100, 51149 Köln, Deutschland","Funk-Electronic Piciorgros, Claudiastraße 5, 51149 Köln, Deutschland",0:09,0:06,5.2
+Daily Totals:,1:16,13:44,,,2:14,10:13,49.1
+,,,,,,,
+03-03-22,14:06,17:20,"Funk-Electronic Piciorgros, Claudiastraße 5, 51149 Köln, Deutschland","Gernsheimer Str 15, 51107 Köln, Deutschland",3:14,0:00,87.1
+,19:38,22:11,"Gernsheimer Str 13, 51107 Köln, Deutschland","Gernsheimer Str 13, 51107 Köln, Deutschland",2:33,2:17,68.1
+,22:52,00:27,"Gernsheimer Str 13, 51107 Köln, Deutschland","Auenweg, 50679 Köln, Deutschland",1:35,0:40,45.4
+Daily Totals:,14:06,0:27,,,7:22,2:58,200.7
+,,,,,,,
+03-04-22,00:34,02:55,"Auenweg, 50679 Köln, Deutschland","Kostgasse, 50667 Köln, Deutschland",2:21,0:00,84.5
+,02:59,03:56,"Kostgasse, 50667 Köln, Deutschland","Gernsheimer Str 13, 51107 Köln, Deutschland",0:57,0:03,21.9
+,15:35,16:01,"Gernsheimer Str 13, 51107 Köln, Deutschland","Siegburger Str, 50679 Köln, Deutschland",0:26,11:39,10.3
+,16:05,16:16,"Siegburger Str, 50679 Köln, Deutschland","Funk-Electronic Piciorgros, Claudiastraße 5, 51149 Köln, Deutschland",0:10,0:03,5.3
+,16:30,16:49,"Funk-Electronic Piciorgros, Claudiastraße 5, 51149 Köln, Deutschland","Gernsheimer Str 13, 51107 Köln, Deutschland",0:19,0:14,5.8
+,18:29,20:00,"Gernsheimer Str 19, 51107 Köln, Deutschland","Vogelsanger Weg 92, 50858 Köln, Deutschland",1:31,1:39,45.3
+,20:01,21:35,"Vogelsanger Weg 92, 50858 Köln, Deutschland","Gernsheimer Str 15, 51107 Köln, Deutschland",1:34,0:00,53.3
+,22:36,00:21,"Gernsheimer Str 15, 51107 Köln, Deutschland","Heliosstraße 6, 50825 Köln, Deutschland",1:45,1:00,46.6
+Daily Totals:,0:34,0:21,,,9:05,14:42,273.0
+,,,,,,,
+03-05-22,00:26,07:39,"Heliosstraße 35, 50825 Köln, Deutschland","Gernsheimer Str 13, 51107 Köln, Deutschland",7:13,0:00,210.2
+,18:33,01:56,"Gernsheimer Str 13, 51107 Köln, Deutschland","Friedhof Deckstein, Decksteiner Str, 50935 Köln, Deutschland",7:22,10:53,219.1
+Daily Totals:,0:26,1:56,,,14:36,10:53,429.3
+,,,,,,,
+03-06-22,01:56,03:29,"Friedhof Deckstein, Decksteiner Str, 50935 Köln, Deutschland","Siegburger Str, 50679 Köln, Deutschland",1:33,0:00,49.4
+,03:30,07:08,"Siegburger Str, 50679 Köln, Deutschland","Gernsheimer Str 15, 51107 Köln, Deutschland",3:37,0:00,102.4
+,07:22,07:38,"Gernsheimer Str 15, 51107 Köln, Deutschland","Gernsheimer Str 15, 51107 Köln, Deutschland",0:16,0:14,0.6
+,18:42,20:15,"Gernsheimer Str 15, 51107 Köln, Deutschland","Paul-Schallück-Str 10, 50939 Köln, Deutschland",1:32,11:04,39.7
+,20:34,22:39,"Paul-Schallück-Str 10, 50939 Köln, Deutschland","Gernsheimer Str 15, 51107 Köln, Deutschland",2:04,0:19,74.8
+Daily Totals:,1:56,22:39,,,9:04,11:38,266.9
+,,,,,,,
+03-07-22,00:14,04:53,"Gernsheimer Str 15, 51107 Köln, Deutschland","Gernsheimer Str 15, 51107 Köln, Deutschland",4:39,0:00,156.8
+,14:41,14:57,"Gernsheimer Str 15, 51107 Köln, Deutschland","Funk-Electronic Piciorgros, Claudiastraße 5, 51149 Köln, Deutschland",0:16,9:47,6.4
+,15:13,15:32,"Funk-Electronic Piciorgros, Claudiastraße 5, 51149 Köln, Deutschland","Gernsheimer Str 15, 51107 Köln, Deutschland",0:19,0:15,5.7
+,17:02,17:06,"Gernsheimer Str 15, 51107 Köln, Deutschland","Gernsheimer Str 13, 51107 Köln, Deutschland",0:04,1:29,0.2
+,17:13,19:05,"Gernsheimer Str 33, 51107 Köln, Deutschland","Gernsheimer Str 15, 51107 Köln, Deutschland",1:51,0:07,50.5
+,20:16,02:16,"Gernsheimer Str 19, 51107 Köln, Deutschland","Burger King, Bergisch Gladbacher Str 417–419, 51067 Köln, Deutschland",5:59,1:11,176.8
+Daily Totals:,0:14,2:16,,,13:10,12:51,396.5
+,,,,,,,
+03-08-22,02:41,03:58,"Honschaftsstraße 2, 51067 Köln, Deutschland","Gernsheimer Str 13, 51107 Köln, Deutschland",1:16,0:00,33.5
+,15:26,15:39,"Gernsheimer Str 13, 51107 Köln, Deutschland","Buchforststraße 1-5, 51103 Köln, Deutschland",0:13,11:27,3.5
+,15:54,16:14,"Buchforststraße 1-5, 51103 Köln, Deutschland","Gernsheimer Str 15, 51107 Köln, Deutschland",0:19,0:14,5.0
+,17:27,19:37,"Gernsheimer Str 15, 51107 Köln, Deutschland","Gernsheimer Str 13, 51107 Köln, Deutschland",2:10,1:13,42.8
+,21:01,22:35,"Gernsheimer Str 13, 51107 Köln, Deutschland","Severinstraße 95b, 50678 Köln, Deutschland",1:33,1:23,27.8
+,22:35,02:26,"Severinstraße 93-95, 50678 Köln, Deutschland","Shell, Neusser Str, 50733 Köln, Deutschland",3:50,0:00,123.3
+Daily Totals:,2:41,2:26,,,9:24,14:20,236.0
+,,,,,,,
+03-09-22,02:27,03:59,"Shell, Neusser Str, 50733 Köln, Deutschland","Gernsheimer Str 13, 51107 Köln, Deutschland",1:32,0:00,58.3
+,18:08,19:23,"Gernsheimer Str 33, 51107 Köln, Deutschland","St. Heinrich, Urbanstraße 1, 50679 Köln, Deutschland",1:15,14:08,31.4
+,19:24,20:43,"St. Heinrich, Urbanstraße 1, 50679 Köln, Deutschland","Gernsheimer Str 13, 51107 Köln, Deutschland",1:19,0:01,33.7
+,21:52,01:27,"Gernsheimer Str 13, 51107 Köln, Deutschland","EStW-A Gremberg, Porzer Ringstraße, 51149 Köln, Deutschland",3:34,1:08,123.7
+Daily Totals:,2:27,1:27,,,7:41,15:18,247.2
+,,,,,,,
+03-10-22,01:39,04:26,"EStW-A Gremberg Gnf, Porzer Ringstraße, 51149 Köln, Deutschland","Sigwinstraße 99, 51061 Köln, Deutschland",2:46,0:00,79.0
+,04:29,04:43,"Jasminweg 2, 51061 Köln, Deutschland","Gernsheimer Str 13, 51107 Köln, Deutschland",0:14,0:02,6.2
+,20:48,20:52,"Gernsheimer Str 15, 51107 Köln, Deutschland","Gernsheimer Str 13, 51107 Köln, Deutschland",0:03,16:05,0.1
+Daily Totals:,1:39,20:52,,,3:04,16:07,85.3
+,,,,,,,
+03-11-22,04:50,07:44,"Gernsheimer Str 13, 51107 Köln, Deutschland","Funk-Electronic Piciorgros, Claudiastraße 5, 51149 Köln, Deutschland",2:53,0:00,114.4
+,08:27,08:37,"Funk-Electronic Piciorgros, Claudiastraße 5, 51149 Köln, Deutschland","Burgstraße 18, 51103 Köln, Deutschland",0:10,0:42,5.3
+,08:39,08:43,"Oranienstraße 1, 51103 Köln, Deutschland","Ostheimer Str 125, 51107 Köln, Deutschland",0:03,0:02,0.3
+,08:45,08:49,"Ostheimer Str 125, 51107 Köln, Deutschland","Gernsheimer Str 13, 51107 Köln, Deutschland",0:04,0:02,1.6
+,17:57,18:18,"Gernsheimer Str 15, 51107 Köln, Deutschland","Pauline-Christmann-Str 3a, 51107 Köln, Deutschland",0:21,9:07,2.2
+,18:25,18:37,"Pauline-Christmann-Str 3a, 51107 Köln, Deutschland","Gernsheimer Str 13, 51107 Köln, Deutschland",0:11,0:06,1.9
+,18:42,19:15,"Gernsheimer Str 13, 51107 Köln, Deutschland","Damiansweg 2, 50765 Köln, Deutschland",0:32,0:04,19.9
+,19:36,19:52,"Damiansweg 2, 50765 Köln, Deutschland","Damiansweg 9e, 50765 Köln, Deutschland",0:15,0:21,6.8
+,19:53,20:21,"Damiansweg 9e, 50765 Köln, Deutschland","Bremer Str 21, 50321 Brühl, Deutschland",0:27,0:01,32.5
+,20:46,21:14,"Bremer Str 21, 50321 Brühl, Deutschland","Berberitzenweg 12, 50769 Köln, Deutschland",0:28,0:25,33.9
+Daily Totals:,4:50,21:14,,,5:28,10:55,218.8
+,,,,,,,
+03-12-22,10:37,10:52,"Berberitzenweg 12, 50769 Köln, Deutschland","Londoner Platz, Liverpooler Pl, 50765 Köln, Deutschland",0:15,0:00,8.5
+,11:05,11:11,"Chorweiler, Londoner Pl, 50765 Köln, Deutschland","Volkhovener Weg 210, 50765 Köln, Deutschland",0:05,0:12,2.0
+,12:51,12:56,"Volkhovener Weg 210, 50765 Köln, Deutschland","Damiansweg 9c, 50765 Köln, Deutschland",0:04,1:40,1.0
+,13:03,13:16,"Bürgershof, Volkhovener Weg 214, 50765 Köln, Deutschland","Damiansweg 9c, 50765 Köln, Deutschland",0:13,0:07,4.0
+Daily Totals:,10:37,13:16,,,0:38,2:00,15.4
+,,,,,,,
+03-13-22,-,-,-,-,-,-,-
+,,,,,,,
+03-14-22,07:44,08:22,"Merianstraße, 50765 Köln, Deutschland","3H Automobile, Theodor-Heuss-Str 88, 51149 Köln, Deutschland",0:37,0:00,37.1
+,08:43,08:55,"3H Automobile, Theodor-Heuss-Str 88, 51149 Köln, Deutschland","Funk-Electronic Piciorgros, Claudiastraße 5, 51149 Köln, Deutschland",0:11,0:21,5.3
+Daily Totals:,7:44,8:55,,,0:49,0:21,42.4
+,,,,,,,
+03-15-22,-,-,-,-,-,-,-
+,,,,,,,
+03-16-22,-,-,-,-,-,-,-
+,,,,,,,
+03-17-22,-,-,-,-,-,-,-
+,,,,,,,
+03-18-22,-,-,-,-,-,-,-
+,,,,,,,
+03-19-22,-,-,-,-,-,-,-
+,,,,,,,
+03-20-22,-,-,-,-,-,-,-
+,,,,,,,
+03-21-22,-,-,-,-,-,-,-
+,,,,,,,
+03-22-22,-,-,-,-,-,-,-
+,,,,,,,
+03-23-22,-,-,-,-,-,-,-
+,,,,,,,
+Totals:,,,,,198:07,206:01,5672.6

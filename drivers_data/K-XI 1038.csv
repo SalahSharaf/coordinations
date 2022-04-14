@@ -1,0 +1,296 @@
+Kinesis Telematics & Dashcam - Individual Trips - K-XI 1038/Asim sohail Ahmad Tauseef,,,,,,,
+,,,,,,,
+Date,Start Time,End Time,Start Location,End Location,Drive Time (h:m:),Stopped Time (h:m:),Distance Travelled (kilometres)
+,,,,,,,
+02-21-22,08:53,09:05,"Im Falkenhorst 2b, 51145 Köln, Deutschland","Funk-Electronic Piciorgros, Claudiastraße 5, 51149 Köln, Deutschland",0:11,0:00,5.6
+,10:55,11:46,"Funk-Electronic Piciorgros, Claudiastraße 5, 51149 Köln, Deutschland","Alteburger Str 18, 50678 Köln, Deutschland",0:51,1:50,15.4
+,12:10,12:49,"Dönerbank, Alteburger Str, 50678 Köln, Deutschland","Kalk-Mülheimer Str 241-247, 51103 Köln, Deutschland",0:38,0:23,13.3
+,12:55,13:27,"Kalk-Mülheimer Str 241-247, 51103 Köln, Deutschland","Olpener Str 153, 51103 Köln, Deutschland",0:31,0:06,3.1
+,14:02,18:13,"Olpener Str 157, 51103 Köln, Deutschland","Taunusplatz 21, 51105 Köln, Deutschland",4:11,0:34,114.6
+,18:52,18:54,"Taunusstraße 9a, 51105 Köln, Deutschland","Gießener Str 44, 51105 Köln, Deutschland",0:01,0:39,0.4
+,19:05,19:15,"Gießener Str 44, 51105 Köln, Deutschland","Olpener Str 153, 51103 Köln, Deutschland",0:10,0:10,3.8
+,20:55,01:25,"Olpener Str 236, 51103 Köln, Deutschland","Olpener Str 262, 51103 Köln, Deutschland",4:29,1:39,143.1
+Daily Totals:,8:53,1:25,,,11:07,5:24,299.2
+,,,,,,,
+02-22-22,09:11,09:58,"Olpener Str 252, 51103 Köln, Deutschland","Olpener Str 145, 51103 Köln, Deutschland",0:47,0:00,24.5
+,13:51,14:43,"Olpener Str 145, 51103 Köln, Deutschland","Star, Siegburger Str 406, 51105 Köln, Deutschland",0:52,3:52,26.8
+,14:46,18:45,"Star, Siegburger Str 406, 51105 Köln, Deutschland","Taunusplatz 21, 51105 Köln, Deutschland",3:59,0:02,96.2
+,19:15,19:24,"Taunusplatz 21, 51105 Köln, Deutschland","Olpener Str 157, 51103 Köln, Deutschland",0:08,0:30,3.3
+,21:06,01:28,"Olpener Str 230, 51103 Köln, Deutschland","Marburger Str 2, 51103 Köln, Deutschland",4:22,1:41,154.5
+Daily Totals:,9:11,1:28,,,10:10,6:07,305.3
+,,,,,,,
+02-23-22,12:36,13:01,"Marburger Str 2, 51103 Köln, Deutschland","Funk-Electronic Piciorgros, Claudiastraße 5, 51149 Köln, Deutschland",0:25,0:00,10.7
+,14:23,14:54,"Funk-Electronic Piciorgros, Claudiastraße 5, 51149 Köln, Deutschland","Gemeinschaftsgrundschule Lustheider Straße, Lustheider Str 43, 51103 Köln, Deutschland",0:30,1:22,11.4
+,15:03,15:07,"Gemeinschaftsgrundschule Lustheider Straße, Lustheider Str 43, 51103 Köln, Deutschland","Olpener Str 244, 51103 Köln, Deutschland",0:03,0:09,1.0
+,15:25,15:44,"Olpener Str 157, 51103 Köln, Deutschland","Römisch-Germanisches Museum im Belgischen Haus, Cäcilienstraße, 50667 Köln, Deutschland",0:19,0:18,6.1
+,17:05,17:36,"Belgisches Haus, Cäcilienstraße 46, 50667 Köln, Deutschland","Olpener Str 163, 51103 Köln, Deutschland",0:30,1:20,6.8
+,19:09,21:27,"Olpener Str 248, 51103 Köln, Deutschland","Olpener Str 167, 51103 Köln, Deutschland",2:18,1:32,68.1
+Daily Totals:,12:36,21:27,,,4:07,4:43,104.2
+,,,,,,,
+02-24-22,11:03,11:16,"Olpener Str 167, 51103 Köln, Deutschland","Neusser Str 232, 50733 Köln, Deutschland",0:12,0:00,7.6
+,11:29,19:31,"Neusser Str 232, 50733 Köln, Deutschland","Olpener Str 157, 51103 Köln, Deutschland",8:02,0:12,192.9
+,21:26,22:39,"Olpener Str 240, 51103 Köln, Deutschland","Kölner Str 81, 51429 Bensberg, Deutschland",1:13,1:54,50.3
+,22:42,03:09,"Kölner Str 81, 51429 Bensberg, Deutschland","Marburger Str 2, 51103 Köln, Deutschland",4:27,0:02,139.6
+Daily Totals:,11:03,3:09,,,13:56,2:09,390.4
+,,,,,,,
+02-25-22,15:05,18:02,"Marburger Str 2, 51103 Köln, Deutschland","Weißdornweg 128, 50827 Köln, Deutschland",2:56,0:00,80.9
+,18:15,19:35,"Hainbuchenweg 11, 50827 Köln, Deutschland","Widdersdorfer Str 219, 50825 Köln, Deutschland",1:20,0:13,25.4
+,19:42,20:00,"Widdersdorfer Str 219, 50825 Köln, Deutschland","Olpener Str 157, 51103 Köln, Deutschland",0:17,0:06,12.3
+,20:53,03:14,"Olpener Str 240, 51103 Köln, Deutschland","Olpener Str 145, 51103 Köln, Deutschland",6:21,0:53,221.7
+Daily Totals:,15:05,3:14,,,10:56,1:13,340.4
+,,,,,,,
+02-26-22,13:56,14:08,"Olpener Str 143, 51103 Köln, Deutschland","Aral Self Wash, Frankfurter Str, 51103 Köln, Deutschland",0:11,0:00,4.7
+,14:09,14:31,"Aral Self Wash, Frankfurter Str, 51103 Köln, Deutschland","Drive In Autokino Köln Porz, Rudolf-Diesel-Str 36, 51149 Köln, Deutschland",0:22,0:01,12.3
+,15:18,15:46,"Drive In Autokino Köln Porz, Rudolf-Diesel-Str 36, 51149 Köln, Deutschland","Pauline-Christmann-Str 3a, 51107 Köln, Deutschland",0:28,0:46,6.1
+,16:19,16:33,"Pauline-Christmann-Str 3a, 51107 Köln, Deutschland","Banlao, Frankfurter Str, 51065 Köln, Deutschland",0:14,0:32,6.9
+,16:47,17:13,"Frankfurter Str 79, 51065 Köln, Deutschland","Olpener Str 234, 51103 Köln, Deutschland",0:26,0:14,10.8
+,17:24,18:59,"Olpener Str 230, 51103 Köln, Deutschland","Jet, Bergisch Gladbacher Str 388, 51067 Köln, Deutschland",1:34,0:10,86.9
+,19:00,22:58,"Jet, Bergisch Gladbacher Str 388, 51067 Köln, Deutschland","Olpener Str 153, 51103 Köln, Deutschland",3:58,0:01,108.9
+,23:25,06:10,"Olpener Str 234, 51103 Köln, Deutschland","Olpener Str 167, 51103 Köln, Deutschland",6:45,0:26,254.8
+Daily Totals:,13:56,6:10,,,14:00,2:13,491.5
+,,,,,,,
+02-27-22,16:01,21:07,"Olpener Str 167, 51103 Köln, Deutschland","Olpener Str 157, 51103 Köln, Deutschland",5:05,0:00,206.2
+,22:14,01:01,"Olpener Str 157, 51103 Köln, Deutschland","Marburger Str 2, 51103 Köln, Deutschland",2:46,1:07,103.1
+Daily Totals:,16:01,1:01,,,7:52,1:07,309.3
+,,,,,,,
+02-28-22,13:47,14:45,"Marburger Str 2, 51103 Köln, Deutschland","Funk-Electronic Piciorgros, Claudiastraße 5, 51149 Köln, Deutschland",0:58,0:00,21.7
+,15:00,15:06,"Funk-Electronic Piciorgros, Claudiastraße 5, 51149 Köln, Deutschland","Star, Siegburger Str 406, 51105 Köln, Deutschland",0:06,0:14,2.8
+,15:08,15:29,"Star, Siegburger Str 406, 51105 Köln, Deutschland","Ludwig-Gies-Str 18, 50769 Köln, Deutschland",0:20,0:02,27.9
+,15:30,15:36,"Ludwig-Gies-Str 18, 50769 Köln, Deutschland","Ludwig-Gies-Str 18, 50769 Köln, Deutschland",0:06,0:00,0.0
+,15:41,15:58,"Ludwig-Gies-Str 18, 50769 Köln, Deutschland","Ludwig-Gies-Str 10, 50769 Köln, Deutschland",0:17,0:04,0.1
+,16:47,17:54,"Mataréweg 49, 50769 Köln, Deutschland","Olpener Str 143, 51103 Köln, Deutschland",1:06,0:48,31.9
+Daily Totals:,13:47,17:54,,,2:55,1:10,84.5
+,,,,,,,
+03-01-22,09:10,09:12,"Marburger Str 3, 51103 Köln, Deutschland","Höhenberger Kirchweg, 51103 Köln, Deutschland",0:01,0:00,0.3
+,09:17,09:31,"Höhenberger Kirchweg, 51103 Köln, Deutschland","Funk-Electronic Piciorgros, Claudiastraße 5, 51149 Köln, Deutschland",0:14,0:05,6.3
+,14:06,15:18,"Funk-Electronic Piciorgros, Claudiastraße 5, 51149 Köln, Deutschland","Maarweg 255, 50825 Köln, Deutschland",1:12,4:34,34.3
+,15:55,17:01,"Maarweg 255, 50825 Köln, Deutschland","Maybachstraße 90, 50670 Köln, Deutschland",1:05,0:36,20.7
+,17:09,19:21,"Maybachstraße 82-86, 50670 Köln, Deutschland","Olpener Str 161, 51103 Köln, Deutschland",2:11,0:08,68.4
+Daily Totals:,9:10,19:21,,,4:45,5:24,130.0
+,,,,,,,
+03-02-22,11:21,11:46,"Olpener Str 163, 51103 Köln, Deutschland","Maybachstraße 107, 50670 Köln, Deutschland",0:25,0:00,12.2
+,11:48,12:11,"Maybachstraße 107, 50670 Köln, Deutschland","Funk-Electronic Piciorgros, Claudiastraße 5, 51149 Köln, Deutschland",0:23,0:02,13.7
+,15:57,16:15,"Funk-Electronic Piciorgros, Claudiastraße 5, 51149 Köln, Deutschland","Neuerburgstraße 1, 51103 Köln, Deutschland",0:18,3:45,5.8
+,16:26,17:09,"Neuerburgstraße 1, 51103 Köln, Deutschland","Damiansweg 2, 50765 Köln, Deutschland",0:43,0:10,16.5
+Daily Totals:,11:21,17:09,,,1:50,3:58,48.3
+,,,,,,,
+03-03-22,07:43,08:23,"Damiansweg 2, 50765 Köln, Deutschland","Funk-Electronic Piciorgros, Claudiastraße 5, 51149 Köln, Deutschland",0:39,0:00,32.9
+,12:54,13:13,"Funk-Electronic Piciorgros, Claudiastraße 5, 51149 Köln, Deutschland","Achterstraße 83;83a, 50678 Köln, Deutschland",0:18,4:31,7.7
+,13:16,13:58,"Achterstraße 83;83a, 50678 Köln, Deutschland","Diepenbeekallee 4, 50858 Köln, Deutschland",0:41,0:03,13.2
+,14:02,14:38,"Albert-Schweitzer-Grundschule, Diepenbeekallee, 50858 Köln, Deutschland","Filzengraben 16, 50676 Köln, Deutschland",0:35,0:04,11.2
+,15:07,15:22,"Filzengraben 16, 50676 Köln, Deutschland","Lidl, Siegburger Str 120, 50679 Köln, Deutschland",0:14,0:29,3.0
+,15:38,15:46,"Lidl, Siegburger Str 120, 50679 Köln, Deutschland","Star, Siegburger Str 406, 51105 Köln, Deutschland",0:07,0:16,1.4
+,15:49,15:55,"Star, Siegburger Str 406, 51105 Köln, Deutschland","Claudiastraße 3b, 51149 Köln, Deutschland",0:06,0:03,2.8
+,17:14,19:50,"Claudiastraße 3b, 51149 Köln, Deutschland","Ickten, 45470 Mülheim an der Ruhr, Deutschland",2:35,1:18,101.3
+,19:58,22:39,"Ickten, 45470 Mülheim an der Ruhr, Deutschland","Frankfurter Str 390, 51103 Köln, Deutschland",2:40,0:07,132.3
+,22:53,23:08,"Aral Self Wash, Frankfurter Str, 51103 Köln, Deutschland","Kölner Str 251, 51149 Köln, Deutschland",0:15,0:14,8.1
+,23:18,23:27,"Kölner Str 251, 51149 Köln, Deutschland","Kölner Str 259, 51149 Köln, Deutschland",0:09,0:10,0.1
+Daily Totals:,7:43,23:27,,,8:24,7:19,314.0
+,,,,,,,
+03-04-22,00:15,00:31,"Kölner Str 259, 51149 Köln, Deutschland","Aral, Kölner Str 255, 51149 Köln, Deutschland",0:16,0:00,5.6
+,00:35,01:15,"Aral, Kölner Str 255, 51149 Köln, Deutschland","Funk-Electronic Piciorgros, Claudiastraße 5, 51149 Köln, Deutschland",0:39,0:04,7.8
+,17:03,18:47,"Funk-Electronic Piciorgros, Claudiastraße 5, 51149 Köln, Deutschland","Wilhelm-Mauser-Str, 50827 Köln, Deutschland",1:44,15:47,35.8
+,18:50,20:22,"Wilhelm-Mauser-Str, 50827 Köln, Deutschland","Aral, Neusser Str 856, 50737 Köln, Deutschland",1:31,0:02,32.0
+,20:49,21:56,"Aral, Neusser Str 856, 50737 Köln, Deutschland","Star, Siegburger Str 406, 51105 Köln, Deutschland",1:06,0:27,24.8
+,21:58,22:48,"Star, Siegburger Str 406, 51105 Köln, Deutschland","C-Forum 231, Siegburger Str 231, 50679 Köln, Deutschland",0:49,0:02,19.1
+,22:53,02:30,"Poller Kirchweg 8-10, 50679 Köln, Deutschland","Raiffeisenstraße 62, 50354 Hürth, Deutschland",3:36,0:05,90.2
+Daily Totals:,0:15,2:30,,,9:45,16:29,215.3
+,,,,,,,
+03-05-22,02:37,04:21,"Raiffeisenstraße 62, 50354 Hürth, Deutschland","Funk-Electronic Piciorgros, Claudiastraße 5, 51149 Köln, Deutschland",1:44,0:00,40.6
+,07:56,08:42,"Funk-Electronic Piciorgros, Claudiastraße 5, 51149 Köln, Deutschland","Lotharstraße 30, 50937 Köln, Deutschland",0:45,3:34,16.9
+,08:46,10:34,"Lotharstraße 30, 50937 Köln, Deutschland","Kerkrader Str, 50997 Köln, Deutschland",1:48,0:03,41.5
+,10:39,11:40,"Kerkrader Str, 50997 Köln, Deutschland","ALDI Süd, Kaiserstraße 95, 51145 Köln, Deutschland",1:01,0:04,32.2
+,11:50,13:25,"ALDI Süd, Kaiserstraße 95, 51145 Köln, Deutschland","Kaufland, Ostmerheimer Str 198, 51109 Köln, Deutschland",1:34,0:10,61.8
+,13:59,14:09,"Kaufland, Ostmerheimer Str 198, 51109 Köln, Deutschland","Pfarrer-Krautwig-Str 8, 51109 Köln, Deutschland",0:10,0:33,2.5
+,14:11,14:42,"Pfarrer-Krautwig-Str 8, 51109 Köln, Deutschland","Lidl, Kölner Str 8, 51149 Köln, Deutschland",0:30,0:02,13.3
+,14:46,15:19,"Lidl, Kölner Str 8, 51149 Köln, Deutschland","Funk-Electronic Piciorgros, Claudiastraße 5, 51149 Köln, Deutschland",0:33,0:04,2.4
+,15:41,15:57,"Funk-Electronic Piciorgros, Claudiastraße 5, 51149 Köln, Deutschland","Alfred-Nobel-Str, 51145 Köln, Deutschland",0:15,0:21,6.0
+,16:12,16:15,"Alfred-Nobel-Str, 51145 Köln, Deutschland","Bergerstraße 14, 51143 Köln, Deutschland",0:03,0:15,1.0
+,16:23,16:27,"Bergerstraße 14, 51143 Köln, Deutschland","Elisenstraße 6, 51149 Köln, Deutschland",0:04,0:07,1.9
+,16:31,16:36,"Shell, Kölner Str 108, 51149 Köln, Deutschland","Funk-Electronic Piciorgros, Claudiastraße 5, 51149 Köln, Deutschland",0:04,0:03,1.4
+,17:22,18:59,"Funk-Electronic Piciorgros, Claudiastraße 5, 51149 Köln, Deutschland","Roddergasse 3, 51105 Köln, Deutschland",1:37,0:45,31.1
+,19:03,20:32,"Roddergasse 3, 51105 Köln, Deutschland","Kölner Str 251, 51149 Köln, Deutschland",1:29,0:03,42.0
+,20:35,04:45,"Kölner Str 251, 51149 Köln, Deutschland","Aral, Kölner Str 255, 51149 Köln, Deutschland",8:10,0:02,258.1
+Daily Totals:,2:37,4:45,,,19:53,6:14,552.8
+,,,,,,,
+03-06-22,04:52,05:08,"Aral, Kölner Str 255, 51149 Köln, Deutschland","Funk-Electronic Piciorgros, Claudiastraße 5, 51149 Köln, Deutschland",0:16,0:00,0.5
+,08:02,09:12,"Funk-Electronic Piciorgros, Claudiastraße 5, 51149 Köln, Deutschland","Bergerstraße 14, 51143 Köln, Deutschland",1:09,2:53,23.7
+,10:00,13:31,"Bergerstraße 14, 51143 Köln, Deutschland","Auf der Landau 47, 50354 Hürth, Deutschland",3:31,0:47,80.6
+,13:41,14:59,"Auf der Landau 47, 50354 Hürth, Deutschland","Star, Siegburger Str 406, 51105 Köln, Deutschland",1:18,0:09,34.6
+,15:01,15:13,"Star, Siegburger Str 406, 51105 Köln, Deutschland","Funk-Electronic Piciorgros, Claudiastraße 5, 51149 Köln, Deutschland",0:12,0:01,2.8
+,17:36,18:51,"Claudiastraße 3b, 51149 Köln, Deutschland","Aral, Kölner Str 255, 51149 Köln, Deutschland",1:15,2:22,37.9
+,18:53,18:54,"Aral, Kölner Str 255, 51149 Köln, Deutschland","Kölner Str 251, 51149 Köln, Deutschland",0:01,0:01,0.1
+,18:57,22:06,"Kölner Str 251, 51149 Köln, Deutschland","Funk-Electronic Piciorgros, Claudiastraße 5, 51149 Köln, Deutschland",3:08,0:03,87.6
+Daily Totals:,4:52,22:06,,,10:54,6:20,267.7
+,,,,,,,
+03-07-22,07:02,07:10,"Funk-Electronic Piciorgros, Claudiastraße 5, 51149 Köln, Deutschland","Bergerstraße 14, 51143 Köln, Deutschland",0:08,0:00,3.4
+,07:33,08:19,"Bergerstraße 14, 51143 Köln, Deutschland","Funk-Electronic Piciorgros, Claudiastraße 5, 51149 Köln, Deutschland",0:45,0:22,15.4
+,09:10,11:13,"Claudiastraße 3b, 51149 Köln, Deutschland","Lidl, Friedrich-Naumann-Str 1, 51145 Köln, Deutschland",2:02,0:50,44.6
+,11:15,11:18,"Rudolf-Diesel-Straße, Theodor-Heuss-Str, 51149 Köln, Deutschland","real, Rudolf-Diesel-Str 32, 51149 Köln, Deutschland",0:03,0:01,0.8
+,11:42,11:52,"real, Rudolf-Diesel-Str 32, 51149 Köln, Deutschland","Bergerstraße 14, 51143 Köln, Deutschland",0:09,0:23,2.7
+,12:01,12:12,"Bergerstraße 14, 51143 Köln, Deutschland","Funk-Electronic Piciorgros, Claudiastraße 5, 51149 Köln, Deutschland",0:10,0:09,3.4
+,12:12,15:28,"Funk-Electronic Piciorgros, Claudiastraße 5, 51149 Köln, Deutschland","Star, Siegburger Str 406, 51105 Köln, Deutschland",3:15,0:00,83.3
+,15:30,15:39,"Star, Siegburger Str 406, 51105 Köln, Deutschland","Claudiastraße 3b, 51149 Köln, Deutschland",0:08,0:02,2.8
+Daily Totals:,7:02,15:39,,,6:46,1:50,156.4
+,,,,,,,
+03-08-22,07:24,10:08,"Claudiastraße 3b, 51149 Köln, Deutschland","Claudiastraße 3b, 51149 Köln, Deutschland",2:44,0:00,58.1
+,10:31,11:10,"Claudiastraße 3b, 51149 Köln, Deutschland","Poller Kirchweg, 50679 Köln, Deutschland",0:39,0:22,9.5
+,11:15,12:00,"Poller Kirchweg, 50679 Köln, Deutschland","Poller Kirchweg, 50679 Köln, Deutschland",0:45,0:04,17.3
+,12:52,13:19,"Poller Kirchweg, 50679 Köln, Deutschland","Claudiastraße 3b, 51149 Köln, Deutschland",0:27,0:51,5.3
+,14:22,14:39,"Claudiastraße 3b, 51149 Köln, Deutschland","Star, Siegburger Str 406, 51105 Köln, Deutschland",0:16,1:03,5.8
+,14:41,15:09,"Star, Siegburger Str 406, 51105 Köln, Deutschland","Funk-Electronic Piciorgros, Claudiastraße 5, 51149 Köln, Deutschland",0:27,0:02,2.8
+,17:52,18:01,"Funk-Electronic Piciorgros, Claudiastraße 5, 51149 Köln, Deutschland","Kölner Str 251, 51149 Köln, Deutschland",0:08,2:43,0.6
+,18:11,18:31,"DHL Packstation, Kölner Str, 51149 Köln, Deutschland","Aral, Kölner Str 255, 51149 Köln, Deutschland",0:20,0:09,4.5
+,18:51,18:53,"Kölner Str 259, 51149 Köln, Deutschland","Kölner Str 251, 51149 Köln, Deutschland",0:02,0:19,0.1
+,18:56,21:30,"Kölner Str 251, 51149 Köln, Deutschland","Aral, Siegburger Str 116a, 50679 Köln, Deutschland",2:34,0:03,61.9
+,21:39,22:17,"Aral, Siegburger Str 116a, 50679 Köln, Deutschland","Funk-Electronic Piciorgros, Claudiastraße 5, 51149 Köln, Deutschland",0:38,0:08,4.2
+,22:22,00:43,"Funk-Electronic Piciorgros, Claudiastraße 5, 51149 Köln, Deutschland","Aral, Kölner Str 255, 51149 Köln, Deutschland",2:20,0:04,43.6
+Daily Totals:,7:24,0:43,,,11:25,5:53,213.6
+,,,,,,,
+03-09-22,00:46,00:51,"Aral, Kölner Str 255, 51149 Köln, Deutschland","Funk-Electronic Piciorgros, Claudiastraße 5, 51149 Köln, Deutschland",0:04,0:00,0.5
+,01:24,01:25,"Funk-Electronic Piciorgros, Claudiastraße 5, 51149 Köln, Deutschland","Funk-Electronic Piciorgros, Claudiastraße 5, 51149 Köln, Deutschland",0:00,0:33,0.0
+,18:40,19:02,"Funk-Electronic Piciorgros, Claudiastraße 5, 51149 Köln, Deutschland","Quatermarkt 5, 50667 Köln, Deutschland",0:22,17:14,7.6
+,20:03,20:27,"Heumarkt, Pipinstraße, 50667 Köln, Deutschland","Funk-Electronic Piciorgros, Claudiastraße 5, 51149 Köln, Deutschland",0:24,1:00,6.8
+Daily Totals:,0:46,20:27,,,0:51,18:49,14.9
+,,,,,,,
+03-10-22,07:38,10:08,"Funk-Electronic Piciorgros, Claudiastraße 5, 51149 Köln, Deutschland","Funk-Electronic Piciorgros, Claudiastraße 5, 51149 Köln, Deutschland",2:30,0:00,83.9
+,10:13,14:24,"Claudiastraße 3b, 51149 Köln, Deutschland","Access, Siegburger Str 490, 51105 Köln, Deutschland",4:10,0:04,61.8
+,14:27,14:34,"Access, Siegburger Str 490, 51105 Köln, Deutschland","Claudiastraße 3b, 51149 Köln, Deutschland",0:06,0:03,2.5
+Daily Totals:,7:38,14:34,,,6:47,0:08,148.1
+,,,,,,,
+03-11-22,16:10,18:36,"Funk-Electronic Piciorgros, Claudiastraße 5, 51149 Köln, Deutschland","Shell, Schloß Röttgen Ost, 51149 Köln, Deutschland",2:26,0:00,67.7
+,18:42,20:41,"Shell, Schloß Röttgen Ost, 51149 Köln, Deutschland","Esso, Höninger Weg 12-14, 50969 Köln, Deutschland",1:58,0:06,41.9
+,20:58,22:41,"Esso, Höninger Weg, Köln, Deutschland","658, Cäcilienkloster, 50676 Köln, Deutschland",1:42,0:17,35.5
+,22:56,01:06,"Caecilium, Cäcilienkloster, 50676 Köln, Deutschland","Am Steinbrink, 41515 Grevenbroich, Deutschland",2:10,0:15,89.8
+Daily Totals:,16:10,1:06,,,8:17,0:38,234.9
+,,,,,,,
+03-12-22,01:11,03:59,"Düsseldorfer Str 152, 41515 Grevenbroich, Deutschland","Aral, Kölner Str 255, 51149 Köln, Deutschland",2:48,0:00,124.6
+,04:02,04:10,"Aral, Kölner Str 255, 51149 Köln, Deutschland","Funk-Electronic Piciorgros, Claudiastraße 5, 51149 Köln, Deutschland",0:08,0:02,0.5
+,07:52,09:46,"Funk-Electronic Piciorgros, Claudiastraße 5, 51149 Köln, Deutschland","Bait un-Nasr - Ahmadiyya-Gemeinde Köln, Eichhornstraße 2-4, 50735 Köln, Deutschland",1:53,3:42,34.0
+,09:51,13:17,"Bait un-Nasr - Ahmadiyya-Gemeinde Köln, Eichhornstraße 2-4, 50735 Köln, Deutschland","An St. Katharinen 4, 50678 Köln, Deutschland",3:25,0:05,72.1
+,13:20,13:22,"An St. Katharinen 2, 50678 Köln, Deutschland","Severin-Schule, Weberstraße, 50676 Köln, Deutschland",0:02,0:03,0.3
+,13:35,13:45,"Severin-Schule, Weberstraße, 50676 Köln, Deutschland","Poller Kirchweg, 50679 Köln, Deutschland",0:09,0:12,3.2
+,13:53,15:37,"Poller Kirchweg 13, 50679 Köln, Deutschland","Access, Siegburger Str 490, 51105 Köln, Deutschland",1:44,0:07,29.5
+,15:41,16:48,"Access, Siegburger Str 490, 51105 Köln, Deutschland","Funk-Electronic Piciorgros, Claudiastraße 5, 51149 Köln, Deutschland",1:07,0:03,42.0
+,17:24,19:12,"Funk-Electronic Piciorgros, Claudiastraße 5, 51149 Köln, Deutschland","Im Sionstal 18, 50678 Köln, Deutschland",1:48,0:35,50.6
+,19:24,20:02,"Im Sionstal 18, 50678 Köln, Deutschland","Aral, Siegburger Str 116a, 50679 Köln, Deutschland",0:37,0:12,12.9
+,20:18,22:20,"Aral, Siegburger Str 116a, 50679 Köln, Deutschland","Heinrich-Lübke-Ufer 12, 50996 Köln, Deutschland",2:02,0:16,63.2
+,22:24,02:28,"Heinrich-Lübke-Ufer 12, 50996 Köln, Deutschland","Shell, Neusser Str, 50733 Köln, Deutschland",4:03,0:04,98.9
+Daily Totals:,1:11,2:28,,,19:50,5:26,531.8
+,,,,,,,
+03-13-22,02:32,04:41,"Shell, Neusser Str, 50733 Köln, Deutschland","Aral, Kölner Str 255, 51149 Köln, Deutschland",2:08,0:00,56.3
+,04:44,04:55,"Aral, Kölner Str 255, 51149 Köln, Deutschland","Funk-Electronic Piciorgros, Claudiastraße 5, 51149 Köln, Deutschland",0:11,0:02,0.5
+,08:11,09:03,"Funk-Electronic Piciorgros, Claudiastraße 5, 51149 Köln, Deutschland","Dillenburger Str 97n, 51105 Köln, Deutschland",0:52,3:16,21.1
+,09:05,11:49,"Dillenburger Str 97n, 51105 Köln, Deutschland","Katholische Kindertagesstätte St. Josef, Josefstraße 38, 51143 Köln, Deutschland",2:43,0:01,55.5
+,11:57,13:24,"Katholische Kindertagesstätte St. Josef, Josefstraße 38, 51143 Köln, Deutschland","P + R Benzelrath, Benzelrath (Stadtbahn), 50226 Frechen, Deutschland",1:26,0:08,49.8
+,13:32,13:42,"P + R Benzelrath, Benzelrath (Stadtbahn), 50226 Frechen, Deutschland","P+R Haus Vorst, Emmy-Noether-Str, 50858 Köln, Deutschland",0:10,0:07,6.0
+,13:46,15:44,"P+R Haus Vorst, Emmy-Noether-Str, 50858 Köln, Deutschland","Access, Siegburger Str 490, 51105 Köln, Deutschland",1:57,0:04,53.7
+,15:46,15:55,"Access, Siegburger Str 490, 51105 Köln, Deutschland","Funk-Electronic Piciorgros, Claudiastraße 5, 51149 Köln, Deutschland",0:09,0:01,2.5
+,17:15,19:31,"Funk-Electronic Piciorgros, Claudiastraße 5, 51149 Köln, Deutschland","Im Weichserhof, 50678 Köln, Deutschland",2:16,1:19,80.3
+,19:41,20:11,"Im Sionstal, 50678 Köln, Deutschland","Aral, Kölner Str 255, 51149 Köln, Deutschland",0:29,0:09,6.9
+,21:37,23:34,"Aral, Kölner Str 255, 51149 Köln, Deutschland","Burns Art Hotel Cologne, Adam-Stegerwald-Str 9, 51063 Köln, Deutschland",1:56,1:26,45.0
+,23:48,01:58,"Burns Art Hotel Cologne, Adam-Stegerwald-Str 9, 51063 Köln, Deutschland","Aral, Kölner Str 255, 51149 Köln, Deutschland",2:10,0:14,81.0
+Daily Totals:,2:32,1:58,,,16:33,6:53,458.7
+,,,,,,,
+03-14-22,02:02,02:05,"Aral, Kölner Str 255, 51149 Köln, Deutschland","Funk-Electronic Piciorgros, Claudiastraße 5, 51149 Köln, Deutschland",0:03,0:00,0.5
+,07:07,08:43,"Funk-Electronic Piciorgros, Claudiastraße 5, 51149 Köln, Deutschland","Lidl, Bonner Wall 114-116, 50677 Köln, Deutschland",1:35,5:02,21.8
+,08:54,09:03,"Bonner Wall 118b, 50677 Köln, Deutschland","Poller Kirchweg, 50679 Köln, Deutschland",0:09,0:11,4.3
+,09:12,11:40,"Poller Kirchweg, 50679 Köln, Deutschland","Bait un-Nasr - Ahmadiyya-Gemeinde Köln, Eichhornstraße 2-4, 50735 Köln, Deutschland",2:27,0:08,58.3
+,11:57,14:09,"Bait un-Nasr - Ahmadiyya-Gemeinde Köln, Eichhornstraße 2-4, 50735 Köln, Deutschland","In der Westhovener Aue, 51149 Köln, Deutschland",2:11,0:17,28.7
+,14:17,14:20,"In der Westhovener Aue, 51149 Köln, Deutschland","Access, Siegburger Str 490, 51105 Köln, Deutschland",0:03,0:07,1.4
+,14:20,14:21,"Access, Siegburger Str 490, 51105 Köln, Deutschland","Access, Siegburger Str 490, 51105 Köln, Deutschland",0:00,0:00,0.0
+,14:27,14:47,"Siegburger Str 479, 51105 Köln, Deutschland","Funk-Electronic Piciorgros, Claudiastraße 5, 51149 Köln, Deutschland",0:19,0:06,2.7
+,17:04,18:23,"Funk-Electronic Piciorgros, Claudiastraße 5, 51149 Köln, Deutschland","Star, Siegburger Str 406, 51105 Köln, Deutschland",1:19,2:16,28.6
+,18:34,18:43,"Star, Siegburger Str 406, 51105 Köln, Deutschland","Aral, Kölner Str 255, 51149 Köln, Deutschland",0:08,0:10,2.2
+,18:43,19:30,"Aral, Kölner Str 255, 51149 Köln, Deutschland","Fleischmengergasse 29, 50676 Köln, Deutschland",0:47,0:00,20.2
+,19:41,20:00,"Zentralbibliothek, Josef-Haubrich-Hof 1, 50676 Köln, Deutschland","Aral, Kölner Str 255, 51149 Köln, Deutschland",0:19,0:10,7.7
+,20:47,20:58,"Aral, Kölner Str 255, 51149 Köln, Deutschland","Rolshover Straße, Rolshover Str, 51105 Köln, Deutschland",0:11,0:46,4.6
+,21:02,21:15,"Rolshover Straße, Rolshover Str, 51105 Köln, Deutschland","Funk-Electronic Piciorgros, Claudiastraße 5, 51149 Köln, Deutschland",0:12,0:03,5.1
+,21:20,23:50,"Funk-Electronic Piciorgros, Claudiastraße 5, 51149 Köln, Deutschland","Aral, Kölner Str 255, 51149 Köln, Deutschland",2:30,0:05,79.3
+,23:53,00:02,"Aral, Kölner Str 255, 51149 Köln, Deutschland","Funk-Electronic Piciorgros, Claudiastraße 5, 51149 Köln, Deutschland",0:09,0:02,0.5
+Daily Totals:,2:02,0:02,,,12:28,9:31,266.0
+,,,,,,,
+03-15-22,07:20,08:47,"Claudiastraße 3b, 51149 Köln, Deutschland","Parkplatz Stindertal, Stindertal, 40699 Erkrath, Deutschland",1:26,0:00,85.4
+,09:08,10:39,"Parkplatz Stindertal, Stindertal, 40699 Erkrath, Deutschland","Bergerstraße 14, 51143 Köln, Deutschland",1:30,0:20,62.5
+,12:02,14:22,"Josefstraße 81, 51143 Köln, Deutschland","Robinienweg, 50968 Köln, Deutschland",2:20,1:23,55.7
+,14:44,15:08,"Robinienweg, 50968 Köln, Deutschland","Access, Siegburger Str 490, 51105 Köln, Deutschland",0:24,0:21,10.6
+,15:10,15:52,"Access, Siegburger Str 490, 51105 Köln, Deutschland","Funk-Electronic Piciorgros, Claudiastraße 5, 51149 Köln, Deutschland",0:41,0:01,2.5
+Daily Totals:,7:20,15:52,,,6:24,2:07,216.6
+,,,,,,,
+03-16-22,07:17,08:37,"Funk-Electronic Piciorgros, Claudiastraße 5, 51149 Köln, Deutschland","ALDI Süd, Kaiserstraße 95, 51145 Köln, Deutschland",1:19,0:00,36.9
+,08:51,08:58,"ALDI Süd, Kaiserstraße 95, 51145 Köln, Deutschland","Bergerstraße 14, 51143 Köln, Deutschland",0:06,0:14,1.5
+,09:10,09:55,"Bergerstraße 14, 51143 Köln, Deutschland","Funk-Electronic Piciorgros, Claudiastraße 5, 51149 Köln, Deutschland",0:45,0:11,3.4
+,10:16,11:43,"Funk-Electronic Piciorgros, Claudiastraße 5, 51149 Köln, Deutschland","Sülzburgstraße 64, 50937 Köln, Deutschland",1:26,0:21,32.5
+,11:51,13:01,"Sülzburgstraße 27, 50937 Köln, Deutschland","Am Grauen Stein, 51105 Köln, Deutschland",1:10,0:07,9.9
+,13:21,14:44,"Am Grauen Stein, 51105 Köln, Deutschland","Ektra, Neuenhofstraße, 51149 Köln, Deutschland",1:23,0:19,58.5
+,14:49,15:00,"Ektra, Neuenhofstraße, 51149 Köln, Deutschland","Funk-Electronic Piciorgros, Claudiastraße 5, 51149 Köln, Deutschland",0:11,0:04,4.3
+,16:43,17:44,"Funk-Electronic Piciorgros, Claudiastraße 5, 51149 Köln, Deutschland","ALDI Süd, Stollwerckstraße 6, 51149 Köln, Deutschland",1:01,1:43,20.2
+,17:57,18:00,"ALDI Süd, Stollwerckstraße 6, 51149 Köln, Deutschland","Funk-Electronic Piciorgros, Claudiastraße 5, 51149 Köln, Deutschland",0:02,0:12,0.3
+,18:06,19:17,"Funk-Electronic Piciorgros, Claudiastraße 5, 51149 Köln, Deutschland","Kölner Str 259, 51149 Köln, Deutschland",1:11,0:06,38.3
+,20:11,23:08,"Kölner Str 259, 51149 Köln, Deutschland","Funk-Electronic Piciorgros, Claudiastraße 5, 51149 Köln, Deutschland",2:57,0:53,107.2
+Daily Totals:,7:17,23:08,,,11:37,4:14,312.9
+,,,,,,,
+03-17-22,16:54,18:09,"Funk-Electronic Piciorgros, Claudiastraße 5, 51149 Köln, Deutschland","Forensische Psychiatrie der LVR-Klinik Köln, Porzer Ringstraße 25, 51149 Köln, Deutschland",1:14,0:00,23.9
+,18:12,18:24,"Forensische Psychiatrie der LVR-Klinik Köln, Porzer Ringstraße 25, 51149 Köln, Deutschland","Kölner Str 259, 51149 Köln, Deutschland",0:12,0:02,1.2
+,18:33,19:30,"Aral, Kölner Str 255, 51149 Köln, Deutschland","Handwaschboxen, Oskar-Jäger-Str, 50825 Köln, Deutschland",0:57,0:08,15.2
+,19:32,21:14,"Handwaschboxen, Oskar-Jäger-Str, 50825 Köln, Deutschland","Kölner Str 251, 51149 Köln, Deutschland",1:41,0:01,29.1
+,21:18,22:43,"Kölner Str 251, 51149 Köln, Deutschland","Aral, Kölner Str 255, 51149 Köln, Deutschland",1:24,0:04,44.8
+,23:19,01:12,"Aral, Kölner Str 255, 51149 Köln, Deutschland","Funk-Electronic Piciorgros, Claudiastraße 5, 51149 Köln, Deutschland",1:52,0:35,51.9
+Daily Totals:,16:54,1:12,,,7:24,0:52,166.1
+,,,,,,,
+03-18-22,16:20,16:56,"Funk-Electronic Piciorgros, Claudiastraße 5, 51149 Köln, Deutschland","Funk-Electronic Piciorgros, Claudiastraße 5, 51149 Köln, Deutschland",0:35,0:00,0.0
+,17:56,19:39,"Funk-Electronic Piciorgros, Claudiastraße 5, 51149 Köln, Deutschland","Lidl, Siegburger Str 120, 50679 Köln, Deutschland",1:42,0:59,35.4
+,20:08,21:44,"Lidl, Siegburger Str 120, 50679 Köln, Deutschland","Lidl, Leyendeckerstraße 2a, 50825 Köln, Deutschland",1:35,0:29,32.2
+,21:55,22:56,"Lidl, Leyendeckerstraße 2a, 50825 Köln, Deutschland","REWE City, Vogelsanger Str 16 - 18, 50823 Köln, Deutschland",1:00,0:11,16.8
+,23:05,23:41,"DHL Packstation, Vogelsanger Str, 50823 Köln, Deutschland","Poller Kirchweg 8-10, 50679 Köln, Deutschland",0:35,0:09,8.7
+,23:46,03:50,"Poller Kirchweg 8-10, 50679 Köln, Deutschland","Aral, Kölner Str 255, 51149 Köln, Deutschland",4:04,0:05,107.3
+Daily Totals:,16:20,3:50,,,9:33,1:56,200.3
+,,,,,,,
+03-19-22,03:54,04:07,"Aral, Kölner Str 255, 51149 Köln, Deutschland","Funk-Electronic Piciorgros, Claudiastraße 5, 51149 Köln, Deutschland",0:12,0:00,0.5
+,07:56,09:26,"Funk-Electronic Piciorgros, Claudiastraße 5, 51149 Köln, Deutschland","Poller Kirchweg 8-10, 50679 Köln, Deutschland",1:30,3:49,23.9
+,09:34,10:12,"Poller Kirchweg 8-10, 50679 Köln, Deutschland","Katholische Kindertagesstätte St. Josef, Josefstraße 38, 51143 Köln, Deutschland",0:37,0:07,7.8
+,10:28,11:17,"Katholische Kindertagesstätte St. Josef, Josefstraße 38, 51143 Köln, Deutschland","Maarstraße 63, 53227 Bonn, Deutschland",0:48,0:15,31.2
+,11:27,13:27,"Maarstraße 63, 53227 Bonn, Deutschland","Bait un-Nasr - Ahmadiyya-Gemeinde Köln, Eichhornstraße 2-4, 50735 Köln, Deutschland",1:59,0:10,62.8
+,14:16,14:19,"Bait un-Nasr - Ahmadiyya-Gemeinde Köln, Eichhornstraße 2-4, 50735 Köln, Deutschland","Bait un-Nasr - Ahmadiyya-Gemeinde Köln, Eichhornstraße 2-4, 50735 Köln, Deutschland",0:03,0:49,0.1
+,14:25,16:11,"Bait un-Nasr - Ahmadiyya-Gemeinde Köln, Eichhornstraße 2-4, 50735 Köln, Deutschland","Access, Siegburger Str 490, 51105 Köln, Deutschland",1:45,0:05,31.0
+,16:13,16:22,"Access, Siegburger Str 490, 51105 Köln, Deutschland","Funk-Electronic Piciorgros, Claudiastraße 5, 51149 Köln, Deutschland",0:09,0:02,2.5
+,17:30,19:09,"Funk-Electronic Piciorgros, Claudiastraße 5, 51149 Köln, Deutschland","Wilhelm-Mauser-Str, 50827 Köln, Deutschland",1:39,1:07,45.1
+,19:18,21:00,"Wilhelm-Mauser-Straße, Wilhelm-Mauser-Str, 50827 Köln, Deutschland","Am Alten Ufer, 50668 Köln, Deutschland",1:42,0:08,26.9
+,21:20,00:36,"Goldgasse 2, 50668 Köln, Deutschland","Arnulfstraße 10, 50937 Köln, Deutschland",3:16,0:19,61.5
+Daily Totals:,3:54,0:36,,,13:45,6:56,293.2
+,,,,,,,
+03-20-22,00:39,05:08,"Arnulfstraße 8, 50937 Köln, Deutschland","Funk-Electronic Piciorgros, Claudiastraße 5, 51149 Köln, Deutschland",4:28,0:00,122.9
+,08:12,10:04,"Funk-Electronic Piciorgros, Claudiastraße 5, 51149 Köln, Deutschland","Katholische Kindertagesstätte St. Josef, Josefstraße 38, 51143 Köln, Deutschland",1:52,3:03,87.7
+,10:51,15:50,"Katholische Kindertagesstätte St. Josef, Josefstraße 38, 51143 Köln, Deutschland","Star, Brühler Str 274, 50968 Köln, Deutschland",4:59,0:47,137.9
+,15:59,16:16,"Star, Brühler Str 274, 50968 Köln, Deutschland","Claudiastraße 3b, 51149 Köln, Deutschland",0:16,0:09,8.7
+,18:42,22:56,"Claudiastraße 3b, 51149 Köln, Deutschland","Pettenkoferstraße 2, 50823 Köln, Deutschland",4:13,2:26,112.6
+,23:04,01:59,"Pettenkoferstraße 2, 50823 Köln, Deutschland","Aral, Kölner Str 255, 51149 Köln, Deutschland",2:54,0:07,83.8
+Daily Totals:,0:39,1:59,,,18:45,6:34,553.6
+,,,,,,,
+03-21-22,02:02,02:05,"Aral, Kölner Str 255, 51149 Köln, Deutschland","Funk-Electronic Piciorgros, Claudiastraße 5, 51149 Köln, Deutschland",0:02,0:00,0.5
+,07:23,10:20,"Funk-Electronic Piciorgros, Claudiastraße 5, 51149 Köln, Deutschland","Rolshover Kirchweg 76, 51105 Köln, Deutschland",2:56,5:18,47.9
+,10:40,11:59,"Rolshover Kirchweg 78, 51105 Köln, Deutschland","Jakob-Kneip-Str 19, 51105 Köln, Deutschland",1:18,0:20,23.2
+,12:02,12:16,"Jakob-Kneip-Str 19, 51105 Köln, Deutschland","Funk-Electronic Piciorgros, Claudiastraße 5, 51149 Köln, Deutschland",0:13,0:02,3.7
+,13:34,15:00,"Funk-Electronic Piciorgros, Claudiastraße 5, 51149 Köln, Deutschland","Funk-Electronic Piciorgros, Claudiastraße 5, 51149 Köln, Deutschland",1:25,1:18,26.5
+,17:26,17:51,"Funk-Electronic Piciorgros, Claudiastraße 5, 51149 Köln, Deutschland","Haus Neuerburg, Gülichplatz, 50667 Köln, Deutschland",0:25,2:25,7.6
+,18:37,19:04,"Wallraf-Richartz-Museum & Foundation Corboud, Obenmarspforten 40, 50667 Köln, Deutschland","Kölner Str 259, 51149 Köln, Deutschland",0:26,0:46,9.0
+,19:12,19:13,"Kölner Str 259, 51149 Köln, Deutschland","DHL Packstation, Kölner Str, 51149 Köln, Deutschland",0:01,0:08,0.1
+,19:23,19:25,"DHL Packstation, Kölner Str, 51149 Köln, Deutschland","Kölner Str 259, 51149 Köln, Deutschland",0:02,0:09,0.1
+,20:15,21:26,"Kölner Str 259, 51149 Köln, Deutschland","Funk-Electronic Piciorgros, Claudiastraße 5, 51149 Köln, Deutschland",1:11,0:49,34.8
+Daily Totals:,2:02,21:26,,,8:03,11:19,153.4
+,,,,,,,
+03-22-22,07:02,08:15,"Funk-Electronic Piciorgros, Claudiastraße 5, 51149 Köln, Deutschland","Funk-Electronic Piciorgros, Claudiastraße 5, 51149 Köln, Deutschland",1:12,0:00,8.0
+,08:19,08:31,"Funk-Electronic Piciorgros, Claudiastraße 5, 51149 Köln, Deutschland","Bergerstraße 14, 51143 Köln, Deutschland",0:11,0:04,3.7
+,10:09,13:55,"Bergerstraße 14, 51143 Köln, Deutschland","Neue Str, 51149 Köln, Deutschland",3:46,1:37,34.2
+,13:57,14:54,"Neue Str, 51149 Köln, Deutschland","Bundespolizei Köln Hbf, Breslauer Pl, 50668 Köln, Deutschland",0:57,0:01,21.1
+,14:55,18:05,"Bundespolizei Köln Hbf, Breslauer Pl, 50668 Köln, Deutschland","Claudiastraße 3b, 51149 Köln, Deutschland",3:10,0:00,92.4
+Daily Totals:,7:02,18:05,,,9:18,1:44,159.4
+,,,,,,,
+03-23-22,08:03,08:13,"Claudiastraße 3b, 51149 Köln, Deutschland","Bergerstraße 14, 51143 Köln, Deutschland",0:10,0:00,3.4
+,09:57,10:57,"Bergerstraße 14, 51143 Köln, Deutschland","Claudiastraße 3b, 51149 Köln, Deutschland",0:59,1:43,3.4
+,11:12,11:56,"Claudiastraße 3b, 51149 Köln, Deutschland","Bait un-Nasr - Ahmadiyya-Gemeinde Köln, Eichhornstraße 2-4, 50735 Köln, Deutschland",0:44,0:15,16.7
+,12:07,14:49,"Bait un-Nasr - Ahmadiyya-Gemeinde Köln, Eichhornstraße 2-4, 50735 Köln, Deutschland","Aral, Longericher Str, 50739 Köln, Deutschland",2:42,0:10,43.3
+,14:52,16:51,"Aral, Longericher Str, 50739 Köln, Deutschland","Claudiastraße 3b, 51149 Köln, Deutschland",1:59,0:02,45.7
+Daily Totals:,8:03,16:51,,,6:36,2:12,112.5
+,,,,,,,
+Totals:,,,,,305:10,157:04,8045.5
